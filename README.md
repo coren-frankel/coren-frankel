@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @coren-frankel
-- 👀 I’m interested in Philosophy, Film, Videogames, and Puzzles.
-- 🌱 I’m currently learning Web Fundamentals.
+- 👋 Hi, I’m @coren-frankel, but you can call me Kern.
+- 👀 I’m interested in Philosophy, Literature in Film & Videogames, and Puzzles.
+- 🌱 I’m currently learning Web Fundamentals, soon on to Python.
 - 💞️ I’m looking to collaborate on the next big thing!
 - 📫 How to reach me www.linkedin.com/in/coren-frankel
 
