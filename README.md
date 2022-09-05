@@ -44,9 +44,11 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white)
 - 🏟️ My Deployments:![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-black?style=plastic&logo=github&logoColor=black&labelColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=plastic&logo=amazon-aws&labelColor=232F3E&logoColor=FF9900)
-- 📊 Ma Stats:
-<div style="">
+- 📊 Ma Stats:<hr/>
+<div align=center>
   <img align="left" alt="coren-frankel's Github TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=cobalt2&show_icons=true" />
   <img align="right" alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=coren-frankel&theme=outrun&show_icons=true" />
 </div>
+<p align=center>
 🤟Bye
+</p>
