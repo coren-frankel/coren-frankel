@@ -28,6 +28,7 @@
 - 🕊️ My Template Engines:![Jinja](https://img.shields.io/badge/jinja2-black?style=plastic&logo=jinja&logoColor=black&labelColor=white)
 <img width=44 height=18 alt="JSP" style="background-size:cover;" src="https://logodix.com/logo/2109175.png"/>![JSX](https://img.shields.io/badge/JSX-5ED2F3?style=plastic&logo=react&labelColor=black)
 - 📚 My Frameworks & Libraries:![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-121C2D?style=plastic&logo=tailwind-css)
 ![Flask](https://img.shields.io/badge/-Flask-0B735E?style=plastic&logo=Flask)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
