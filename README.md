@@ -1,9 +1,8 @@
-- 📖 Hello There, I’m @coren-frankel, but you can call me Kern.
+- 📖 Hello There, the name is Coren Frankel, but you can call me Kern.
 - 🪝 I’m interested in Philosophy, Literature in Film & Videogames, Puzzles, and Learning new things.
-- 🏔️ Living in Denver, CO (for now...?)
-- 🎓 B.A. degree in Philosophy; B.S. degree in Political Science; Coding Dojo Full-Stack Developer Certificate.
-- 🧂 10+ years in all of the roles in the Food Service Industry
+- 🏔️ Living in Denver, CO
 - 💭 I’m currently learning to build full-stack applications with MERN stack.
+- 🦫 Currently working on MERN application <a href="https://github.com/coren-frankel/LookAchoo">LookAchoo</a>
 - 🤙 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-coren.frankel@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:coren.frankel@gmail.com)](mailto:coren.frankel@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/coren--frankel-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coren-frankel/)](https://www.linkedin.com/in/coren-frankel/)
