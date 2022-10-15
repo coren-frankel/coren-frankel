@@ -1,9 +1,9 @@
-- 📖 Hello There, the name is Coren Frankel, but you can call me Kern.
-- 🪝 I’m interested in Philosophy, Literature in Film & Videogames, Puzzles, and Learning new things.
+<h1 align="center">Hello There, I'm Coren. You can call me Kern.</h1>
+- 🪝 I’m interested in Philosophy, Literature in Film & Videogames, Puzzles/Problems to Solve, and Learning new things.
 - 🏔️ Living in Denver, CO
 - 💭 I’m currently learning to build full-stack applications with MERN stack.
 - 🦫 Currently working on MERN application <a href="https://github.com/coren-frankel/LookAchoo">LookAchoo</a>
-- 🤙 How to reach me: 
+<h4 align="center">🤙 How to reach me:</h4>
 [![Gmail Badge](https://img.shields.io/badge/-coren.frankel@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:coren.frankel@gmail.com)](mailto:coren.frankel@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/coren--frankel-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coren-frankel/)](https://www.linkedin.com/in/coren-frankel/)
 [![StackOverflow Badge](https://img.shields.io/badge/-stackoverflow-black?style=plastic&logo=Stack-Overflow)](https://stackoverflow.com/users/19356052/unclebabykern)
