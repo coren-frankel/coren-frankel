@@ -10,7 +10,7 @@
 </p>
 
 - 💭 Currently learning MERN stack, CI/CD pipelines, API development and consumption.
-- 🦫 Actively working on <a href="https://github.com/coren-frankel/LookAchoo">LookAchoo</a> || <a href="https://github.com/coren-frankel/VolatilitySurf">VolatilitySurf</a> || <a href="https://github.com/coren-frankel/meal_picker" rel="piqr-Recipe Retrieval App">piqr</a>
+- 🦫 Actively working on <a href="https://github.com/coren-frankel/LookAchoo">LookAchoo</a> ⚛️ || <a href="https://github.com/coren-frankel/VolatilitySurf">VolatilitySurf</a> ☕ || <a href="https://github.com/coren-frankel/meal_picker" rel="piqr-Recipe Retrieval App">piqr</a> 🐍
 - 🔮 Next I'm curious to learn/explore Typescript, C#/.Net, Angular.js, Vue.js, Next.js, React Native, & Jest
 - 📫 How to reach me **coren.frankel@gmail.com**
 
