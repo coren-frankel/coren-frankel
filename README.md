@@ -19,7 +19,7 @@
 
 
 <ul>
-<li>Languages [Python, Java, Javascript (ES6+)]</li>
+<li>Languages [Python, Java, Javascript]</li>
 <li>Frontend Development [CSS3, HTML5, ReactJS, Bootstrap, Material UI, Tailwind, AJAX, JPA, JSTL, Jinja2]</li>
 <li>Backend Development [NodeJS, ExpressJS, Flask, Bcrypt, JSP, JSON, npm, Socket.io, Spring Boot, Servlets, Tomcat, Apache, Gunicorn, Nodemon]</li> 
 <li>Databases [MySQL, MongoDB]</li>
