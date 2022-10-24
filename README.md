@@ -9,9 +9,10 @@
 <a href="https://stackoverflow.com/users/unclebabykern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="unclebabykern" height="30" width="40" /></a>
 </p>
 
-- 💭 Currently learning MERN stack, CI/CD pipelines, API development and consumption, Containerization...
-- 🦫 Actively working on 🤧 <a href="https://github.com/coren-frankel/LookAchoo">LookAchoo</a> in MERN ⚛️ || 🌊 <a href="https://github.com/coren-frankel/VolatilitySurf">VolatilitySurf</a> in Java ☕ || 🥨 <a href="https://github.com/coren-frankel/meal_picker" rel="piqr-Recipe Retrieval App">piqr</a> in Python 🐍
-- 🔮 Next I want to learn Typescript, C#/.Net, Angular.js, Vue.js, React Native, & Jest
+- 💭 Currently learning MERN stack, CI/CD pipelines, API Development and Consumption, Containerization...
+- 🦫 Actively working on 🤧 <a href="https://github.com/coren-frankel/LookAchoo">LookAchoo</a> in MERN ⚛️ || 🌊 <a href="https://github.com/coren-frankel/VolatilitySurf">VolatilitySurf</a> in Java ☕ || 🥨 <a href="https://github.com/coren-frankel/meal_picker" rel="piqr-Recipe Retrieval App">piqr</a> in Python 🐍 
+- 🔫 Other pet projects 🕹️ <a href="https://github.com/coren-frankel/NinjaSweeper" rel="ninjasweeper web game app">NinjaSweeper</a> in Vanilla HTML, CSS, & JS 🕸️
+- 🔮 Next on my list to learn: [Typescript, React Native, Jest, C#/.Net, Angular.js, PHP, ...]
 - 📫 How to reach me: **coren.frankel@gmail.com**
 <div align=center style="display: flex; background-color: white;">
 <h3>Engage me about:</h3>
