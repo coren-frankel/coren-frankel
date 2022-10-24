@@ -21,7 +21,7 @@
 
 <ul>
 <li>Languages [Python, Java, Javascript(ES6+)]</li>
-<li>Frontend Development [CSS3, HTML5, ReactJS, Bootstrap, Material UI, Tailwind CSS, AJAX(Fetch API, Axios), JPA, JSTL, Jinja2, JSX, NextJS]</li>
+<li>Frontend Development [CSS3, HTML5, ReactJS, Bootstrap, Material UI, Tailwind CSS, AJAX(Fetch API, Axios), JPA, JSTL, Jinja2, JSX]</li>
 <li>Backend Development [NodeJS, ExpressJS, Flask, Bcrypt, JSP, JSON, npm, Socket.io, Spring Boot, Servlets, Apache Tomcat, Apache Maven, Gunicorn, Nodemon]</li> 
 <li>Databases [MySQL, MongoDB]</li>
 <li>DevOps [AWS(EC2), Vercel, Google Cloud Platform, MongoDB Atlas, Trello]</li>
@@ -30,13 +30,14 @@
 <li>Other Libraries & Development Tools [D3.js, Plotly, Anime.js, Chrome DevTools, dotenv, moment.js, PyMySQL]</li>
 <li>Version Control Systems [Git, Github]</li>
 <li>OS [macOS, (Ubuntu & Windows proficient)]</li>
-<li>Other [Agile, Scrum, RESTful Architecture & API, MVC, SDLC, CORS, OOP and Functional Programming]</li>
+<li>Concepts & Methodologies [Agile, Scrum, RESTful Architecture & API, MVC, SDLC, CORS, OOP and Functional Programming]</li>
+<li>Exploring [Docker, Next.js, ]</li>
 </ul>
 
 <hr/>
 <div align="center">
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coren-frankel" alt="coren-frankel" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coren-frankel&column=-1&theme=dark_lover" alt="coren-frankel" /></a> </p>
   <p style="display: flex; justify-content: space-between;"><img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=coren-frankel&theme=outrun&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coren-frankel&layout=compact&show_icons=true" alt="coren-frankel" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coren-frankel&layout=compact&show_icons=true&theme=yeblu" alt="coren-frankel" /></p>
   <p><img alt="coren-frankel's Github TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=cobalt2&show_icons=true" /></p>
 </div>
