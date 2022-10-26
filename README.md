@@ -1,5 +1,6 @@
-<h1 align="center">Heya, I'm Coren (he/they)</h1>
-<h3 align="center">Full stack developer with a penchant for open source, freedom of information & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.</h3>
+<h1 align=center>Heya, I'm Coren🌽 (he/they)</h1>
+
+<h2 align=center>I'm a Full Stack Developer with a penchant for open source, freedom of information & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.</h2>
 <div align="center"><img src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp" rel="sesame street yippers computer download"><br/>
 <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20views&color=0e75b6&style=plastic" alt="coren-frankel" />
 </div>
@@ -30,11 +31,11 @@
 <li>Databases [MySQL, MongoDB]</li>
 <li>DevOps [AWS(EC2), Vercel, Google Cloud Platform, MongoDB Atlas, Trello]</li>
 <li>UI/UX Design [Balsamiq]</li>
-<li>Software [Postman, MySQL Workbench, VS Code, Spring Tool Suite, MongoDB Compass]</li>
+<li>Software (IDEs) [Postman, MySQL Workbench, VS Code, Spring Tool Suite, MongoDB Compass]</li>
 <li>Other Libraries & Development Tools [D3.js, Plotly, Anime.js, Chrome DevTools, dotenv, moment.js, PyMySQL, Unirest]</li>
 <li>Version Control Systems [Git, Github]</li>
 <li>OS [macOS, (Ubuntu & Windows proficient)]</li>
-<li>Concepts & Methodologies [Agile, Scrum, RESTful Architecture & API, MVC, SDLC, CORS, OOP and Functional Programming]</li>
+<li>Concepts & Methodologies [Agile, Waterfall, Kanban, Scrum, SDLC, REST, MVC, TDD, OOP, Functional Programming]</li>
 <li>Exploring [Docker, Next.js, WordPress...]</li>
 </ul>
 
@@ -45,3 +46,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coren-frankel&layout=compact&show_icons=true&theme=yeblu" alt="coren-frankel" /></p>
   <p><img alt="coren-frankel's Github TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=cobalt2&show_icons=true" /></p>
 </div>
+# Thanks for visitin' See you...
+<iframe src="https://giphy.com/embed/GHeV8BGjJAAWk" width="480" height="292" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>(https://giphy.com/gifs/cool-GHeV8BGjJAAWk)
