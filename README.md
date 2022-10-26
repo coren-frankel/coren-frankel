@@ -4,15 +4,22 @@
 <div align="center"><img src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp" rel="sesame street yippers computer download"><br/>
 <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20views&color=0e75b6&style=plastic" alt="coren-frankel" />
 </div>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/coren-frankel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coren-frankel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/unclebabykern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="unclebabykern" height="30" width="40" /></a>
-</p>
+
+<h1 align=center>Connect with me: 
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/coren-frankel)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=black)](https://stackoverflow.com/users/unclebabykern)
+
+</h1>
+
 
 - 💭 Currently learning MERN stack, CI/CD pipelines, API Development and Consumption, Containerization...
-- 🦫 Actively developing: 🤧 <a href="https://github.com/coren-frankel/LookAchoo">LookAchoo</a> in MERN ⚛️ || 🌊 <a href="https://github.com/coren-frankel/VolatilitySurf">VolatilitySurf</a> in Java ☕ || 🥨 <a href="https://github.com/coren-frankel/meal_picker" rel="piqr-Recipe Retrieval App">piqr</a> in Python 🐍 
-- 🔫 Other pet projects 🕹️ <a href="https://github.com/coren-frankel/NinjaSweeper" rel="ninjasweeper web game app">NinjaSweeper</a> in Vanilla HTML, CSS, & JS 🕸️
+- 🦫 Actively developing: 
+  + 🤧 <a href="https://github.com/coren-frankel/LookAchoo">LookAchoo</a> in MERN ⚛️ 
+  + 🌊 <a href="https://github.com/coren-frankel/VolatilitySurf">VolatilitySurf</a> in Java ☕  
+  + 🥨 <a href="https://github.com/coren-frankel/meal_picker">piqr</a> in Python 🐍 
+- 🔫 Pet projects: 
+  - 🕹️ <a href="https://github.com/coren-frankel/NinjaSweeper">NinjaSweeper</a> in Vanilla HTML, CSS, & JS 🕸️
 - 🔮 Next on my list to learn: [Typescript, React Native, Jest, C#/.Net, Angular.js, PHP, ...]
 - 📫 How to reach me: **coren.frankel@gmail.com**
 <div align=center style="display: flex; background-color: white;">
