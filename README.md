@@ -47,7 +47,7 @@
   <p><img alt="coren-frankel's Github TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=cobalt2&show_icons=true" /></p>
 </div>
 
-## Thanks for visitin' See you...
+## Thanks for visiting. See you...
 
 <div align=center>
 <img src="https://i.giphy.com/media/GHeV8BGjJAAWk/giphy.webp" alt="gify play it cool, doh">
