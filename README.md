@@ -11,7 +11,7 @@
 </p>
 
 - 💭 Currently learning MERN stack, CI/CD pipelines, API Development and Consumption, Containerization...
-- 🦫 Actively working on 🤧 <a href="https://github.com/coren-frankel/LookAchoo">LookAchoo</a> in MERN ⚛️ || 🌊 <a href="https://github.com/coren-frankel/VolatilitySurf">VolatilitySurf</a> in Java ☕ || 🥨 <a href="https://github.com/coren-frankel/meal_picker" rel="piqr-Recipe Retrieval App">piqr</a> in Python 🐍 
+- 🦫 Actively developing: 🤧 <a href="https://github.com/coren-frankel/LookAchoo">LookAchoo</a> in MERN ⚛️ || 🌊 <a href="https://github.com/coren-frankel/VolatilitySurf">VolatilitySurf</a> in Java ☕ || 🥨 <a href="https://github.com/coren-frankel/meal_picker" rel="piqr-Recipe Retrieval App">piqr</a> in Python 🐍 
 - 🔫 Other pet projects 🕹️ <a href="https://github.com/coren-frankel/NinjaSweeper" rel="ninjasweeper web game app">NinjaSweeper</a> in Vanilla HTML, CSS, & JS 🕸️
 - 🔮 Next on my list to learn: [Typescript, React Native, Jest, C#/.Net, Angular.js, PHP, ...]
 - 📫 How to reach me: **coren.frankel@gmail.com**
@@ -22,21 +22,21 @@
 </div>
 <h3 align="center">Some of my Languages and Tools:</h3>
 
-[![My skills](https://skillicons.dev/icons?i=express,flask,d3,eclipse,git,java,maven,react,aws,bash,bootstrap,css,gcp,github,html,js,jest,md,materialui,mongodb,mysql,nodejs,py,spring,tailwind,regex,vercel,nextjs,vim,docker,nginx,vscode,hibernate,)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=express,flask,d3,eclipse,git,java,maven,react,aws,bash,bootstrap,css,gcp,github,html,js,jest,md,materialui,mongodb,mysql,nodejs,py,spring,tailwind,regex,vercel,nextjs,vim,docker,nginx,vscode,hibernate,babel)](https://skillicons.dev)
 
 <ul>
-<li>Languages [Python, Java, Javascript(ES6+)]</li>
-<li>Frontend Development [CSS3, HTML5, ReactJS, Bootstrap, Material UI, Tailwind CSS, JPA, JSTL, Jinja2, JSX]</li>
-<li>Backend Development [ExpressJS, Flask, Bcrypt, JSP, Spring Boot, Servlets, Apache Tomcat, Apache Maven, Gunicorn, Nodemon]</li>
-<li>Fullstack Development [NodeJS, AJAX(Fetch API, Axios), JSON, npm, Socket.io]
+<li>Languages [Python, Java, Javascript(ES6+), SQL, HTML5, CSS3]</li>
+<li>Frontend Development [ReactJS, Bootstrap, Material UI, Tailwind CSS, Jinja2, JSX]</li>
+<li>Backend Development [ExpressJS, Flask, JPA, Spring Boot, Apache Tomcat, Apache Maven, Gunicorn, Nodemon]</li>
+<li>Fullstack Development [NodeJS, AJAX(Fetch API, Axios), JSP & JSTL, JSON, npm, Socket.io]
 <li>Databases [MySQL, MongoDB]</li>
-<li>DevOps [AWS(EC2), Vercel, Google Cloud Platform, MongoDB Atlas, Trello]</li>
+<li>DevOps [AWS(EC2), Vercel, Google Cloud Platform, MongoDB Atlas]</li>
 <li>UI/UX Design [Balsamiq]</li>
 <li>Software (IDEs) [Postman, MySQL Workbench, VS Code, Spring Tool Suite, MongoDB Compass]</li>
 <li>Other Libraries & Development Tools [D3.js, Plotly, Anime.js, Chrome DevTools, dotenv, moment.js, PyMySQL, Unirest]</li>
 <li>Version Control Systems [Git, Github]</li>
 <li>OS [macOS, (Ubuntu & Windows proficient)]</li>
-<li>Concepts & Methodologies [SQL, NoSQL, Agile, Waterfall, Kanban, Scrum, SDLC, REST, MVC, TDD, OOP, Functional Programming]</li>
+<li>Concepts & Methodologies [ORM, NoSQL, Agile, Waterfall, Kanban, Scrum, SDLC, REST, MVC, TDD, OOP, Functional Programming]</li>
 <li>Persistence & Validation [session, bcrypt, flash, regular expressions, webhooks]</li>
 <li>Exploring [Docker, Next.js, WordPress]</li>
 </ul>
