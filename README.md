@@ -5,13 +5,12 @@
 <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20views&color=0e75b6&style=plastic" alt="coren-frankel" />
 </div>
 
-<h1 align=center>Connect with me: 
-
+<h1 align=center>Connect with me:
+  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/coren-frankel)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=black)](https://stackoverflow.com/users/19356052/unclebabykern?tab=profile)
-
+[![Stack Overflow](https://img.shields.io/badge/-stackoverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=black)](https://stackoverflow.com/users/19356052/unclebabykern?tab=profile)
+  
 </h1>
-
 
 - 💭 Currently learning MERN stack, CI/CD pipelines, API Development and Consumption, Containerization...
 - 🦫 Actively developing: 
