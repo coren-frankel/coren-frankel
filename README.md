@@ -8,7 +8,7 @@
 <h1 align=center>Connect with me: 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/coren-frankel)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=black)](https://stackoverflow.com/users/unclebabykern)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=black)](https://stackoverflow.com/users/19356052/unclebabykern?tab=profile)
 
 </h1>
 
