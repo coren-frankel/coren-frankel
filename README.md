@@ -27,8 +27,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Horror,+Science+Fiction,+Fantasy;Existentialism,+Absurdism,+Nihilism;Ethics,+Logic,+Metaphysics;Puzzle/Story-Driven+Games;Satire/Drama,+Comedy/Tragedy;Feminism,+Allyship,+Activism)](https://git.io/typing-svg)
 </div>
 <h3 align="center">Some of my Languages and Tools:</h3>
+<div align=center>
 
 [![My skills](https://skillicons.dev/icons?i=express,flask,d3,eclipse,git,java,maven,react,aws,bash,bootstrap,css,gcp,github,html,js,jest,md,materialui,mongodb,mysql,nodejs,py,spring,tailwind,regex,vercel,nextjs,vim,docker,nginx,vscode,hibernate,babel)](https://skillicons.dev)
+
+</div>
 
 <ul>
 <li>Languages [Python, Java, Javascript(ES6+), SQL, HTML5, CSS3]</li>
