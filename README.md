@@ -29,7 +29,7 @@
 <h3 align="center">Some of my Languages and Tools:</h3>
 <div align=center>
 
-[![My skills](https://skillicons.dev/icons?i=express,flask,d3,eclipse,git,java,maven,react,aws,bash,bootstrap,css,gcp,github,html,js,jest,md,materialui,mongodb,mysql,nodejs,py,spring,tailwind,regex,vercel,nextjs,vim,docker,nginx,vscode,hibernate,babel)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=express,flask,d3,eclipse,git,java,maven,react,aws,bash,bootstrap,css,gcp,github,html,js,md,materialui,mongodb,mysql,nodejs,py,spring,tailwind,regex,vercel,nextjs,vim,docker,nginx,vscode,hibernate,babel)](https://skillicons.dev)
 
 </div>
 
