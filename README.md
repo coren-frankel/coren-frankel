@@ -12,14 +12,15 @@
   
 </h1>
 
-- 💭 Currently learning MERN stack, CI/CD pipelines, API Development and Consumption, Containerization...
+- 💭 Currently learning Angular, Typescript, CI/CD pipelines, Containerization with Docker...
 - 🦫 Actively developing: 
-  + 🤧 <a href="https://github.com/coren-frankel/LookAchoo">LookAchoo</a> in MERN ⚛️ 
-  + 🌊 <a href="https://github.com/coren-frankel/VolatilitySurf">VolatilitySurf</a> in Java ☕  
-  + 🥨 <a href="https://github.com/coren-frankel/meal_picker">piqr</a> in Python 🐍 
-- 🔫 Pet projects: 
-  - 🕹️ <a href="https://github.com/coren-frankel/NinjaSweeper">NinjaSweeper</a> in Vanilla HTML, CSS, & JS 🕸️
-- 🔮 Next on my list to learn: [Typescript, React Native, Jest, C#/.Net, Angular.js, PHP, ...]
+  + 🌊 <a href="https://github.com/coren-frankel/VolatilitySurf">VolatilitySurf</a>: Stock Options Finance App in Java ☕  
+- 🔁 Continuously developing:
+  + 🤧 <a href="https://github.com/coren-frankel/LookAchoo">LookAchoo</a>: Geolocal Sneeze Context SPA | MERN ⚛️ *deployed*
+  + 🥨 <a href="https://github.com/coren-frankel/meal_picker">piqr</a>: Random Recipe CRUD App | Python 🐍 *deployed*
+- 🔫 Pet project: 
+  - 🕹️ <a href="https://github.com/coren-frankel/NinjaSweeper">NinjaSweeper</a>: Minesweeper Game | Vanilla Javascript/CSS/HTML 🕸️ *deployed*
+- 🔮 Next on my list to learn: [React Native, Jest, C#/.Net, PHP, MariaDB, GraphQL, PostgreSQL]
 - 📫 How to reach me: **coren.frankel@gmail.com**
 <div align=center style="display: flex; background-color: white;">
 <h3>Engage me about:</h3>
@@ -42,12 +43,12 @@
 <li>DevOps [AWS(EC2), Vercel, Google Cloud Platform, MongoDB Atlas]</li>
 <li>UI/UX Design [Balsamiq]</li>
 <li>Software (IDEs) [Postman, MySQL Workbench, VS Code, Spring Tool Suite, MongoDB Compass]</li>
-<li>Other Libraries & Development Tools [D3.js, Plotly, Anime.js, Chrome DevTools, dotenv, moment.js, PyMySQL, Unirest]</li>
+<li>Other Libraries & Development Tools [D3.js, Plotly, Anime.js, Chrome DevTools, dotenv, moment.js, PyMySQL, Unirest, Mongoose]</li>
 <li>Version Control Systems [Git, Github]</li>
 <li>OS [macOS, (Ubuntu & Windows proficient)]</li>
 <li>Concepts & Methodologies [ORM, NoSQL, Agile, Waterfall, Kanban, Scrum, SDLC, REST, MVC, TDD, OOP, Functional Programming]</li>
 <li>Persistence & Validation [session, bcrypt, flash, regular expressions, webhooks]</li>
-<li>Exploring [Docker, Next.js, WordPress]</li>
+<li>Exploring [Next.js, Angular, Docker]</li>
 </ul>
 
 <hr/>
