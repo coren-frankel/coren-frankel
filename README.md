@@ -1,7 +1,7 @@
 <h1 align=center>Heya, I'm Coren🌽 (he/they)</h1>
 
-<h2 align=center>I'm a Full Stack Developer with a penchant for open source, freedom of information & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.</h2>
-<div align="center"><img src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp" rel="sesame street yippers computer download"><br/>
+<h2 align=center>I'm a Software Engineer with a penchant for open source, freedom of information & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.</h2>
+<div align="center"><img src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp" rel="sesame street yippers computer download gif"><br/>
 <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20views&color=0e75b6&style=plastic" alt="coren-frankel" />
 </div>
 
@@ -25,7 +25,7 @@
 <div align=center style="display: flex; background-color: white;">
 <h3>Engage me about:</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Horror,+Science+Fiction,+Fantasy;Existentialism,+Absurdism,+Nihilism;Ethics,+Logic,+Metaphysics;Puzzle/Story-Driven+Games;Satire/Drama,+Comedy/Tragedy;Feminism,+Allyship,+Activism)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Horror,+Science+Fiction,+Fantasy;Existentialism,+Absurdism,+Nihilism;Ethics,+Logic,+Metaphysics;Puzzle/Story-Driven+Games;Satire/Drama,+Comedy/Tragedy;Feminism,+Inclusivity,+Activism)](https://git.io/typing-svg)
 </div>
 <h3 align="center">Some of my Languages and Tools:</h3>
 <div align=center>
@@ -41,7 +41,7 @@
 <li>Fullstack Development [NodeJS, AJAX(Fetch API, Axios), JSP & JSTL, JSON, npm, Socket.io]
 <li>Databases [MySQL, MongoDB]</li>
 <li>DevOps [AWS(EC2), Vercel, Google Cloud Platform, MongoDB Atlas]</li>
-<li>UI/UX Design [Balsamiq]</li>
+<li>UI/UX Design [Balsamiq, Trello]</li>
 <li>Software (IDEs) [Postman, MySQL Workbench, VS Code, Spring Tool Suite, MongoDB Compass]</li>
 <li>Other Libraries & Development Tools [D3.js, Plotly, Anime.js, Chrome DevTools, dotenv, moment.js, PyMySQL, Unirest, Mongoose]</li>
 <li>Version Control Systems [Git, Github]</li>
@@ -62,5 +62,5 @@
 ## Thanks for visiting. See you...
 
 <div align=center>
-<img src="https://i.giphy.com/media/GHeV8BGjJAAWk/giphy.webp" alt="gify play it cool, doh">
+<img src="https://i.giphy.com/media/GHeV8BGjJAAWk/giphy.webp" alt="gif cartoon; 2 people put on sunglasses, then a duck tries and pokes itself in the eye">
 </div>
