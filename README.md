@@ -16,11 +16,11 @@
 - 🦫 Actively developing: 
   + 🌊 <a href="https://github.com/coren-frankel/VolatilitySurf">VolatilitySurf</a>: Stock Options Finance App in Java ☕  
 - 🔁 Continuously developing:
-  + 🤧 <a href="https://github.com/coren-frankel/LookAchoo">LookAchoo</a>: Geolocal Sneeze Context SPA | MERN ⚛️ *deployed*
-  + 🥨 <a href="https://github.com/coren-frankel/meal_picker">piqr</a>: Random Recipe CRUD App | Python 🐍 *deployed*
+  + 🤧 <a href="https://github.com/coren-frankel/LookAchoo">LookAchoo</a>: IP Geolocal Sneeze Context SPA | MERN ⚛️ <a href="https://look-achoo.vercel.app">*deployed*</a>
+  + 🥨 <a href="https://github.com/coren-frankel/meal_picker">piqr</a>: Random Recipe CRUD App | Python 🐍 <a href="http://3.101.63.102/">*deployed*</a>
 - 🔫 Pet project: 
-  - 🕹️ <a href="https://github.com/coren-frankel/NinjaSweeper">NinjaSweeper</a>: Minesweeper Game | Vanilla Javascript/CSS/HTML 🕸️ *deployed*
-- 🔮 Next on my list to learn: [React Native, Jest, C#/.Net, PHP, MariaDB, GraphQL, PostgreSQL]
+  - 🕹️ <a href="https://github.com/coren-frankel/NinjaSweeper">NinjaSweeper</a>: Minesweeper Game | Vanilla Javascript/CSS/HTML 🕸️ <a href="https://coren-frankel.github.io/NinjaSweeper/">*deployed*</a>
+- 🔮 Next on my list to learn: [React Native, Jest, C#/.Net, PHP, GraphQL, PostgreSQL, Ruby on Rails]
 - 📫 How to reach me: **coren.frankel@gmail.com**
 <div align=center style="display: flex; background-color: white;">
 <h3>Engage me about:</h3>
@@ -36,7 +36,7 @@
 
 <ul>
 <li>Languages [Python, Java, Javascript(ES6+), SQL, HTML5, CSS3]</li>
-<li>Frontend Development [ReactJS, Bootstrap, Material UI, Tailwind CSS, Jinja2, JSX]</li>
+<li>Frontend Development [ReactJS, Bootstrap, Material UI, Tailwind CSS, Jinja2, JSX, Redux]</li>
 <li>Backend Development [ExpressJS, Flask, JPA, Spring Boot, Apache Tomcat, Apache Maven, Gunicorn, Nodemon]</li>
 <li>Fullstack Development [NodeJS, AJAX(Fetch API, Axios), JSP & JSTL, JSON, npm, Socket.io]
 <li>Databases [MySQL, MongoDB]</li>
@@ -48,7 +48,7 @@
 <li>OS [macOS, (Ubuntu & Windows proficient)]</li>
 <li>Concepts & Methodologies [ORM, NoSQL, Agile, Waterfall, Kanban, Scrum, SDLC, REST, MVC, TDD, OOP, Functional Programming]</li>
 <li>Persistence & Validation [session, bcrypt, flash, regular expressions, webhooks]</li>
-<li>Exploring [Next.js, Angular, Docker]</li>
+<li>Exploring [Next.js, Typescript, Angular, Docker, Nest.js,]</li>
 </ul>
 
 <hr/>
