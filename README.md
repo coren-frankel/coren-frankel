@@ -28,11 +28,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Horror,+Science+Fiction,+Fantasy;Existentialism,+Absurdism,+Nihilism;Ethics,+Logic,+Metaphysics;Puzzle/Story-Driven+Games;Satire/Drama,+Comedy/Tragedy;Feminism,+Inclusivity,+Activism)](https://git.io/typing-svg)
 </div>
 <h3 align="center">Some of my Languages and Tools:</h3>
-<div align=center>
-
-[![My skills](https://skillicons.dev/icons?i=express,flask,d3,eclipse,git,java,maven,react,redux,aws,bash,bootstrap,css,gcp,github,html,js,md,materialui,mongodb,jquery,mysql,nodejs,py,spring,tailwind,regex,vercel,nextjs,vim,docker,nginx,vscode,hibernate,babel)](https://skillicons.dev)
-
-</div>
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,md,bash,vscode,html,css,js,py,flask,regex,vim,nginx,aws,bootstrap,mysql,java,spring,eclipse,maven,hibernate,d3,nodejs,react,redux,express,gcp,materialui,mongodb,vercel,nextjs,jquery,tailwind&perline=8" alt="My Technical Skills">
+  </a>
+</p>
 
 <ul>
 <li>Languages [Python, Java, Javascript(ES6+), SQL, HTML5, CSS3]</li>
