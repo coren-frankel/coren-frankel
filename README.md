@@ -30,7 +30,7 @@
 <h3 align="center">Some of my Languages and Tools:</h3>
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,py,java,git,md,bash,vscode,eclipse,regex,vim,nginx,bootstrap,materialui,tailwind,postgres,mysql,mongodb,spring,maven,flask,hibernate,d3,jquery,nodejs,react,redux,angular,express,nestjs,nextjs,vercel,aws,gcp&perline=9" alt="My Technical Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,py,java,git,md,bash,vscode,eclipse,jest,regex,vim,nginx,bootstrap,materialui,tailwind,postgres,mysql,mongodb,spring,maven,flask,hibernate,d3,jquery,nodejs,react,redux,angular,express,nestjs,nextjs,vercel,aws,gcp&perline=10" alt="My Technical Skills">
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 <li>DevOps [AWS(EC2), Vercel, Google Cloud Platform, MongoDB Atlas]</li>
 <li>UI/UX Design [Balsamiq, Trello]</li>
 <li>Software (IDEs) [Postman, MySQL Workbench, VS Code, Spring Tool Suite, MongoDB Compass]</li>
-<li>Other Libraries & Development Tools [D3.js, Plotly, Anime.js, Chrome DevTools, dotenv, moment.js, PyMySQL, Unirest, Mongoose]</li>
+<li>Other Libraries & Development Tools [Jest, D3.js, Plotly, Anime.js, Chrome DevTools, dotenv, moment.js, PyMySQL, Unirest, Mongoose]</li>
 <li>Version Control Systems [Git, Github]</li>
 <li>OS [macOS, (Ubuntu & Windows proficient)]</li>
 <li>Concepts & Methodologies [ORM, NoSQL, Agile, Waterfall, Kanban, Scrum, SDLC, REST, MVC, TDD, OOP, Functional Programming]</li>
