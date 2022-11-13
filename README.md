@@ -23,7 +23,7 @@
 - 🔮 Next on my list to learn: [React Native, C#/.Net, Ruby on Rails, PHP, GraphQL]
 - 📫 How to reach me: **coren.frankel@gmail.com**
 <div align=center style="display: flex; background-color: white;">
-<h3>Engage me about:</h3>
+<h3>My interests include:</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Horror,+Science+Fiction,+Fantasy;Existentialism,+Absurdism,+Nihilism;Ethics,+Logic,+Metaphysics;Puzzle/Story-Driven+Games;Satire/Drama,+Comedy/Tragedy;Feminism,+Inclusivity,+Activism)](https://git.io/typing-svg)
 </div>
