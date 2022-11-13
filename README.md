@@ -30,7 +30,7 @@
 <h3 align="center">Some of my Languages and Tools:</h3>
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,md,bash,vscode,html,css,js,typescript,py,flask,regex,vim,nginx,aws,bootstrap,mysql,java,spring,eclipse,maven,hibernate,d3,nodejs,react,redux,angular,express,nestjs,gcp,materialui,mongodb,vercel,nextjs,jquery,tailwind&perline=7" alt="My Technical Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,py,java,git,md,bash,vscode,eclipse,regex,vim,nginx,bootstrap,materialui,tailwind,postgres,mysql,mongodb,spring,maven,flask,hibernate,d3,jquery,nodejs,react,redux,angular,express,nestjs,nextjs,vercel,aws,gcp&perline=9" alt="My Technical Skills">
   </a>
 </p>
 
