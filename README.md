@@ -12,7 +12,7 @@
   
 </h1>
 
-- 💭 Currently learning Angular, Typescript, CI/CD pipelines, Containerization with Docker...
+- 💭 Currently learning Angular, Typescript, NestJS, CI/CD pipelines, Containerization with Docker...
 - 🦫 Actively developing: 
   + 🌊 <a href="https://github.com/coren-frankel/VolatilitySurf">VolatilitySurf</a>: Stock Options Finance App in Java ☕  
 - 🔁 Continuously developing:
@@ -20,7 +20,7 @@
   + 🥨 <a href="https://github.com/coren-frankel/meal_picker">piqr</a>: Random Recipe CRUD App | Python 🐍 <a href="http://3.101.63.102/">*deployed*</a>
 - 🔫 Pet project: 
   - 🕹️ <a href="https://github.com/coren-frankel/NinjaSweeper">NinjaSweeper</a>: Minesweeper Game | Vanilla Javascript/CSS/HTML 🕸️ <a href="https://coren-frankel.github.io/NinjaSweeper/">*deployed*</a>
-- 🔮 Next on my list to learn: [React Native, Jest, C#/.Net, PHP, GraphQL, PostgreSQL, Ruby on Rails]
+- 🔮 Next on my list to learn: [React Native, C#/.Net, Ruby on Rails, PHP, GraphQL]
 - 📫 How to reach me: **coren.frankel@gmail.com**
 <div align=center style="display: flex; background-color: white;">
 <h3>Engage me about:</h3>
@@ -30,16 +30,16 @@
 <h3 align="center">Some of my Languages and Tools:</h3>
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,md,bash,vscode,html,css,js,py,flask,regex,vim,nginx,aws,bootstrap,mysql,java,spring,eclipse,maven,hibernate,d3,nodejs,react,redux,express,gcp,materialui,mongodb,vercel,nextjs,jquery,tailwind&perline=8" alt="My Technical Skills">
+    <img src="https://skillicons.dev/icons?i=git,md,bash,vscode,html,css,js,typescript,py,flask,regex,vim,nginx,aws,bootstrap,mysql,java,spring,eclipse,maven,hibernate,d3,nodejs,react,redux,angular,express,nestjs,gcp,materialui,mongodb,vercel,nextjs,jquery,tailwind&perline=7" alt="My Technical Skills">
   </a>
 </p>
 
 <ul>
-<li>Languages [Python, Java, Javascript(ES6+), SQL, HTML5, CSS3]</li>
-<li>Frontend Development [ReactJS, Bootstrap, Material UI, Tailwind CSS, Jinja2, JSX, Redux]</li>
-<li>Backend Development [ExpressJS, Flask, JPA, Spring Boot, Apache Tomcat, Apache Maven, Gunicorn, Nodemon]</li>
+<li>Languages [Python, Java, JavaScript, TypeScript, SQL, HTML5, CSS3]</li>
+<li>Frontend Development [ReactJS, Bootstrap, Material UI, Tailwind CSS, Jinja2, JSX, Redux, Angular]</li>
+<li>Backend Development [ExpressJS, Flask, JPA, Spring Boot, NestJS Apache Tomcat, Apache Maven, Gunicorn, Nodemon]</li>
 <li>Fullstack Development [NodeJS, AJAX(Fetch API, Axios), JSP & JSTL, JSON, npm, Socket.io]
-<li>Databases [MySQL, MongoDB]</li>
+<li>Databases [MySQL, MongoDB, PostgreSQL]</li>
 <li>DevOps [AWS(EC2), Vercel, Google Cloud Platform, MongoDB Atlas]</li>
 <li>UI/UX Design [Balsamiq, Trello]</li>
 <li>Software (IDEs) [Postman, MySQL Workbench, VS Code, Spring Tool Suite, MongoDB Compass]</li>
