@@ -12,20 +12,19 @@
   
 </h1>
 
-- 💭 Currently learning Angular, Typescript, NestJS, CI/CD pipelines, Containerization with Docker...
+- 💭 Currently learning Angular, Typescript, NestJS, CI/CD pipelines, Containerization...
 - 🦫 Actively developing: 
-  + 🌊 <a href="https://github.com/coren-frankel/VolatilitySurf">VolatilitySurf</a>: Stock Options Finance App in Java ☕  
-- 🔁 Continuously developing:
+  + 🌊 <a href="https://github.com/coren-frankel/VolatilitySurf">VolatilitySurf</a>: Stock Options Volatility Surface Finance App in Java ☕  
+- 🔫 Pet projects: 
+  + 🕹️ <a href="https://github.com/coren-frankel/NinjaSweeper">NinjaSweeper</a>: Minesweeper Game | Vanilla Javascript/CSS/HTML 🕸️ <a href="https://coren-frankel.github.io/NinjaSweeper/">*deployed*</a>
   + 🤧 <a href="https://github.com/coren-frankel/LookAchoo">LookAchoo</a>: IP Geolocal Sneeze Context SPA | MERN ⚛️ <a href="https://look-achoo.vercel.app">*deployed*</a>
-  + 🥨 <a href="https://github.com/coren-frankel/meal_picker">piqr</a>: Random Recipe CRUD App | Python 🐍 <a href="http://3.101.63.102/">*deployed*</a>
-- 🔫 Pet project: 
-  - 🕹️ <a href="https://github.com/coren-frankel/NinjaSweeper">NinjaSweeper</a>: Minesweeper Game | Vanilla Javascript/CSS/HTML 🕸️ <a href="https://coren-frankel.github.io/NinjaSweeper/">*deployed*</a>
-- 🔮 Next on my list to learn: [React Native, C#/.Net, Ruby on Rails, PHP, GraphQL]
+  + 🥨 <a href="https://github.com/coren-frankel/meal_picker">*piqr*</a>: Random Recipe CRUD App | Python 🐍 <a href="http://3.101.63.102/">*deployed*</a>
+- 🔮 Next on my list to learn: [React Native, C#/.Net, Ruby on Rails, GraphQL]
 - 📫 How to reach me: **coren.frankel@gmail.com**
 <div align=center style="display: flex; background-color: white;">
 <h3>My interests include:</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Horror,+Science+Fiction,+Fantasy;Existentialism,+Absurdism,+Nihilism;Ethics,+Logic,+Metaphysics;Puzzle/Story-Driven+Games;Satire/Drama,+Comedy/Tragedy;Feminism,+Inclusivity,+Activism)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Horror,+Science+Fiction,+Fantasy;Existentialism,+Absurdism,+Nihilism;Puzzle+&+Story-Driven+Games;Satire,+Drama,+Tragedy;)](https://git.io/typing-svg)
 </div>
 <h3 align="center">Some of my Languages and Tools:</h3>
 <p align=center>
@@ -42,13 +41,13 @@
 <li>Databases [MySQL, MongoDB, PostgreSQL]</li>
 <li>DevOps [AWS(EC2), Vercel, Google Cloud Platform, MongoDB Atlas]</li>
 <li>UI/UX Design [Balsamiq, Trello]</li>
-<li>Software (IDEs) [Postman, MySQL Workbench, VS Code, Spring Tool Suite, MongoDB Compass]</li>
+<li>myIDEs [Postman, MySQL Workbench, VS Code, Spring Tool Suite 4, MongoDB Compass]</li>
 <li>Other Libraries & Development Tools [Jest, D3.js, Plotly, Anime.js, Chrome DevTools, dotenv, moment.js, PyMySQL, Unirest, Mongoose]</li>
 <li>Version Control Systems [Git, Github]</li>
 <li>OS [macOS, (Ubuntu & Windows proficient)]</li>
 <li>Concepts & Methodologies [ORM, NoSQL, Agile, Waterfall, Kanban, Scrum, SDLC, REST, MVC, TDD, OOP, Functional Programming]</li>
 <li>Persistence & Validation [session, bcrypt, flash, regular expressions, webhooks]</li>
-<li>Exploring [Next.js, Typescript, Angular, Docker, Nest.js,]</li>
+<li>Exposure [Next.js, Typescript, Angular, Nest.js, C#, Docker]</li>
 </ul>
 
 <hr/>
