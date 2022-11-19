@@ -1,6 +1,6 @@
 <h1 align=center>Heya, I'm Coren🌽 (he/they)</h1>
 
-<h2 align=center>I'm a Software Developer with a penchant for open source, freedom of information & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.</h2>
+<h2 align=center>I'm a Full Stack Developer with a penchant for open source, freedom of information & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.</h2>
 <div align="center"><img src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp" rel="sesame street yippers computer download gif"><br/>
 <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20views&color=0e75b6&style=plastic" alt="coren-frankel" />
 </div>
