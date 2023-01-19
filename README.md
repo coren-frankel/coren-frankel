@@ -1,6 +1,6 @@
 <h1 align=center>Heya, I'm Coren (he/they)</h1>
 
-<h2 align=center>I'm a Full Stack Developer with a penchant for open source, freedom of information & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.</h2>
+<h2 align=center>I'm a Full Stack Software & Web Developer with a penchant for open source, freedom of information & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.</h2>
 <div align="center"><img src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp" rel="sesame street yippers computer download gif"><br/>
 <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20views&color=0e75b6&style=plastic" alt="coren-frankel" />
 </div>
@@ -12,9 +12,10 @@
   
 </h1>
 
-- 💭 Currently learning CI/CD pipelines, Containerization...
+- 💭 Currently learning CI/CD pipelines, Containerization, Python List Comprehension, Typescript
 - 🦫 Actively developing: 
   + 📝 <a href="https://github.com/m-smith15/webdev_flashcards">WebDev Flashcards</a>: Web Developers Study Tool App in MERN ⚛️ stack <a href="https://webdev-flashcards.vercel.app/">*live deployment*</a>
+- ⏸️ On Hiatus:
   + 🌊 <a href="https://github.com/coren-frankel/VolatilitySurf">VolatilitySurf</a>: Stock Options Volatility Surface Finance App in Java ☕  
 - 🔫 Independent/Pet projects: 
   + 🕹️ <a href="https://github.com/coren-frankel/NinjaSweeper">NinjaSweeper</a>: Minesweeper Game | Vanilla Javascript/CSS/HTML 🕸️ <a href="https://coren-frankel.github.io/NinjaSweeper/">*live site*</a>
@@ -23,9 +24,9 @@
 - 🔮 Future curiousities: [React Native, C#/.Net, Ruby on Rails, GraphQL]
 - 📫 How to reach me: **coren.frankel@gmail.com**
 <div align=center style="display: flex; background-color: white;">
-<h3>My interests include:</h3>
+<h3>Some things that interest me:</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?&pause=400&color=F70000&width=570&lines=Horror,+SciFi,+Fantasy,+Satire,+Drama,+Tragedy;Existentialism,+Absurdism,+Other..+isms,+Nihilism;All+work+and+no+play+makes+Jack+a+dull+boy...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?&pause=400&color=F70000&width=600&align=center&lines=Horror,+Sci-Fi,+Fantasy,+Satire,+Drama;Existentialism,+Absurdism,+Humanism,+Nihil...;All+work+and+no+play+makes+Jack+a+dull+boy...;Survival-Horror,+RPGs,+Puzzle/Story-Driven+Games;Prog-Metal,+Lo-Fi+Hip+Hop,+Pop-Punk,+Indie+et+al.)](https://git.io/typing-svg)
 </div>
 <h3 align="center">Some of my Skills:</h3>
 <p align=center>
@@ -38,7 +39,7 @@
 <li>Languages [Python, Java, JavaScript, SQL, HTML5, CSS3]</li>
 <li>Frontend Development [ReactJS, Bootstrap, Material UI, Tailwind CSS, Jinja2, JSX, Redux]</li>
 <li>Backend Development [ExpressJS, Flask, JPA, Spring Boot, Apache Tomcat, Apache Maven, Gunicorn, Nodemon]</li>
-<li>Fullstack Development [NodeJS, AJAX(Fetch API, Axios), JSP & JSTL, JSON, npm, Socket.io]
+<li>Fullstack Development [NodeJS, AJAX (Fetch API, Axios), JSP & JSTL, JSON, npm, Socket.io]
 <li>Databases [MySQL, MongoDB, PostgreSQL]</li>
 <li>DevOps [AWS(EC2), Vercel, Google Cloud Platform, MongoDB Atlas]</li>
 <li>UI/UX Design [Balsamiq, Trello]</li>
@@ -63,5 +64,5 @@
 ## Thanks for visiting. See you...
 
 <div align=center>
-<img src="https://i.giphy.com/media/GHeV8BGjJAAWk/giphy.webp" alt="gif cartoon; 2 people put on sunglasses, then a duck tries and pokes itself in the eye">
+<img src="https://i.giphy.com/media/GHeV8BGjJAAWk/giphy.webp" alt="gif cartoon; 2 people put on sunglasses, then a duck tries too and pokes itself in the eye">
 </div>
