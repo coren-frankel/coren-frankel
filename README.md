@@ -13,14 +13,14 @@
 </h1>
 
 - 💭 Currently learning CI/CD pipelines, Containerization, Python List Comprehension, Typescript
-- 🦫 Actively developing: 
+- 🦫 Actively developing:
+  + 🕹️ <a href="https://github.com/coren-frankel/NinjaSweeper">NinjaSweeper</a>: Minesweeper Game | Vanilla Javascript/CSS/HTML 🕸️ <a href="https://coren-frankel.github.io/NinjaSweeper/">*live site*</a> 
   + 📝 <a href="https://github.com/m-smith15/webdev_flashcards">WebDev Flashcards</a>: Web Developers Study Tool App in MERN ⚛️ stack <a href="https://webdev-flashcards.vercel.app/">*live deployment*</a>
-- ⏸️ On Hiatus:
-  + 🌊 <a href="https://github.com/coren-frankel/VolatilitySurf">VolatilitySurf</a>: Stock Options Volatility Surface Finance App in Java ☕  
-- 🔫 Independent/Pet projects: 
-  + 🕹️ <a href="https://github.com/coren-frankel/NinjaSweeper">NinjaSweeper</a>: Minesweeper Game | Vanilla Javascript/CSS/HTML 🕸️ <a href="https://coren-frankel.github.io/NinjaSweeper/">*live site*</a>
+- 🔫 Independent projects: 
   + 🤧 <a href="https://github.com/coren-frankel/LookAchoo">LookAchoo</a>: IP Geolocal Sneeze Context Single Page Application | MERN ⚛️ <a href="https://look-achoo.vercel.app">*live deployment*</a>
   + 🍳 <a href="https://github.com/coren-frankel/meal_picker">*piqr*</a>: Random Recipe CRUD App | Python 🐍 <a href="http://3.101.63.102/">*live deployment*</a>
+- ⏸️ On Hiatus:
+  + 🌊 <a href="https://github.com/coren-frankel/VolatilitySurf">VolatilitySurf</a>: Stock Options Volatility Surface Finance App in Java ☕  
 - 🔮 Future curiousities: [React Native, C#/.Net, Ruby on Rails, GraphQL]
 - 📫 How to reach me: **coren.frankel@gmail.com**
 <div align=center style="display: flex; background-color: white;">
@@ -56,9 +56,9 @@
 <div align="center">
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coren-frankel&column=-1&theme=dark_lover" alt="coren-frankel" /></a> </p>
   <p style="display: flex; justify-content: space-between;">
-<!--     <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=coren-frankel&theme=outrun&show_icons=true" /> -->
+    <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=coren-frankel&theme=outrun&show_icons=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=coren-frankel&layout=compact&show_icons=true&theme=yeblu" alt="coren-frankel" /></p>
-<!--   <p><img alt="coren-frankel's Github TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=cobalt2&show_icons=true" /></p> -->
+  <p><img alt="coren-frankel's Github TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=cobalt2&show_icons=true" /></p>
 </div>
 
 ## Thanks for visiting. See you...
