@@ -39,7 +39,7 @@
 <h3 align="center">Some of my Skills:</h3>
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,git,md,bash,vscode,eclipse,jest,regex,vim,nginx,bootstrap,materialui,tailwind,postgres,mysql,mongodb,spring,maven,flask,hibernate,d3,jquery,nodejs,react,redux,express,nextjs,vercel,aws,gcp&perline=8" alt="My Technical Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,git,md,bash,vscode,eclipse,jest,regex,vim,nginx,bootstrap,materialui,tailwind,postgres,mysql,mongodb,spring,maven,flask,hibernate,d3,jquery,nodejs,react,redux,express,nextjs,vercel,aws,gcp,babel,docker&perline=12" alt="My Technical Skills">
   </a>
 </p>
 
