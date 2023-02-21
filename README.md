@@ -5,6 +5,14 @@
 <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20views&color=0e75b6&style=plastic" alt="coren-frankel" />
 </div>
 
+<div align=center>
+<h4>Heyy Check me out!</h4>
+
+![Snake animation](https://github.com/coren-frankel/coren-frankel/blob/output/github-contribution-grid-snake.svg)
+
+
+<em>Ahh! whha...what? No!</em>
+</div>
 <h1 align=center>Connect with me:
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/coren-frankel)
