@@ -6,7 +6,7 @@
 </div>
 
 <div align=center>
-<h4>Heyy Check me out!</h4>
+<h4>Check me out! Heyy! Bad snek!</h4>
 
 ![Snake animation](https://github.com/coren-frankel/coren-frankel/blob/output/github-contribution-grid-snake.svg)
 
