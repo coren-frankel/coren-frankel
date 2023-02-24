@@ -34,12 +34,12 @@
 <div align=center style="display: flex; background-color: white;">
 <h3>Some things that interest me:</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?&pause=400&color=F70000&width=600&align=center&lines=Horror,+Sci-Fi,+Fantasy,+Satire,+Drama;Existentialism,+Absurdism,+Humanism,+Nihil...;All+work+and+no+play+makes+Jack+a+dull+boy...;Survival-Horror,+RPGs,+Puzzle/Story-Driven+Games;Prog-Metal,+Lo-Fi+Hip+Hop,+Pop-Punk,+Indie+et+al.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?&pause=400&color=F70000&width=600&align=center&lines=Horror,+Sci-Fi,+Fantasy,+Satire,+Drama;Existentialism,+Absurdism,+Humanism,+Nihilis;All+work+and+no+play+makes+Jack+a+dull+boy...;Survival-Horror,+RPGs,+Puzzle/Story-Driven+Games;Prog-Metal,+Lo-Fi+Hip+Hop,+Pop-Punk,+Indie+et+al.)](https://git.io/typing-svg)
 </div>
 <h3 align="center">Some of my Skills:</h3>
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,git,md,bash,vscode,eclipse,jest,regex,vim,nginx,bootstrap,materialui,tailwind,postgres,mysql,mongodb,spring,maven,flask,hibernate,d3,jquery,nodejs,react,redux,express,nextjs,vercel,aws,gcp,babel,docker&perline=12" alt="My Technical Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,git,vscode,eclipse,jest,regex,vim,nginx,bootstrap,materialui,tailwind,postgres,mysql,mongodb,spring,maven,flask,hibernate,d3,jquery,nodejs,react,redux,express,nextjs,vercel,aws,gcp,babel,docker,codepen,replit&perline=12" alt="My technical skills and tools icons">
   </a>
 </p>
 
