@@ -21,19 +21,29 @@
 
 
 - 💭 Currently learning: Containerization, C, & C++
-- 🦫 Actively developing:
-  + 📝 <a href="https://github.com/m-smith15/webdev_flashcards">WebDev Flashcards</a>: Open Source Web Developer Study Tool App | MERN (MongoDB, Express, React, Node) ⚛️ <a href="https://webdev-flashcards.vercel.app/">*live deployment*</a> hosted on Vercel
+- 🦫 Actively developing: 📝 [*WebDev Flashcards*](https://webdev-flashcards.vercel.app/) - An Open Source Web Developer Study Tool App 
+  + Built with MERN (MongoDB, Express, React, Node) ⚛️ deployed on Vercel
+  + [*WebDev Flashcards Repo*](https://github.com/m-smith15/webdev_flashcards)
 - 🔮 My Future curiousities: [ C#/.Net, Ruby/Ruby on Rails, GraphQL]
 - 📫 How to reach me: **coren.frankel@gmail.com**
 
 ## Some of my other projects:
 
-- 🔫 Independent projects: 
-  + 🕹️ <a href="https://github.com/coren-frankel/NinjaSweeper">NinjaSweeper</a>: Minesweeper Game | Vanilla Javascript/CSS/HTML 🕸️ <a href="https://coren-frankel.github.io/NinjaSweeper/">*live site*</a> 
-  + 🤧 <a href="https://github.com/coren-frankel/LookAchoo">LookAchoo</a>: Geolocal Sneeze Context App | MERN (MongoDB, Express, React, Node) ⚛️ <a href="https://look-achoo.vercel.app">*live deployment*</a> hosted on Vercel
-  + 🍳 <a href="https://github.com/coren-frankel/meal_picker">*piqr*</a>: Random Recipe CRUD App | Python/Flask/MySQL 🐍 <a href="http://3.101.63.102/">*live deployment*</a> hosted on AWS EC2 Instance
+- 💻 My Independent projects: 
+  + 🕹️ [*NinjaSweeper*](https://coren-frankel.github.io/NinjaSweeper/) - Minesweeper Game
+    - Vanilla JavaScript/CSS/HTML 🕸️ hosted with Github Pages
+    - [*NinjaSweeper Repo*](https://github.com/coren-frankel/NinjaSweeper)
+  + 🤧 [*LookAchoo*](https://look-achoo.vercel.app) - Geolocal Sneeze Context App
+    - MERN (MongoDB, Express, React, Node) ⚛️ hosted on Vercel
+    - [*LookAchoo Repo*](https://github.com/coren-frankel/LookAchoo")
+  + 🍳 [*piqr*](http://3.101.63.102/) - Random Recipe CRUD App
+    - Python/Flask/MySQL 🐍 hosted on AWS EC2 Instance
+    - [*piqr Repo*](https://github.com/coren-frankel/meal_picker)
 - ⏸️ On Hiatus:
-  + 🌊 <a href="https://github.com/coren-frankel/VolatilitySurf">VolatilitySurf</a>: Stock Options Volatility Surface Trading Tool | Java/Spring/MySQL ☕  
+  + 🌊 VolatilitySurf - Stock Options Volatility Surface Trading Tool 
+    - Java/Spring/MySQL ☕ no current deployments
+    - [VolatilitySurf Repo](https://github.com/coren-frankel/VolatilitySurf)
+    - This project was a valuable experience in collaboration with other developers. Currently on hold in lieu of data limitations...
 
 <div align=center>
 <h3>Some things that interest me:</h3>
@@ -41,7 +51,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?&pause=400&color=F70000&width=600&align=center&lines=Horror,+Sci-Fi,+Fantasy,+Satire,+Drama;Existentialism,+Absurdism,+Humanism,+Nihilis;All+work+and+no+play+makes+Jack+a+dull+boy...;Survival-Horror,+RPGs,+Puzzle/Story-Driven+Games;Prog-Metal,+Lo-Fi+Hip+Hop,+Pop-Punk,+Indie+et+al.)](https://git.io/typing-svg)
   
 </div>
-<h3 align="center">My Skills and Technologies:</h3>
+<h3 align="center">My Tech:</h3>
 <p align=center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py,java,git,vscode,eclipse,jest,regex,vim,nginx,bootstrap,materialui,tailwind,postgres,mysql,mongodb,spring,maven,flask,hibernate,d3,jquery,nodejs,react,redux,express,nextjs,vercel,aws,gcp,babel,docker,codepen,replit&perline=12" alt="My technical skills and tools icons">
