@@ -54,10 +54,10 @@
 <h3 align="center">My Tech:</h3>
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,git,vscode,eclipse,jest,regex,vim,nginx,bootstrap,materialui,tailwind,postgres,mysql,mongodb,spring,maven,flask,hibernate,d3,jquery,nodejs,react,redux,express,nextjs,vercel,aws,gcp,babel,docker,codepen,replit&perline=12" alt="My technical skills and tools icons">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,md,git,vscode,eclipse,idea,jest,regex,vim,nginx,figma,bootstrap,materialui,tailwind,postgres,mysql,mongodb,spring,maven,flask,hibernate,d3,jquery,nodejs,react,redux,express,nextjs,vercel,aws,gcp,babel,docker,codepen,replit&perline=13" alt="My technical skills and tools icons">
   </a>
 </p>
-
+<!-- 
 <ul>
   <li>Languages: [Python, Java, JavaScript, TypeScript, SQL, HTML5, CSS3]</li>
   <li>Frontend: [ReactJS, Bootstrap, Material UI, Tailwind CSS, Jinja2, JSX, Redux]</li>
@@ -74,7 +74,7 @@
   <li>Persistence & Validation: [JPA, session, bcrypt, flash messaging, regular expressions, webhooks]</li>
   <li>Exposure: [C, Angular, Nest.js, C#, Docker, React Native]</li>
 </ul>
-
+ -->
 <hr/>
 <details>
   <summary>See some GH stats:</summary>
