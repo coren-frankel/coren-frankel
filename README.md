@@ -19,12 +19,13 @@
   <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20views&color=0e75b6&style=plastic" alt="coren-frankel" />
 </div>
 
+## Current Projects & Focuses:
 
-- 💭 Currently learning: Containerization, C, & C++
+- 💭 Currently studying: Java 11/React/Docker & C# fundamentals
 - 🦫 Actively developing: 📝 [*WebDev Flashcards*](https://webdev-flashcards.vercel.app/) - An Open Source Web Developer Study Tool App 
   + Built with MERN (MongoDB, Express, React, Node) ⚛️ deployed on Vercel
   + [*WebDev Flashcards Repo*](https://github.com/m-smith15/webdev_flashcards)
-- 🔮 My Future curiousities: [ C#/.Net, Ruby/Ruby on Rails, GraphQL]
+- 🔮 My Future curiousities: [ .Net, Ruby/Ruby on Rails, GraphQL]
 - 📫 How to reach me: **coren.frankel@gmail.com**
 
 ## Some of my other projects:
