@@ -1,5 +1,6 @@
 <h1 align=center>Heya, I'm Coren (he/they)</h1>
-
+<h4 align=center>You can call me Kern</h4>
+<hr>
 <h2 align=center>
   I'm a Full Stack Developer with a penchant for open source, freedom of information & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.
 </h2>
