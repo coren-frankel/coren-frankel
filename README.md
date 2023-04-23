@@ -45,12 +45,12 @@
   + 🌊 VolatilitySurf - Stock Options Volatility Surface Trading Tool 
     - Java/Spring/MySQL ☕ no current deployments
     - [VolatilitySurf Repo](https://github.com/coren-frankel/VolatilitySurf)
-    - This project was a valuable experience in collaboration with other developers. Currently on hold in lieu of data limitations...
+    - This project was a valuable experience in collaboration with other developers. Currently on hold in lieu of data access limitations...
 
 <div align=center>
 <h3>Some things that interest me:</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?&pause=400&color=F70000&width=600&align=center&lines=Horror,+Sci-Fi,+Fantasy,+Satire,+Drama;Existentialism,+Absurdism,+Humanism,+Nihilis;All+work+and+no+play+makes+Jack+a+dull+boy...;Survival-Horror,+RPGs,+Puzzle/Story-Driven+Games;Prog-Metal,+Lo-Fi+Hip+Hop,+Pop-Punk,+Indie+et+al.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?&pause=400&color=F70000&width=700&align=center&lines=Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Existentialism,+Absurdism,+Humanism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Jack+a+dull+boy...;Survival-Horror,+RPGs,+Puzzle/Story-Driven+Games;Prog-Metal,+Lo-Fi+Hip+Hop,+Pop-Punk,+Folk,+Indie+et+al.)](https://git.io/typing-svg)
   
 </div>
 <h3 align="center">My Tech:</h3>
