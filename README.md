@@ -14,10 +14,8 @@
 <div align="center">
   <h2>Welcome to my world!</h2>
   <img src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp" rel="sesame street yippers computer download gif">
-  <img src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47p7u3l0aa7m28ymkrqyfa3n1lwoz9u065553elekl&rid=giphy.gif&ct=g" height=240>
-  <img src="https://media1.giphy.com/media/4H5bl9dHUQrAiG0cBX/giphy.gif?cid=ecf05e471vltiakmgeok7to0mpoq00v1mfjb709twifn5yj7&rid=giphy.gif&ct=g" height=240>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20views&color=0e75b6&style=plastic" alt="coren-frankel" />
+  <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20views&color=red&style=plastic" alt="coren-frankel" />
 </div>
 
 ## Current Projects & Focuses:
