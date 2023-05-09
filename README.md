@@ -20,11 +20,11 @@
 
 ## Current Projects & Focuses:
 
-- 💭 Currently studying: Java 11/React/Docker & C# fundamentals
-- 🦫 Actively developing: 📝 [*WebDev Flashcards*](https://webdev-flashcards.vercel.app/) - An Open Source Web Developer Study Tool App 
+- 💭 Currently studying: Java 11/React/Docker
+- 🦫 Ongoing Project: 📝 [*WebDev Flashcards*](https://webdev-flashcards.vercel.app/) - An Open Source Web Developer Study Tool App 
   + Built with MERN (MongoDB, Express, React, Node) ⚛️ deployed on Vercel
   + [*WebDev Flashcards Repo*](https://github.com/m-smith15/webdev_flashcards)
-- 🔮 My Future curiousities: [ .Net, Ruby/Ruby on Rails, GraphQL]
+- 🔮 My Future curiousities: [ .Net, Ruby/ on Rails, GraphQL]
 - 📫 How to reach me: **coren.frankel@gmail.com**
 
 ## Some of my other projects:
@@ -54,7 +54,13 @@
 <h3 align="center">My Tech:</h3>
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,md,git,vscode,eclipse,idea,jest,regex,vim,nginx,figma,bootstrap,materialui,tailwind,postgres,mysql,mongodb,spring,maven,flask,hibernate,d3,jquery,nodejs,react,redux,express,nextjs,vercel,aws,gcp,babel,docker,codepen,replit&perline=13" alt="My technical skills and tools icons">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,md,git,vscode,eclipse,idea,jest,regex,vim,nginx,figma,bootstrap,materialui,tailwind,postgres,mysql,mongodb,spring,maven,flask,hibernate,d3,jquery,nodejs,react,redux,express,nextjs,vercel,aws,gcp,babel,docker,codepen,replit&perline=10" alt="My technical skills and tools icons">
+  </a>
+</p>
+<h3 align=center>Some Experience With:</h3>
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,angular,dotnet,nestjs,firebase,androidstudio,visualstudio,selenium,svg" alt="My technical skills and tools icons">
   </a>
 </p>
 <!-- 
