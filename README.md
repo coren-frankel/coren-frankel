@@ -20,7 +20,7 @@
 
 ## Current Projects & Focuses:
 
-- 💭 Currently studying: Java 11/React/Docker
+- 💭 Currently studying: Java 17 with React & Docker
 - 🦫 Ongoing Project: 📝 [*WebDev Flashcards*](https://webdev-flashcards.vercel.app/) - An Open Source Web Developer Study Tool App 
   + Built with MERN (MongoDB, Express, React, Node) ⚛️ deployed on Vercel
   + [*WebDev Flashcards Repo*](https://github.com/m-smith15/webdev_flashcards)
