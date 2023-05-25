@@ -88,9 +88,9 @@
   <div align="center">
     <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coren-frankel&column=-1&theme=dark_lover" alt="coren-frankel" /></a> </p>
     <p style="display: flex; justify-content: space-between;">
-      <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=coren-frankel&theme=outrun&show_icons=true" />
+      <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=outrun&show_icons=true" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=coren-frankel&layout=compact&show_icons=true&theme=yeblu" alt="coren-frankel" /></p>
-    <p><img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=cobalt2&show_icons=true&langs_count=6" /></p>
+    <p><img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=donut-vertical&theme=cobalt2&show_icons=true&langs_count=6" /></p>
     <h4>Check me out! Whooa <em>Bad snek!</em></h4>
 
 ![Snake animation](https://github.com/coren-frankel/coren-frankel/blob/output/github-contribution-grid-snake.svg)
