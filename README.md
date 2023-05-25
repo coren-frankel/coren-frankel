@@ -86,7 +86,7 @@
   <summary>See some GH stats:</summary>
   <br>
   <div align="center">
-    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coren-frankel&column=-1&theme=dark_lover" alt="coren-frankel" /></a> </p>
+    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coren-frankel&column=3&theme=matrix&rank=-C" alt="coren-frankel" /></a> </p>
     <p style="display: flex; justify-content: space-between;">
       <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=radical&show_icons=true" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=coren-frankel&layout=compact&show_icons=true&theme=onedark" alt="coren-frankel" /></p>
