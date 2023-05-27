@@ -33,11 +33,11 @@
   + 🕹️ [*NinjaSweeper*](https://coren-frankel.github.io/NinjaSweeper/) - Minesweeper Game
     - Vanilla JavaScript/CSS/HTML 🕸️ hosted with Github Pages
     - [*NinjaSweeper Repo*](https://github.com/coren-frankel/NinjaSweeper)
-  + 🤧 [*LookAchoo*](https://look-achoo.vercel.app) - Geolocal Sneeze Context App
+  + 🤧 *LookAchoo* - Geolocal Sneeze Context App
     - MERN (MongoDB, Express, React, Node) ⚛️ hosted on Vercel
     - [*LookAchoo Repo*](https://github.com/coren-frankel/LookAchoo")
   + 🍳 [*piqr*](http://3.101.63.102/) - Random Recipe CRUD App
-    - Python/Flask/MySQL 🐍 hosted on AWS EC2 Instance
+    - Python/Flask/MySQL 🐍 hosted on AWS EC2 Instance -- **deployment instance will be terminated June 2023**
     - [*piqr Repo*](https://github.com/coren-frankel/meal_picker)
 - ⏸️ On Hiatus:
   + 🌊 VolatilitySurf - Stock Options Volatility Surface Trading Tool 
