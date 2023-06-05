@@ -51,18 +51,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?&pause=400&color=F70000&width=700&align=center&lines=Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Existentialism,+Absurdism,+Humanism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Jack+a+dull+boy...;Survival-Horror,+RPGs,+Puzzle/Story-Driven+Games;Prog-Metal,+Lo-Fi+Hip+Hop,+Pop-Punk,+Folk,+Indie+et+al.)](https://git.io/typing-svg)
   
 </div>
-<h3 align="center">My Tech:</h3>
-<p align=center>
+<details>
+  <summary>My Tech:</summary>
+  <br/>
+  <p align=center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,md,git,vscode,eclipse,idea,jest,regex,vim,nginx,figma,bootstrap,materialui,tailwind,postgres,mysql,mongodb,spring,maven,flask,hibernate,d3,jquery,nodejs,react,redux,express,nextjs,vercel,aws,gcp,babel,docker,codepen,replit&perline=10" alt="My technical skills and tools icons">
   </a>
-</p>
-<h3 align=center>Some Experience With:</h3>
-<p align=center>
+  </p>
+</details>
+<details>
+  <summary>Exposure to:</summary>
+  <br/>
+  <p align=center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,angular,dotnet,nestjs,firebase,androidstudio,visualstudio,selenium,svg" alt="My technical skills and tools icons">
   </a>
-</p>
+  </p>
+</details>
 <!-- 
 <ul>
   <li>Languages: [Python, Java, JavaScript, TypeScript, SQL, HTML5, CSS3]</li>
