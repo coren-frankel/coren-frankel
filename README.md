@@ -1,34 +1,31 @@
 <h1 align=center>Heya, I'm Coren (he/they)</h1>
-<h4 align=center>You can call me Kern</h4>
-<hr>
+<p align=center>You can call me Kern</p>
 <h2 align=center>
   I'm a Full Stack Developer with a penchant for open source, freedom of information & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.
 </h2>
-<h1 align=center>Reach out! I'm on:
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
-[![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=black&labelColor=white)](https://stackoverflow.com/users/19356052/unclebabykern?tab=profile)
-  
-</h1>
 <div align="center">
-  <h2>Welcome to my world!</h2>
-  <img src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp" rel="sesame street yippers computer download gif">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjA2OTNhZTY0M2MxMzNlZjMxNTdmNmU1NjllMTI1NzcwMGU5MDg1ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26BRysRhoxk2CGHBe/giphy.gif"/>
   <br/>
+  <caption>Hey Kid! I'm a computer, Stop all the downloading</caption>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20views&color=red&style=plastic" alt="coren-frankel" />
 </div>
 
-## Current Projects & Focuses:
+## Current Focuses:
 
-- 💭 Currently studying: Java 17 with React & Docker
-- 🦫 Ongoing Project: 📝 [*WebDev Flashcards*](https://webdev-flashcards.vercel.app/) - An Open Source Web Developer Study Tool App 
-  + Built with MERN (MongoDB, Express, React, Node) ⚛️ deployed on Vercel
-  + [*WebDev Flashcards Repo*](https://github.com/m-smith15/webdev_flashcards)
-- 🔮 My Future curiousities: [ .Net, Ruby/ on Rails, GraphQL]
-- 📫 How to reach me: **coren.frankel@gmail.com**
+- 💭 Currently studying: Java 17 with React, Docker, & MySQL
+- ⚙️ Collaborating & developing as a Dev10 Associate
+- 💌 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
+[![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=black&labelColor=white)](https://stackoverflow.com/users/19356052/unclebabykern?tab=profile)
 
-## Some of my other projects:
+## Some of my projects:
 
+- 🦫 Ongoing Project: 
+  + 📝 [*WebDev Flashcards*](https://webdev-flashcards.vercel.app/) - An Open Source Web Developer Study Tool App 
+    - Built with MERN (MongoDB, Express, React, Node) ⚛️ deployed on Vercel
+    - [*WebDev Flashcards Repo*](https://github.com/m-smith15/webdev_flashcards)
 - 💻 My Independent projects: 
   + 🕹️ [*NinjaSweeper*](https://coren-frankel.github.io/NinjaSweeper/) - Minesweeper Game
     - Vanilla JavaScript/CSS/HTML 🕸️ hosted with Github Pages
@@ -89,15 +86,17 @@
  -->
 <hr/>
 <details>
-  <summary>See some GH stats:</summary>
+  <summary>Github stats:</summary>
   <br>
   <div align="center">
-    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coren-frankel&column=3&theme=matrix&rank=-C" alt="coren-frankel" /></a> </p>
+    <p align="center">  </p>
     <p style="display: flex; justify-content: space-between;">
+      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coren-frankel&column=3&theme=matrix&rank=-C" alt="coren-frankel" /></a>
       <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=radical&show_icons=true" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=coren-frankel&layout=compact&show_icons=true&theme=onedark" alt="coren-frankel" /></p>
-    <p><img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=donut-vertical&theme=blue-green&show_icons=true&langs_count=6&count-private=true" /></p>
-    <h4>Check me out! Whooa <em>Bad snek!</em></h4>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=coren-frankel&layout=compact&show_icons=true&theme=onedark" alt="coren-frankel" />
+      <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=donut&theme=blue-green&show_icons=true&langs_count=6&count-private=true" />
+    </p>
+    <h4>Whooa <em>Hungry snek!</em></h4>
 
 ![Snake animation](https://github.com/coren-frankel/coren-frankel/blob/output/github-contribution-grid-snake.svg)
 
