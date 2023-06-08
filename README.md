@@ -1,11 +1,16 @@
-<h1 align=center>Heya, I'm Coren (he/they)</h1>
+<h1 align=center style="display: flex; align-items: center">
+  <img alt="animated explosion" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.clipartbest.com%2Fcliparts%2Fjcx%2FEBd%2FjcxEBd7ji.gif&f=1&nofb=1&ipt=72009541ae89b3d30182b8b18c8f945896397035df3841c7cae80c36c96771a6&ipo=images" height="50" width="auto">
+  Heya, I'm Coren (he/they)
+  <img alt="animated fire" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fv60i3qrc9hni0%2Fgiphy.gif&f=1&nofb=1&ipt=4e9edaec48c0a6462f59a200a616d3bef6e5290799c378c30360e8531f57c159&ipo=images" height="50" width="auto">
+</h1>
+
 <p align=center>You can call me Kern</p>
 <h2 align=center>
   I'm a Full Stack Developer with a penchant for open source, freedom of information & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.
 </h2>
   
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjA2OTNhZTY0M2MxMzNlZjMxNTdmNmU1NjllMTI1NzcwMGU5MDg1ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26BRysRhoxk2CGHBe/giphy.gif"/>
+  <img alt="old computer animation loop" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F13TOUjA0sP60mI%2Fgiphy.gif&f=1&nofb=1&ipt=7861546bbd2d138a4444a5986f370a98b7c5e12b5811642e0376aea5479d8e8b&ipo=images"/>
   <br/>
   <caption>Hey Kid! I'm a computer, Stop all the downloading</caption>
   <br>
