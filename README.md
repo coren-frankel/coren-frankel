@@ -1,7 +1,7 @@
-<h1 align=center style="display: flex; align-items: center">
+<h1 align=center>
   <img alt="animated explosion" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.clipartbest.com%2Fcliparts%2Fjcx%2FEBd%2FjcxEBd7ji.gif&f=1&nofb=1&ipt=72009541ae89b3d30182b8b18c8f945896397035df3841c7cae80c36c96771a6&ipo=images" height="50" width="auto">
   Heya, I'm Coren (he/they)
-  <img alt="animated fire" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fv60i3qrc9hni0%2Fgiphy.gif&f=1&nofb=1&ipt=4e9edaec48c0a6462f59a200a616d3bef6e5290799c378c30360e8531f57c159&ipo=images" height="50" width="auto">
+  <img alt="animated fire" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fv60i3qrc9hni0%2Fgiphy.gif&f=1&nofb=1&ipt=4e9edaec48c0a6462f59a200a616d3bef6e5290799c378c30360e8531f57c159&ipo=images" height="50" width="auto" style="transform:rotate(90deg);">
 </h1>
 
 <p align=center>You can call me Kern</p>
