@@ -89,9 +89,7 @@
   <summary>Github stats:</summary>
   <br>
   <div align="center">
-    <p align="center">  </p>
-    <p style="display: flex; justify-content: space-between;">
-      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coren-frankel&column=3&theme=matrix&rank=-C" alt="coren-frankel" /></a>
+    <p align="center">  
       <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=radical&show_icons=true" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=coren-frankel&layout=compact&show_icons=true&theme=onedark" alt="coren-frankel" />
       <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=donut&theme=blue-green&show_icons=true&langs_count=6&count-private=true" />
