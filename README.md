@@ -27,11 +27,17 @@
 
 ## Some of my projects:
 
-- 🦫 Ongoing Project: 
+<details>
+  <summary>🦫 Ongoing Project:</summary>
+  
   + 📝 [*WebDev Flashcards*](https://webdev-flashcards.vercel.app/) - An Open Source Web Developer Study Tool App 
     - Built with MERN (MongoDB, Express, React, Node) ⚛️ deployed on Vercel
     - [*WebDev Flashcards Repo*](https://github.com/m-smith15/webdev_flashcards)
-- 💻 My Independent projects: 
+  
+</details>
+<details>
+  <summary>💻 My Independent projects:</summary>
+  
   + 🕹️ [*NinjaSweeper*](https://coren-frankel.github.io/NinjaSweeper/) - Minesweeper Game
     - Vanilla JavaScript/CSS/HTML 🕸️ hosted with Github Pages
     - [*NinjaSweeper Repo*](https://github.com/coren-frankel/NinjaSweeper)
@@ -39,13 +45,19 @@
     - MERN (MongoDB, Express, React, Node) ⚛️ hosted on Vercel
     - [*LookAchoo Repo*](https://github.com/coren-frankel/LookAchoo")
   + 🍳 [*piqr*](http://3.101.63.102/) - Random Recipe CRUD App
-    - Python/Flask/MySQL 🐍 hosted on AWS EC2 Instance -- **deployment instance will be terminated June 2023**
+    - Python/Flask/MySQL 🐍 hosted on AWS EC2 Instance -- **free tier instance will be terminated July 2023**
     - [*piqr Repo*](https://github.com/coren-frankel/meal_picker)
-- ⏸️ On Hiatus:
+  
+</details>
+<details>
+  <summary>⏸️ On Hiatus:</summary>
+  
   + 🌊 VolatilitySurf - Stock Options Volatility Surface Trading Tool 
     - Java/Spring/MySQL ☕ no current deployments
     - [VolatilitySurf Repo](https://github.com/coren-frankel/VolatilitySurf)
     - This project was a valuable experience in collaboration with other developers. Currently on hold in lieu of data access limitations...
+  
+</details>
 
 <div align=center>
 <h3>Some things that interest me:</h3>
@@ -53,21 +65,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?&pause=400&color=F70000&width=700&align=center&lines=Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Existentialism,+Absurdism,+Humanism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Jack+a+dull+boy...;Survival-Horror,+RPGs,+Puzzle/Story-Driven+Games;Prog-Metal,+Lo-Fi+Hip+Hop,+Pop-Punk,+Folk,+Indie+et+al.)](https://git.io/typing-svg)
   
 </div>
-<details>
-  <summary>My Tech:</summary>
-  <br/>
-  <p align=center>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,md,git,vscode,eclipse,idea,jest,regex,vim,nginx,figma,bootstrap,materialui,tailwind,postgres,mysql,mongodb,spring,maven,flask,hibernate,d3,jquery,nodejs,react,redux,express,nextjs,vercel,aws,gcp,babel,docker,codepen,replit&perline=10" alt="My technical skills and tools icons">
-  </a>
-  </p>
-</details>
+
+## My Tools:
+
+<p align=center>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,md,js,ts,py,java,git,jquery,react,babel,redux,express,nextjs,spring,maven,hibernate,flask,vscode,eclipse,idea,vim,jest,regex,figma,bootstrap,materialui,tailwind,d3,nodejs,postgres,mysql,mongodb,docker,vercel,aws,nginx,gcp,codepen,replit&perline=8" alt="My technical skills and tools icons">
+</a>
+</p>
+  
 <details>
   <summary>Exposure to:</summary>
   <br/>
   <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,angular,dotnet,nestjs,firebase,androidstudio,visualstudio,selenium,svg" alt="My technical skills and tools icons">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,angular,dotnet,nestjs,firebase,sqlite,androidstudio,visualstudio,selenium,svg,powershell,linux&perline=7" alt="My technical skills and tools icons">
   </a>
   </p>
 </details>
@@ -97,14 +109,16 @@
     <p align="center">  
       <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=radical&show_icons=true" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=coren-frankel&layout=compact&show_icons=true&theme=onedark" alt="coren-frankel" />
-      <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=donut&theme=blue-green&show_icons=true&langs_count=6&count-private=true" />
+      <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=blue-green&show_icons=true&langs_count=6&count-private=true" />
     </p>
-    <h4>Whooa <em>Hungry snek!</em></h4>
-
-![Snake animation](https://github.com/coren-frankel/coren-frankel/blob/output/github-contribution-grid-snake.svg)
-
+    
   </div>
 </details>
+<div align=center>
+  <h4>Whooa <em>Hungry snek!</em></h4>
+
+![Snake animation](https://github.com/coren-frankel/coren-frankel/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <div align=center>
   
