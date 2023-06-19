@@ -44,8 +44,8 @@
   + 🤧 *LookAchoo* - Geolocal Sneeze Context App
     - MERN (MongoDB, Express, React, Node) ⚛️ hosted on Vercel
     - [*LookAchoo Repo*](https://github.com/coren-frankel/LookAchoo")
-  + 🍳 [*piqr*](http://3.101.63.102/) - Random Recipe CRUD App
-    - Python/Flask/MySQL 🐍 hosted on AWS EC2 Instance -- **free tier instance will be terminated July 2023**
+  + 🍳 *piqr* - Random Recipe CRUD App
+    - Python/Flask/MySQL 🐍 hosted on AWS EC2 Instance -- **free tier instance terminated June 2023**
     - [*piqr Repo*](https://github.com/coren-frankel/meal_picker)
   
 </details>
