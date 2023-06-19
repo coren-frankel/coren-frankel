@@ -113,7 +113,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=coren-frankel&layout=compact&show_icons=true&theme=onedark" alt="coren-frankel" />
     </p>
     <p align="center">
-      <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=blue-green&show_icons=true&langs_count=6&count-private=true" />
+      <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=blue-green&show_icons=true&langs_count=3&count-private=true" />
     </p>
     
   </div>
