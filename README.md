@@ -86,19 +86,19 @@
 <!-- 
 <ul>
   <li>Languages: [Python, Java, JavaScript, TypeScript, SQL, HTML5, CSS3]</li>
-  <li>Frontend: [ReactJS, Bootstrap, Material UI, Tailwind CSS, Jinja2, JSX, Redux]</li>
+  <li>Frontend: [ReactJS, React Native, Bootstrap, Material UI, Tailwind CSS, Jinja2, JSX, Redux]</li>
   <li>Backend: [ExpressJS, Flask, Spring Boot, Apache Tomcat, Apache Maven, Nodemon]</li>
   <li>Fullstack: [NodeJS, AJAX (Fetch, Axios), JSP & JSTL, JSON, npm, Socket.io, Next.js]
-  <li>Databases: [MySQL, MongoDB, PostgreSQL]</li>
+  <li>Databases: [MySQL, MongoDB, PostgreSQL, SQLite]</li>
   <li>DevOps: [AWS EC2, Vercel, Google Cloud Platform, MongoDB Atlas, Gunicorn, Nginx]</li>
-  <li>UI/UX Design: [Balsamiq, Trello]</li>
-  <li>myIDEs: [Postman, MySQL Workbench, VS Code, Spring Tool Suite 4, MongoDB Compass]</li>
-  <li>Other Tools: [Jest, D3.js, Plotly, Anime.js, Chrome DevTools, dotenv, PyMySQL, Unirest, Mongoose]</li>
+  <li>UI/UX Design & Planning: [Balsamiq, Figma, Trello]</li>
+  <li>myIDEs: [Postman, MySQL Workbench, VS Code, Spring Tool Suite, Eclipse, MongoDB Compass, IntelliJ Idea]</li>
+  <li>Other Tools: [Jest, JUnit, D3.js, Plotly, Anime.js, Chrome DevTools, dotenv, PyMySQL, Unirest, Mongoose, Docker]</li>
   <li>Version Control: [Git, Github]</li>
   <li>OS: [macOS, (Ubuntu & Windows proficient)]</li>
   <li>Concepts & Methodologies: [ORM, NoSQL, Agile, Waterfall, Kanban, Scrum, SDLC, REST, MVC, TDD, OOP, Functional Programming]</li>
-  <li>Persistence & Validation: [JPA, session, bcrypt, flash messaging, regular expressions, webhooks]</li>
-  <li>Exposure: [C, Angular, Nest.js, C#, Docker, React Native]</li>
+  <li>Persistence & Validation: [JPA, JDBC, session, bcrypt, flash messaging, regular expressions, webhooks]</li>
+  <li>Exposure: [C, C++, C#, Angular, Nest.js]</li>
 </ul>
  -->
 <hr/>
