@@ -4,7 +4,7 @@
   <img alt="animated fire" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fv60i3qrc9hni0%2Fgiphy.gif&f=1&nofb=1&ipt=4e9edaec48c0a6462f59a200a616d3bef6e5290799c378c30360e8531f57c159&ipo=images" height="50" width="auto" style="transform:rotate(90deg);">
 </h1>
 
-<p align=center>You can call me Kern</p>
+<p align=center>But you can call me Kern</p>
 <h2 align=center>
   I'm a Full Stack Developer with a penchant for open source, freedom of information & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.
 </h2>
@@ -19,19 +19,24 @@
 
 ## Current Focuses:
 
-- 💭 Currently studying: Java 17 with React, Docker, & MySQL
-- ⚙️ Collaborating & developing as a Dev10 Associate
+- 💭 Currently studying: Java 17, Spring, React, Docker, MySQL, & Agile Methodologies
+- ⚙️ Collaborating & upskilling as a Dev10 Associate
 - 💌 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
 [![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=black&labelColor=white)](https://stackoverflow.com/users/19356052/unclebabykern?tab=profile)
 
-## Some of my projects:
+## Projects:
 
 <details>
-  <summary>🦫 Ongoing Project:</summary>
-  
+  <summary>🦫 Ongoing Projects:</summary>
+
+  + 🍔 *GetYum* - A User-driven & spoonacular-fueled Recipe-to-Grocery List app with Spotify Web player integration
+    - Java/Spring/MySQL/React  ☕️🍃🐬⚛️
+    - no current deployments - in development
+    - Coming Soon... **Repository currently Private**
   + 📝 [*WebDev Flashcards*](https://webdev-flashcards.vercel.app/) - An Open Source Web Developer Study Tool App 
-    - Built with MERN (MongoDB, Express, React, Node) ⚛️ deployed on Vercel
+    - MERN stack (MongoDB, Express, React, Node) ⚛️
+    - deployed on Vercel
     - [*WebDev Flashcards Repo*](https://github.com/m-smith15/webdev_flashcards)
   
 </details>
@@ -39,13 +44,12 @@
   <summary>💻 My Independent projects:</summary>
   
   + 🕹️ [*NinjaSweeper*](https://coren-frankel.github.io/NinjaSweeper/) - Minesweeper Game
-    - Vanilla JavaScript/CSS/HTML 🕸️ hosted with Github Pages
+    - Vanilla JavaScript/CSS/HTML  🍦🕸️
+    - hosted with Github Pages
     - [*NinjaSweeper Repo*](https://github.com/coren-frankel/NinjaSweeper)
-  + 🤧 *LookAchoo* - Geolocal Sneeze Context App
-    - MERN (MongoDB, Express, React, Node) ⚛️ hosted on Vercel
-    - [*LookAchoo Repo*](https://github.com/coren-frankel/LookAchoo")
   + 🍳 *piqr* - Random Recipe CRUD App
-    - Python/Flask/MySQL 🐍 hosted on AWS EC2 Instance -- **free tier instance terminated June 2023**
+    - Python/Flask/MySQL  🐍🍾🐬
+    - **Free tier AWS EC2 instance terminated June 2023**
     - [*piqr Repo*](https://github.com/coren-frankel/meal_picker)
   
 </details>
@@ -53,9 +57,15 @@
   <summary>⏸️ On Hiatus:</summary>
   
   + 🌊 VolatilitySurf - Stock Options Volatility Surface Trading Tool 
-    - Java/Spring/MySQL ☕ no current deployments
+    - Java/Spring/MySQL  ☕️🍃🐬
+    - no current deployments
     - [VolatilitySurf Repo](https://github.com/coren-frankel/VolatilitySurf)
-    - This project was a valuable experience in collaboration with other developers. Currently on hold in lieu of data access limitations...
+    - Currently on hold in lieu of data access limitations...
+  + 🤧 *LookAchoo* - Geolocal Sneeze Context App
+    - MERN stack (MongoDB, Express, React, Node) ⚛️
+    - hosted on Vercel
+    - [*LookAchoo Repo*](https://github.com/coren-frankel/LookAchoo")
+    - On hold for other projects
   
 </details>
 
