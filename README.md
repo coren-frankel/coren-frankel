@@ -10,7 +10,7 @@
 </h2>
   
 <div align="center">
-  <img alt="old computer santa's sleigh animation loop" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F13TOUjA0sP60mI%2Fgiphy.gif&f=1&nofb=1&ipt=7861546bbd2d138a4444a5986f370a98b7c5e12b5811642e0376aea5479d8e8b&ipo=images"/>
+  <img alt="sesame street yippers find computer" src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp"/>
   <br/>
   <caption>Hey Kid, I'm a computer. Stop all the downloading.</caption>
   <br>
