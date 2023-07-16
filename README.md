@@ -130,7 +130,7 @@
   <div align=center>
   <h4>Whooa <em>Hungry snek!</em></h4>
 
-  ![Snake animation](https://github.com/coren-frankel/coren-frankel/blob/output/github-contribution-grid-snake.svg)
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg" />
 
 <!--
   <picture>
