@@ -33,7 +33,7 @@
   + 🍔 *GetYum* - A User-driven & spoonacular-fueled Recipe-to-Grocery List app with Spotify Web player integration
     - Java/Spring/MySQL/React  ☕️🍃🐬⚛️
     - no current deployments - in development
-    - Coming Soon... **Repository currently Private**
+    - **Repository currently Private** Coming Soon... 
   + 📝 [*WebDev Flashcards*](https://webdev-flashcards.vercel.app/) - An Open Source Web Developer Study Tool App 
     - MERN stack (MongoDB, Express, React, Node) ⚛️
     - deployed on Vercel
@@ -41,7 +41,7 @@
   
 </details>
 <details>
-  <summary>💻 My Independent projects:</summary>
+  <summary>🪞 My Independent projects:</summary>
   
   + 🕹️ [*NinjaSweeper*](https://coren-frankel.github.io/NinjaSweeper/) - Minesweeper Game
     - Vanilla JavaScript/CSS/HTML  🍦🕸️
@@ -60,12 +60,12 @@
     - Java/Spring/MySQL  ☕️🍃🐬
     - no current deployments
     - [VolatilitySurf Repo](https://github.com/coren-frankel/VolatilitySurf)
-    - Currently on hold in lieu of data access limitations...
+    - Collaborative-project: On hold in lieu of data access limitations...
   + 🤧 *LookAchoo* - Geolocal Sneeze Context App
     - MERN stack (MongoDB, Express, React, Node) ⚛️
     - hosted on Vercel
     - [*LookAchoo Repo*](https://github.com/coren-frankel/LookAchoo")
-    - On hold for other projects
+    - Solo-project: On hold for other projects
   
 </details>
 
