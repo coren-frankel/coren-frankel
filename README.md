@@ -79,13 +79,9 @@
 ## I've Built With:
 
 <p align=center>
-<a href="https://skillicons.dev">
-  <picture>
-    <img src="https://skillicons.dev/icons?i=html,css,md,js,ts,py,java,git,jquery,react,babel,redux,express,nextjs,spring,maven,hibernate,flask,vscode,eclipse,idea,vim,jest,regex,figma,bootstrap,materialui,tailwind,d3,nodejs,postgres,mysql,mongodb,docker,vercel,aws,nginx,gcp,codepen,replit,github&perline=6&theme=light" alt="My technical skills and tools icons">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,md,js,ts,py,java,git,jquery,react,babel,redux,express,nextjs,spring,maven,hibernate,flask,vscode,eclipse,idea,vim,jest,regex,figma,bootstrap,materialui,tailwind,d3,nodejs,postgres,mysql,mongodb,docker,vercel,aws,nginx,gcp,codepen,replit,github&perline=6">
-  </picture>
-  
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,md,js,py,java,git,jquery,react,babel,redux,express,nextjs,spring,maven,hibernate,flask,vscode,eclipse,idea,vim,jest,regex,figma,bootstrap,materialui,tailwind,d3,nodejs,postgres,mysql,mongodb,docker,vercel,aws,nginx,gcp,codepen,replit,github&perline=6" alt="My technical skills and tools icons">
+  </a>
 </p>
   
 <details>
@@ -95,7 +91,7 @@
   <br/>
   <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,angular,dotnet,nestjs,firebase,sqlite,androidstudio,visualstudio,figma,svg,powershell,linux,apollo,graphql,githubactions&perline=6" alt="My technical skills and tools icons">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,angular,dotnet,nestjs,firebase,sqlite,androidstudio,visualstudio,figma,svg,powershell,linux,apollo,graphql,githubactions&perline=6" alt="My technical skills and tools icons">
   </a>
   </p>
 </details>
