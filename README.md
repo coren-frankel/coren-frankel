@@ -129,8 +129,11 @@
   </div>
   <div align=center>
     <h4>Whooa <em>Hungry snek!</em></h4>
-    
-  ![snake animation](https://github.com/coren-frankel/coren-frankel/blob/output/github-contribution-grid-snake2.svg)
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg">
+    </picture>
   </div>
 </details>
 
