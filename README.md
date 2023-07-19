@@ -130,7 +130,7 @@
   <div align=center>
     <h4>Whooa <em>Hungry snek!</em></h4>
     
-    ![snake animation](https://github.com/coren-frankel/coren-frankel/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/coren-frankel/coren-frankel/blob/output/github-contribution-grid-snake2.svg)
   </div>
 </details>
 
