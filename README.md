@@ -12,9 +12,10 @@
 <div align="center">
   <img alt="sesame street yippers find computer" src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp"/>
   <br/>
-  <caption>Hey Kid, I'm a computer. Stop all the downloading.</caption>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20views&color=red&style=plastic" alt="coren-frankel" />
+  <caption>Ohh! The Wonder!</caption>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20Views&color=4CC733&style=for-the-badge" alt="profile view count" />
+  <br/>
 </div>
 
 ## Current Focuses:
@@ -80,7 +81,7 @@
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,md,js,py,java,git,jquery,react,babel,redux,express,nextjs,spring,maven,hibernate,flask,vscode,eclipse,idea,vim,jest,regex,figma,bootstrap,materialui,tailwind,d3,nodejs,postgres,mysql,mongodb,docker,vercel,aws,nginx,gcp,codepen,replit,github&perline=6" alt="My technical skills and tools icons">
+    <img src="https://skillicons.dev/icons?i=html,css,md,js,py,java,git,jquery,react,babel,redux,express,nextjs,spring,maven,hibernate,flask,vscode,eclipse,idea,vim,jest,regex,figma,bootstrap,materialui,tailwind,d3,nodejs,postgres,mysql,mongodb,docker,vercel,aws,nginx,gcp,codepen,replit,github&perline=8" alt="My technical skills and tools icons">
   </a>
 </p>
   
