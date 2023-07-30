@@ -14,7 +14,7 @@
   <br/>
   <caption>Ohh! The Wonder!</caption>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20Views&color=4CC733&style=for-the-badge" alt="profile view count" />
+  <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20Page%20Loads&color=4CC733&style=for-the-badge" alt="profile view count" />
   <br/>
 </div>
 
