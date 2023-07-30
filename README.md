@@ -87,12 +87,12 @@
   
 <details>
   <summary>
-    Reveal Lesser Know Technologies
+    Toggle Lesser-Known Tools
   </summary>
   <br/>
   <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,angular,dotnet,nestjs,firebase,sqlite,androidstudio,visualstudio,figma,svg,powershell,linux,apollo,graphql,githubactions&perline=6" alt="My technical skills and tools icons">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,kotlin,angular,dotnet,nestjs,firebase,sqlite,androidstudio,visualstudio,figma,svg,powershell,linux,apollo,graphql,githubactions&perline=5" alt="My technical skills and tools icons">
   </a>
   </p>
 </details>
