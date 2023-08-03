@@ -92,7 +92,7 @@
   <br/>
   <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,kotlin,angular,dotnet,nestjs,firebase,sqlite,androidstudio,visualstudio,figma,svg,powershell,linux,apollo,graphql,githubactions&perline=5" alt="My technical skills and tools icons">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,kotlin,php,angular,dotnet,nestjs,firebase,sqlite,androidstudio,visualstudio,figma,svg,powershell,linux,apollo,graphql,githubactions&perline=5" alt="Other tech I've learned">
   </a>
   </p>
 </details>
