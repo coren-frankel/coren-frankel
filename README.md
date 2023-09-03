@@ -12,7 +12,7 @@
 <div align="center">
   <img alt="sesame street yippers find computer" src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp"/>
   <br/>
-  <caption>Ohh! The Wonder!</caption>
+  <caption>Ohh Look! The Wonder!</caption>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20Page%20Loads&color=4CC733&style=for-the-badge" alt="profile view count" />
   <br/>
