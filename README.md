@@ -1,10 +1,10 @@
 <h1 align=center>
-  <img alt="animated explosion" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.clipartbest.com%2Fcliparts%2Fjcx%2FEBd%2FjcxEBd7ji.gif&f=1&nofb=1&ipt=72009541ae89b3d30182b8b18c8f945896397035df3841c7cae80c36c96771a6&ipo=images" height="50" width="auto">
+  <img alt="animated explosion" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.clipartbest.com%2Fcliparts%2Fjcx%2FEBd%2FjcxEBd7ji.gif&f=1&nofb=1&ipt=72009541ae89b3d30182b8b18c8f945896397035df3841c7cae80c36c96771a6&ipo=images" height="50" width="auto" style="transform:rotate(180deg);">
   Heya, I'm Coren (he/they)
-  <img alt="animated fire" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fv60i3qrc9hni0%2Fgiphy.gif&f=1&nofb=1&ipt=4e9edaec48c0a6462f59a200a616d3bef6e5290799c378c30360e8531f57c159&ipo=images" height="50" width="auto" style="transform:rotate(90deg);">
+  <img alt="animated fire" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fv60i3qrc9hni0%2Fgiphy.gif&f=1&nofb=1&ipt=4e9edaec48c0a6462f59a200a616d3bef6e5290799c378c30360e8531f57c159&ipo=images" height="50" width="auto" style="transform:rotate(270deg);">
 </h1>
 
-<p align=center>But you can call me Kern</p>
+<p align=center>But you can call me... <em>Kern</em></p>
 <h2 align=center>
   I'm a Full Stack Developer with a penchant for open source, freedom of information & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.
 </h2>
@@ -20,8 +20,9 @@
 
 ## Current Focuses:
 
-- 💭 Currently learning more about: GraphQL, Docker, & Dynamic Programming
-- ⚙️ Collaborating & upskilling as a Dev10 Associate
+- 💭 Currently studying: Data Structures in Java
+- 📖 Currently reading: **The Hollows** by *Daniel Church*
+- ⚙️ Collaborating via git & upskilling as a developer & Dev10 Associate
 - 💌 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
 [![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=black&labelColor=white)](https://stackoverflow.com/users/19356052/unclebabykern?tab=profile)
@@ -73,7 +74,7 @@
 <div align=center>
 <h3>Some things that interest me:</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?&pause=400&color=F70000&width=700&align=center&lines=Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Existentialism,+Absurdism,+Humanism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Jack+a+dull+boy...;Survival-Horror,+RPGs,+Puzzle/Story-Driven+Games;Prog-Metal,+Lo-Fi+Hip+Hop,+Pop-Punk,+Folk,+Indie+et+al.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?&pause=400&color=F70000&width=700&align=center&lines=Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Existentialism,+Absurdism,+Humanism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Kern+a+dull+boy...;Survival-Horror,+RPGs,+Puzzle/Story-Driven+Games;Prog-Metal,+Lo-Fi+Hip+Hop,+Pop-Punk,+Folk,+R&B+et+al.)](https://git.io/typing-svg)
   
 </div>
 
@@ -81,18 +82,18 @@
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,md,js,py,java,git,jquery,react,babel,redux,express,nextjs,spring,maven,hibernate,flask,vscode,eclipse,idea,vim,jest,regex,figma,bootstrap,materialui,tailwind,d3,nodejs,postgres,mysql,mongodb,docker,vercel,aws,nginx,gcp,codepen,replit,github&perline=8" alt="My technical skills and tools icons">
+    <img src="https://skillicons.dev/icons?i=html,css,md,js,py,java,jquery,react,express,nextjs,spring,maven,flask,vscode,idea,jest,regex,bootstrap,materialui,tailwind,nodejs,postgres,mysql,mongodb,docker,vercel,aws,gcp&perline=7" alt="My technical skills and tools icons">
   </a>
 </p>
   
 <details>
   <summary>
-    Toggle Lesser-Known Tools
+    I've Experimented With These Tools
   </summary>
   <br/>
   <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,kotlin,php,angular,dotnet,nestjs,firebase,sqlite,androidstudio,visualstudio,figma,svg,powershell,linux,apollo,graphql,githubactions&perline=5" alt="Other tech I've learned">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,kotlin,php,angular,dotnet,nestjs,redux,firebase,sqlite,androidstudio,visualstudio,vim,figma,svg,powershell,linux,apollo,graphql,githubactions,kubernetes,nginx&perline=6" alt="Other tech I've learned">
   </a>
   </p>
 </details>
@@ -110,7 +111,7 @@
   <li>Version Control: [Git, Github]</li>
   <li>OS: [macOS, (Ubuntu & Windows proficient)]</li>
   <li>Concepts & Methodologies: [ORM, NoSQL, Agile, Waterfall, Kanban, Scrum, SDLC, REST, MVC, TDD, OOP, Functional Programming]</li>
-  <li>Persistence & Validation: [JPA, JDBC, session, bcrypt, flash messaging, regular expressions, webhooks]</li>
+  <li>Persistence & Validation: [JPA, JDBC, session, bcrypt, regular expressions, webhooks]</li>
   <li>Exposure: [C, C++, C#, Angular, Nest.js]</li>
 </ul>
  -->
