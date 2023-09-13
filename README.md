@@ -74,7 +74,7 @@
 <div align=center>
 <h3>Some things that interest me:</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?&pause=400&color=F70000&width=700&align=center&lines=Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Existentialism,+Absurdism,+Humanism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Kern+a+dull+boy...;Survival-Horror,+RPGs,+Puzzle/Story-Driven+Games;Prog-Metal,+Lo-Fi+Hip+Hop,+Pop-Punk,+Folk,+R&B+et+al.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?&pause=450&color=F70000&width=780&align=center&lines=Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Isms:+Existentialism,+Absurdism,+Humanism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Kern+a+dull+boy...;Games:+Survival-Horror,+Puzzle-Based,+Story-Driven,+RPGs;Music:+Prog-Metal,+Lo-Fi,+Hip+Hop,+Alt,+Folk,+Punk,+et+al.)](https://git.io/typing-svg)
   
 </div>
 
@@ -118,7 +118,7 @@
 <hr/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coren-frankel&layout=compact&show_icons=true&theme=onedark" alt="coren-frankel" />
+  <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=blue-green&show_icons=true&langs_count=3&count-private=true" />
 </p>
 <details>
   <summary>More Github Stats:</summary>
@@ -128,7 +128,7 @@
       <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=radical&show_icons=true" />
     </p>
     <p align="center">
-      <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=blue-green&show_icons=true&langs_count=3&count-private=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=coren-frankel&layout=compact&show_icons=true&theme=onedark" alt="coren-frankel github contributions stats" />
     </p>
   </div>
   <div align=center>
