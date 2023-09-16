@@ -21,7 +21,7 @@
 ## Current Focuses:
 
 - 💭 Currently studying: Data Structures in Java
-- 📖 Currently reading: **The Hollows** by *Daniel Church*
+- 📖 Currently reading: **White Horse** by *Erika T. Wurth*
 - ⚙️ Collaborating via git & upskilling as a developer & Dev10 Associate
 - 💌 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
 [![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
