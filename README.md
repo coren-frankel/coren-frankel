@@ -20,9 +20,9 @@
 
 ## Current Focuses:
 
-- 💭 Currently studying: Data Structures in Java
+- 💭 Currently studying: TypeScript
 - 📖 Currently reading: **White Horse** by *Erika T. Wurth*
-- ⚙️ Collaborating via git & upskilling as a developer & Dev10 Associate
+- ⚙️ Collaborating via git and upskilling as a developer
 - 💌 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
 [![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=black&labelColor=white)](https://stackoverflow.com/users/19356052/unclebabykern?tab=profile)
@@ -35,7 +35,7 @@
   + 🍔 *GetYum* - A User-driven & spoonacular-fueled Recipe-to-Grocery List app with Spotify Web player integration
     - Java/Spring/MySQL/React  ☕️🍃🐬⚛️
     - no current deployments - in development
-    - **Repository currently Private** Coming Soon... 
+    - [*GetYum Repo*](https://github.com/richzarate1997/recipe_routers#readme) 
   + 📝 [*WebDev Flashcards*](https://webdev-flashcards.vercel.app/) - An Open Source Web Developer Study Tool App 
     - MERN stack (MongoDB, Express, React, Node) ⚛️
     - deployed on Vercel
