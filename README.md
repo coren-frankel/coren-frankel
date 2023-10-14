@@ -20,7 +20,7 @@
 
 ## Current Focuses:
 
-- 💭 Currently studying: TypeScript
+- 💭 Currently studying: TypeScript & npm library publishing
 - 📖 Currently reading: **White Horse** by *Erika T. Wurth*
 - ⚙️ Collaborating via git and upskilling as a developer
 - 💌 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
@@ -32,6 +32,10 @@
 <details>
   <summary>🦫 Ongoing Projects:</summary>
 
+  + 📦 *culinary-unit-abbreviation* - A simple npm libary that converts culinary unit strings into their corresponding abbreviations
+    - TypeScript/Jest
+    - Available through [npm](https://www.npmjs.com/package/culinary-unit-abbreviation)
+    - See the [repository](https://github.com/coren-frankel/culinary-unit-abbreviation)
   + 🍔 *GetYum* - A User-driven & spoonacular-fueled Recipe-to-Grocery List app with Spotify Web player integration
     - Java/Spring/MySQL/React  ☕️🍃🐬⚛️
     - no current deployments - in development
