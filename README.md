@@ -20,7 +20,7 @@
 
 ## Current Focuses:
 
-- 💭 Currently studying: TypeScript & npm library publishing
+- 💭 Currently studying: TypeScript & building/maintaining an npm library
 - 📖 Currently reading: **White Horse** by *Erika T. Wurth*
 - ⚙️ Collaborating via git and upskilling as a developer
 - 💌 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
