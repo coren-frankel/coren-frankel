@@ -86,7 +86,7 @@
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,md,js,py,java,jquery,react,express,nextjs,spring,maven,flask,vscode,idea,jest,regex,bootstrap,materialui,tailwind,nodejs,postgres,mysql,mongodb,docker,vercel,aws,gcp&perline=7" alt="My technical skills and tools icons">
+    <img src="https://skillicons.dev/icons?i=html,css,md,js,ts,py,java,jquery,react,express,nextjs,spring,maven,flask,vscode,idea,jest,regex,bootstrap,materialui,nodejs,postgres,mysql,mongodb,docker,vercel,aws,gcp&perline=7" alt="My technical skills and tools icons">
   </a>
 </p>
   
@@ -97,7 +97,7 @@
   <br/>
   <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,kotlin,php,angular,dotnet,nestjs,redux,firebase,sqlite,androidstudio,visualstudio,vim,figma,svg,powershell,linux,apollo,graphql,githubactions,kubernetes,nginx&perline=6" alt="Other tech I've learned">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,kotlin,php,angular,dotnet,nestjs,redux,firebase,sqlite,androidstudio,visualstudio,vim,tailwind,figma,svg,powershell,linux,apollo,graphql,githubactions,kubernetes,nginx&perline=6" alt="Other tech I've learned">
   </a>
   </p>
 </details>
