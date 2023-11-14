@@ -63,7 +63,7 @@ But you can call me... <em>Kern</em>
     - Java/Spring/MySQL  ☕️🍃🐬
     - no current deployments
     - [VolatilitySurf Repo](https://github.com/coren-frankel/VolatilitySurf)
-    - Collaborative-project: On hold in lieu of data access limitations...
+    - Collaborative project: On hold in lieu of data access limitations...
   + 🤧 *LookAchoo* - Geolocal Sneeze Context App
     - MERN stack (MongoDB, Express, React, Node) ⚛️
     - hosted on Vercel
@@ -75,7 +75,7 @@ But you can call me... <em>Kern</em>
 <div align=center>
 <h3>Some things that interest me:</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?&pause=450&color=F70000&width=780&align=center&lines=Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Isms:+Existentialism,+Absurdism,+Humanism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Kern+a+dull+boy...;Games:+Survival-Horror,+Puzzle-Based,+Story-Driven,+RPGs;Music:+Prog-Metal,+Lo-Fi,+Hip+Hop,+Alt,+Folk,+Punk,+et+al.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=450&color=F70000&width=780&vCenter=true&lines=Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Isms:+Existentialism,+Absurdism,+Humanism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Kern+a+dull+boy...;Games:+Survival-Horror,+Puzzle-Based,+Story-Driven,+RPGs;Music:+Prog-Metal,+Lo-Fi,+Hip+Hop,+Alt,+Folk,+Punk,+et+al.)](https://git.io/typing-svg)
   
 </div>
 
