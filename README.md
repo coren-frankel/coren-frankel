@@ -79,15 +79,15 @@ But you can call me... <em>Kern</em>
   
 </div>
 
-## I've Built With:
+<h3>I've Built With:</h3>
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,md,js,ts,py,java,jquery,react,express,nextjs,spring,maven,flask,vscode,idea,jest,regex,bootstrap,materialui,nodejs,postgres,mysql,mongodb,docker,vercel,aws,gcp&perline=7" alt="My technical skills and tools icons">
+    <img src="https://skillicons.dev/icons?i=html,css,md,js,ts,py,java,jquery,react,express,nextjs,spring,maven,flask,vscode,idea,figma,jest,regex,bootstrap,materialui,nodejs,mysql,mongodb,docker,vercel,aws,gcp&perline=7" alt="My technical skills and tools icons">
   </a>
 </p>
   
-<details>
+<!-- <details>
   <summary>
     I've Experimented With These Tools
   </summary>
@@ -98,6 +98,7 @@ But you can call me... <em>Kern</em>
   </a>
   </p>
 </details>
+-->
 <!-- 
 <ul>
   <li>Languages: [Python, Java, JavaScript, TypeScript, SQL, HTML5, CSS3]</li>
@@ -119,7 +120,7 @@ But you can call me... <em>Kern</em>
 <hr/>
 
 <p align="center">
-  <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=blue-green&show_icons=true&langs_count=3&count-private=true" />
+  <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=blue-green&show_icons=true&langs_count=6&count-private=true" />
 </p>
 <details>
   <summary>More Github Stats:</summary>
