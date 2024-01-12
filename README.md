@@ -24,14 +24,24 @@ But you can call me... <em>Kern</em>
 [![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=black&labelColor=white)](https://stackoverflow.com/users/19356052/unclebabykern?tab=profile)
 
+## A Snek?
+
+<div align=center>
+    <h4>Whooa <em>Hungry snek!</em></h4>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg">
+    </picture>
+  </div>
+
 ## Projects:
 
 <details>
   <summary>🦫 Ongoing Projects:</summary>
 
-  + 📦 *culinary-unit-abbreviation* - A simple npm libary that converts culinary unit strings into their corresponding abbreviations
+  + 📦 [*culinary-unit-abbreviation*](https://www.npmjs.com/package/culinary-unit-abbreviation) - A simple npm library that converts culinary unit strings into their corresponding abbreviations
     - TypeScript/Jest
-    - Available through [npm](https://www.npmjs.com/package/culinary-unit-abbreviation)
     - See the [repository](https://github.com/coren-frankel/culinary-unit-abbreviation)
   + 🍔 *GetYum* - A User-driven & spoonacular-fueled Recipe-to-Grocery List app with Spotify Web player integration
     - Java/Spring/MySQL/React  ☕️🍃🐬⚛️
@@ -72,77 +82,38 @@ But you can call me... <em>Kern</em>
   
 </details>
 
-<div align=center>
-<h3>Some things that interest me:</h3>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=450&color=F70000&width=780&vCenter=true&lines=Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Isms:+Existentialism,+Absurdism,+Humanism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Kern+a+dull+boy...;Games:+Survival-Horror,+Puzzle-Based,+Story-Driven,+RPGs;Music:+Prog-Metal,+Lo-Fi,+Hip+Hop,+Alt,+Folk,+Punk,+et+al.)](https://git.io/typing-svg)
-  
-</div>
-
-<h3>I've Built With:</h3>
+## My Development Tools (Non-Exclusive):
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,md,js,ts,py,java,jquery,react,express,nextjs,spring,maven,flask,vscode,idea,figma,jest,regex,bootstrap,materialui,nodejs,mysql,mongodb,docker,vercel,aws,gcp&perline=7" alt="My technical skills and tools icons">
+    <img src="https://skillicons.dev/icons?i=html,css,md,js,ts,py,java,jquery,react,express,remix,spring,maven,flask,vscode,idea,figma,jest,regex,bootstrap,materialui,nodejs,mysql,mongodb,docker,vercel,aws,gcp,githubactions&perline=7" alt="My technical skills and tools icons">
   </a>
 </p>
   
-<!-- <details>
-  <summary>
-    I've Experimented With These Tools
-  </summary>
-  <br/>
-  <p align=center>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,kotlin,php,angular,dotnet,nestjs,redux,firebase,sqlite,androidstudio,visualstudio,vim,tailwind,figma,svg,powershell,linux,apollo,graphql,githubactions,kubernetes,nginx&perline=6" alt="Other tech I've learned">
-  </a>
-  </p>
-</details>
--->
-<!-- 
-<ul>
-  <li>Languages: [Python, Java, JavaScript, TypeScript, SQL, HTML5, CSS3]</li>
-  <li>Frontend: [ReactJS, React Native, Bootstrap, Material UI, Tailwind CSS, Jinja2, JSX, Redux]</li>
-  <li>Backend: [ExpressJS, Flask, Spring Boot, Apache Tomcat, Apache Maven, Nodemon]</li>
-  <li>Fullstack: [NodeJS, AJAX (Fetch, Axios), JSP & JSTL, JSON, npm, Socket.io, Next.js]
-  <li>Databases: [MySQL, MongoDB, PostgreSQL, SQLite]</li>
-  <li>DevOps: [AWS EC2, Vercel, Google Cloud Platform, MongoDB Atlas, Gunicorn, Nginx]</li>
-  <li>UI/UX Design & Planning: [Balsamiq, Figma, Trello]</li>
-  <li>myIDEs: [Postman, MySQL Workbench, VS Code, Spring Tool Suite, Eclipse, MongoDB Compass, IntelliJ Idea]</li>
-  <li>Other Tools: [Jest, JUnit, D3.js, Plotly, Anime.js, Chrome DevTools, dotenv, PyMySQL, Unirest, Mongoose, Docker]</li>
-  <li>Version Control: [Git, Github]</li>
-  <li>OS: [macOS, (Ubuntu & Windows proficient)]</li>
-  <li>Concepts & Methodologies: [ORM, NoSQL, Agile, Waterfall, Kanban, Scrum, SDLC, REST, MVC, TDD, OOP, Functional Programming]</li>
-  <li>Persistence & Validation: [JPA, JDBC, session, bcrypt, regular expressions, webhooks]</li>
-  <li>Exposure: [C, C++, C#, Angular, Nest.js]</li>
-</ul>
- -->
 <hr/>
+
+## Some Stats:
 
 <p align="center">
   <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=blue-green&show_icons=true&langs_count=6&count-private=true" />
 </p>
-<details>
-  <summary>More Github Stats:</summary>
-  <br>
-  <div align="center">
-    <p align="center">  
-      <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=radical&show_icons=true" />
-    </p>
-    <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=coren-frankel&layout=compact&show_icons=true&theme=onedark" alt="coren-frankel github contributions stats" />
-    </p>
-  </div>
-  <div align=center>
-    <h4>Whooa <em>Hungry snek!</em></h4>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg">
-    </picture>
-  </div>
-</details>
+<br>
+<div align="center">
+  <p align="center">  
+    <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=radical&show_icons=true" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=coren-frankel&layout=compact&show_icons=true&theme=onedark" alt="coren-frankel github contributions stats" />
+  </p>
+</div>
 
+## Some things that interest me:
+
+<div align=center>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=450&color=F70000&width=780&vCenter=true&lines=Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Isms:+Existentialism,+Absurdism,+Humanism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Kern+a+dull+boy...;Games:+Survival-Horror,+Puzzle-Based,+Story-Driven,+RPGs;Music:+Prog-Metal,+Lo-Fi,+Hip+Hop,+Alt,+Folk,+Punk,+et+al.)](https://git.io/typing-svg)
+  
+</div>
 
 <div align=center>
   
