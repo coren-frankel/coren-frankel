@@ -86,7 +86,7 @@ But you can call me... <em>Kern</em>
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,md,js,ts,py,java,jquery,react,express,remix,spring,maven,flask,vscode,idea,figma,jest,regex,bootstrap,materialui,nodejs,mysql,mongodb,docker,vercel,aws,gcp,githubactions&perline=7" alt="My technical skills and tools icons">
+    <img src="https://skillicons.dev/icons?i=html,css,md,js,ts,py,java,jquery,react,express,remix,spring,maven,flask,vscode,idea,figma,jest,regex,bootstrap,materialui,nodejs,vite,mysql,mongodb,docker,vercel,aws,gcp,githubactions&perline=6" alt="My technical skills and tools icons">
   </a>
 </p>
   
@@ -97,23 +97,16 @@ But you can call me... <em>Kern</em>
 <p align="center">
   <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=blue-green&show_icons=true&langs_count=6&count-private=true" />
 </p>
-<br>
-<div align="center">
-  <p align="center">  
-    <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=radical&show_icons=true" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=coren-frankel&layout=compact&show_icons=true&theme=onedark" alt="coren-frankel github contributions stats" />
-  </p>
-</div>
+<p align="center">  
+  <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=radical&show_icons=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=coren-frankel&theme=black-ice&exclude_days=Sun%2CSat" alt="coren-frankel's GitHub Streak" />
+</p>
 
 ## Some things that interest me:
-
-<div align=center>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=450&color=F70000&width=780&vCenter=true&lines=Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Isms:+Existentialism,+Absurdism,+Humanism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Kern+a+dull+boy...;Games:+Survival-Horror,+Puzzle-Based,+Story-Driven,+RPGs;Music:+Prog-Metal,+Lo-Fi,+Hip+Hop,+Alt,+Folk,+Punk,+et+al.)](https://git.io/typing-svg)
-  
-</div>
+
 
 <div align=center>
   
