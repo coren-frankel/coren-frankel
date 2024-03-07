@@ -1,11 +1,9 @@
 # Heya, I'm Coren (he/they)
 
 But you can call me... <em>Kern</em>
-
-<h2 align=center>
+<h3 align=center>
   I'm a Full Stack Developer with a penchant for open source, freedom of information & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.
-</h3>
-  
+</h3>  
 <div align="center">
   <img alt="sesame street yippers find computer" src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp"/>
   <br/>
@@ -15,11 +13,13 @@ But you can call me... <em>Kern</em>
   <br/>
 </div>
 
-## Current Focuses:
+## My non-technical interests include:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=450&color=F70000&width=790&vCenter=true&lines=Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Isms:+Existentialism,+Absurdism,+Humanism,+Contextualism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Kern+a+dull+boy...;Games:+Survival-Horror,+Puzzle-Based,+Story-Driven,+Role-Playing;Music:+Prog-Metal,+Lo-Fi,+Hip+Hop,+Alt,+Folk,+Punk,+et+al.)](https://git.io/typing-svg)
 
-- 💭 Currently studying: TypeScript & DSAs
-- 📖 Currently reading: **White Horse** by *Erika T. Wurth*
-- ⚙️ Collaborating via git and upskilling as a developer
+## Current Focuses:
+- 💭 Currently studying: Remix & Prisma
+- 📖 Currently reading: **The Girl with the Dragon Tattoo** by *Stieg Larsson*
+- ⚙️ Collaborating on ERP/eCommerce middleware built with Python, Flask, & MySQL
 - 💌 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
 [![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=black&labelColor=white)](https://stackoverflow.com/users/19356052/unclebabykern?tab=profile)
@@ -35,7 +35,7 @@ But you can call me... <em>Kern</em>
     </picture>
   </div>
 
-## Projects:
+## Personal Projects:
 
 <details>
   <summary>🦫 Ongoing Projects:</summary>
@@ -86,10 +86,9 @@ But you can call me... <em>Kern</em>
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,md,js,ts,py,java,jquery,react,express,remix,spring,maven,flask,vscode,idea,figma,jest,regex,bootstrap,materialui,nodejs,vite,mysql,mongodb,docker,vercel,aws,gcp,githubactions&perline=6" alt="My technical skills and tools icons">
+    <img src="https://skillicons.dev/icons?i=html,css,md,js,ts,py,java,jquery,react,express,remix,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,postman,figma,jest,regex,bootstrap,materialui,nodejs,vite,mysql,mongodb,docker,vercel,aws,gcp,githubactions&perline=7" alt="My technical skills and tools icons">
   </a>
 </p>
-  
 <hr/>
 
 ## Some Stats:
@@ -103,10 +102,6 @@ But you can call me... <em>Kern</em>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=coren-frankel&theme=black-ice&exclude_days=Sun%2CSat" alt="coren-frankel's GitHub Streak" />
 </p>
-
-## Some things that interest me:
-[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=450&color=F70000&width=780&vCenter=true&lines=Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Isms:+Existentialism,+Absurdism,+Humanism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Kern+a+dull+boy...;Games:+Survival-Horror,+Puzzle-Based,+Story-Driven,+RPGs;Music:+Prog-Metal,+Lo-Fi,+Hip+Hop,+Alt,+Folk,+Punk,+et+al.)](https://git.io/typing-svg)
-
 
 <div align=center>
   
