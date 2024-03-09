@@ -13,18 +13,20 @@ But you can call me... <em>Kern</em>
   <br/>
 </div>
 
-## My non-technical interests include:
+### My non-technical interests include:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=450&color=F70000&width=790&vCenter=true&lines=Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Isms:+Existentialism,+Absurdism,+Humanism,+Contextualism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Kern+a+dull+boy...;Games:+Survival-Horror,+Puzzle-Based,+Story-Driven,+Role-Playing;Music:+Prog-Metal,+Lo-Fi,+Hip+Hop,+Alt,+Folk,+Punk,+et+al.)](https://git.io/typing-svg)
 
-## Current Focuses:
-- 💭 Currently studying: Remix & Prisma
-- 📖 Currently reading: **The Girl with the Dragon Tattoo** by *Stieg Larsson*
-- ⚙️ Collaborating on ERP/eCommerce middleware built with Python, Flask, & MySQL
-- 💌 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
+### Currently I am...
+- 💭 studying and actively working with Remix, GraphQL, & Prisma
+- 📖 reading **The Girl with the Dragon Tattoo** by *Stieg Larsson*
+- ⚙️ collaborating on ERP/eCommerce middleware built with Python, Flask, & MySQL
+
+### I can be found on: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
 [![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=black&labelColor=white)](https://stackoverflow.com/users/19356052/unclebabykern?tab=profile)
 
-## A Snek?
+### What's that? A Snek?!
 
 <div align=center>
     <h4>Whooa <em>Hungry snek!</em></h4>
@@ -35,50 +37,37 @@ But you can call me... <em>Kern</em>
     </picture>
   </div>
 
-## Personal Projects:
+## Check out some of my public projects:
 
 <details>
-  <summary>🦫 Ongoing Projects:</summary>
+  <summary>🦫 Active Projects:</summary>
 
   + 📦 [*culinary-unit-abbreviation*](https://www.npmjs.com/package/culinary-unit-abbreviation) - A simple npm library that converts culinary unit strings into their corresponding abbreviations
-    - TypeScript/Jest
-    - See the [repository](https://github.com/coren-frankel/culinary-unit-abbreviation)
+    - TypeScript/Jest 🃏
+    - [*repository*](https://github.com/coren-frankel/culinary-unit-abbreviation)
+  + 📝 [*WebDev Flashcards*](https://webdev-flashcards.vercel.app/) - An Open Source Web Developer Study Tool App deployed on Vercel
+    - MERN stack (MongoDB, Express, React, Node) ⚛️
+    - [*repository*](https://github.com/m-smith15/webdev_flashcards)
+  + 🕹️ [*NinjaSweeper*](https://coren-frankel.github.io/NinjaSweeper/) - Minesweeper clone hosted with GitHub Pages
+    - Vanilla JavaScript/CSS/HTML  🍦🕸️
+    - [*repository*](https://github.com/coren-frankel/NinjaSweeper)
+  
+</details>
+<details>
+  <summary>⏸️ Curriculum-borne projects:</summary>
+  
   + 🍔 *GetYum* - A User-driven & spoonacular-fueled Recipe-to-Grocery List app with Spotify Web player integration
     - Java/Spring/MySQL/React  ☕️🍃🐬⚛️
-    - no current deployments - in development
     - [*GetYum Repo*](https://github.com/richzarate1997/recipe_routers#readme) 
-  + 📝 [*WebDev Flashcards*](https://webdev-flashcards.vercel.app/) - An Open Source Web Developer Study Tool App 
-    - MERN stack (MongoDB, Express, React, Node) ⚛️
-    - deployed on Vercel
-    - [*WebDev Flashcards Repo*](https://github.com/m-smith15/webdev_flashcards)
-  
-</details>
-<details>
-  <summary>🪞 My Independent projects:</summary>
-  
-  + 🕹️ [*NinjaSweeper*](https://coren-frankel.github.io/NinjaSweeper/) - Minesweeper Game
-    - Vanilla JavaScript/CSS/HTML  🍦🕸️
-    - hosted with Github Pages
-    - [*NinjaSweeper Repo*](https://github.com/coren-frankel/NinjaSweeper)
-  + 🍳 *piqr* - Random Recipe CRUD App
-    - Python/Flask/MySQL  🐍🍾🐬
-    - **Free tier AWS EC2 instance terminated June 2023**
-    - [*piqr Repo*](https://github.com/coren-frankel/meal_picker)
-  
-</details>
-<details>
-  <summary>⏸️ On Hiatus:</summary>
-  
   + 🌊 VolatilitySurf - Stock Options Volatility Surface Trading Tool 
     - Java/Spring/MySQL  ☕️🍃🐬
-    - no current deployments
     - [VolatilitySurf Repo](https://github.com/coren-frankel/VolatilitySurf)
-    - Collaborative project: On hold in lieu of data access limitations...
   + 🤧 *LookAchoo* - Geolocal Sneeze Context App
     - MERN stack (MongoDB, Express, React, Node) ⚛️
-    - hosted on Vercel
     - [*LookAchoo Repo*](https://github.com/coren-frankel/LookAchoo")
-    - Solo-project: On hold for other projects
+  + 🍳 *piqr* - Random Recipe CRUD App
+    - Python/Flask/MySQL  🐍🍾🐬
+    - [*piqr Repo*](https://github.com/coren-frankel/meal_picker)
   
 </details>
 
