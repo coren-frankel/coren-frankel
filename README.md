@@ -7,7 +7,7 @@ But you can call me... <em>Kern</em>
 <div align="center">
   <img alt="sesame street yippers find computer" src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp"/>
   <br/>
-  <caption>Ohh Look! The Wonder!</caption>
+  <caption>Ohh! Ahh! The Wonder!</caption>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20Page%20Loads&color=4CC733&style=for-the-badge" alt="profile view count" />
   <br/>
@@ -17,9 +17,10 @@ But you can call me... <em>Kern</em>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=450&color=F70000&width=790&vCenter=true&lines=Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Isms:+Existentialism,+Absurdism,+Humanism,+Contextualism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Kern+a+dull+boy...;Games:+Survival-Horror,+Puzzle-Based,+Story-Driven,+Role-Playing;Music:+Prog-Metal,+Lo-Fi,+Hip+Hop,+Alt,+Folk,+Punk,+et+al.)](https://git.io/typing-svg)
 
 ### Currently I am...
-- 💭 studying and actively working with Remix, GraphQL, & Prisma
+- 💭 studying and actively working with Remix, TypeScript GraphQL, & Prisma
 - 📖 reading **The Girl with the Dragon Tattoo** by *Stieg Larsson*
 - ⚙️ collaborating on ERP/eCommerce middleware built with Python, Flask, & MySQL
+- 🍔 hungry...
 
 ### I can be found on: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
@@ -75,7 +76,7 @@ But you can call me... <em>Kern</em>
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,md,js,ts,py,java,jquery,react,express,remix,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,postman,figma,jest,regex,bootstrap,materialui,nodejs,vite,mysql,mongodb,docker,vercel,aws,gcp,githubactions&perline=7" alt="My technical skills and tools icons">
+    <img src="https://skillicons.dev/icons?i=html,css,md,js,ts,py,java,jquery,react,express,remix,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,postman,figma,jest,regex,bootstrap,materialui,nodejs,vite,mysql,mongodb,docker,vercel,aws,gcp,githubactions&perline=7" alt="technical skills and tools icons">
   </a>
 </p>
 <hr/>
@@ -96,5 +97,5 @@ But you can call me... <em>Kern</em>
   
   ## Thanks for visiting. See you...
   
-  <img src="https://i.giphy.com/media/GHeV8BGjJAAWk/giphy.webp" alt="gif cartoon; 2 people put on sunglasses, then a duck tries too and pokes itself in the eye">
+  <img src="https://i.giphy.com/media/GHeV8BGjJAAWk/giphy.webp" alt=" cartoon: 2 people put on sunglasses, then a duck tries too and pokes itself in the eye">
 </div>
