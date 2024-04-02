@@ -2,7 +2,7 @@
 
 But you can call me... <em>Kern</em>
 <h3 align=center>
-  I'm a Full Stack Developer with a penchant for open source, freedom of information & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.
+  I'm a Full Stack Developer with a penchant for open source, freedom of information, & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.
 </h3>  
 <div align="center">
   <img alt="sesame street yippers find computer" src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp"/>
@@ -17,8 +17,8 @@ But you can call me... <em>Kern</em>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=450&color=F70000&width=790&vCenter=true&lines=Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Isms:+Existentialism,+Absurdism,+Humanism,+Contextualism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Kern+a+dull+boy...;Games:+Survival-Horror,+Puzzle-Based,+Story-Driven,+Role-Playing;Music:+Prog-Metal,+Lo-Fi,+Hip+Hop,+Alt,+Folk,+Punk,+et+al.)](https://git.io/typing-svg)
 
 ### Currently I am...
-- 💭 studying and actively working with Remix, TypeScript GraphQL, & Prisma
-- 📖 reading **The Girl with the Dragon Tattoo** by *Stieg Larsson*
+- 💭 studying and actively working with TypeScript, Remix, GraphQL, & Prisma
+- 📖 reading **The Girl with the Dragon Tattoo** by *Stieg Larsson* ![](https://geps.dev/progress/51)
 - ⚙️ collaborating on ERP/eCommerce middleware built with Python, Flask, & MySQL
 - 🍔 hungry...
 
