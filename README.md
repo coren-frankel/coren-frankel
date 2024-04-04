@@ -2,7 +2,7 @@
 
 But you can call me... <em>Kern</em>
 <h3 align=center>
-  I'm a Full Stack Developer with a penchant for open source, freedom of information, & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.
+  I'm a Full Stack Developer with a penchant for open source, freedom of information, privacy, & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.
 </h3>  
 <div align="center">
   <img alt="sesame street yippers find computer" src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp"/>
@@ -19,8 +19,8 @@ But you can call me... <em>Kern</em>
 ### Currently I am...
 - 💭 studying and actively working with Node, TypeScript, Remix, GraphQL, & Prisma
 - 📖 reading **The Girl with the Dragon Tattoo** by *Stieg Larsson* ![](https://geps.dev/progress/53)
-- ⚙️ collaborating on custom ERP/eCommerce middleware built with Python, Flask, & MySQL
-- 🍔 hungry...
+- 🏗️ collaborating on custom ERP/eCommerce middleware built with Python, Flask, & MySQL
+- 🌯 probably hungry...
 
 ### I can be found on: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
@@ -60,7 +60,7 @@ But you can call me... <em>Kern</em>
   + 🍔 *GetYum* - A User-driven & spoonacular-fueled Recipe-to-Grocery List app with Spotify Web player integration
     - Java/Spring/MySQL/React  ☕️🍃🐬⚛️
     - [*GetYum Repo*](https://github.com/richzarate1997/recipe_routers#readme) 
-  + 🌊 VolatilitySurf - Stock Options Volatility Surface Trading Tool 
+  + 📈 VolatilitySurf - Stock Options Volatility Surface Trading Tool 
     - Java/Spring/MySQL  ☕️🍃🐬
     - [VolatilitySurf Repo](https://github.com/coren-frankel/VolatilitySurf)
   + 🤧 *LookAchoo* - Geolocal Sneeze Context App
