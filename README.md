@@ -17,9 +17,9 @@ But you can call me... <em>Kern</em>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=450&color=F70000&width=790&vCenter=true&lines=Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Isms:+Existentialism,+Absurdism,+Humanism,+Contextualism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Kern+a+dull+boy...;Games:+Survival-Horror,+Puzzle-Based,+Story-Driven,+Role-Playing;Music:+Prog-Metal,+Lo-Fi,+Hip+Hop,+Alt,+Folk,+Punk,+et+al.)](https://git.io/typing-svg)
 
 ### Currently I am...
-- 💭 studying and actively working with TypeScript, Remix, GraphQL, & Prisma
-- 📖 reading **The Girl with the Dragon Tattoo** by *Stieg Larsson* ![](https://geps.dev/progress/51)
-- ⚙️ collaborating on ERP/eCommerce middleware built with Python, Flask, & MySQL
+- 💭 studying and actively working with Node, TypeScript, Remix, GraphQL, & Prisma
+- 📖 reading **The Girl with the Dragon Tattoo** by *Stieg Larsson* ![](https://geps.dev/progress/53)
+- ⚙️ collaborating on custom ERP/eCommerce middleware built with Python, Flask, & MySQL
 - 🍔 hungry...
 
 ### I can be found on: 
@@ -64,7 +64,7 @@ But you can call me... <em>Kern</em>
     - Java/Spring/MySQL  ☕️🍃🐬
     - [VolatilitySurf Repo](https://github.com/coren-frankel/VolatilitySurf)
   + 🤧 *LookAchoo* - Geolocal Sneeze Context App
-    - MERN stack (MongoDB, Express, React, Node) ⚛️
+    - JavaScript/MERN stack (MongoDB, Express, React, Node) ⚛️
     - [*LookAchoo Repo*](https://github.com/coren-frankel/LookAchoo")
   + 🍳 *piqr* - Random Recipe CRUD App
     - Python/Flask/MySQL  🐍🍾🐬
