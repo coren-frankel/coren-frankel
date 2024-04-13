@@ -18,7 +18,7 @@ But you can call me... <em>Kern</em>
 
 ### Currently I am...
 - 💭 studying and actively working with Node, TypeScript, Remix, GraphQL, & Prisma
-- 📖 reading **The Girl with the Dragon Tattoo** by *Stieg Larsson* ![](https://geps.dev/progress/64)
+- 📖 reading **The Girl with the Dragon Tattoo** by *Stieg Larsson* ![](https://geps.dev/progress/68)
 - 🏗️ collaborating on custom ERP/eCommerce middleware built with Python, Flask, & MySQL
 - 🌯 probably hungry...
 
