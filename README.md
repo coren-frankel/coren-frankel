@@ -13,12 +13,12 @@ But you can call me... <em>Kern</em>
   <br/>
 </div>
 
-### My non-technical interests include:
-[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=450&color=F70000&width=790&vCenter=true&lines=Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Isms:+Existentialism,+Absurdism,+Humanism,+Contextualism,+Nihil...+ah+whatever...;All+work+and+no+play+makes+Kern+a+dull+boy...;Games:+Survival-Horror,+Puzzle-Based,+Story-Driven,+Role-Playing;Music:+Prog-Metal,+Lo-Fi,+Hip+Hop,+Alt,+Folk,+Punk,+et+al.)](https://git.io/typing-svg)
+### My personal interests include:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=450&color=F70000&width=790&vCenter=true&lines=+Film,+Music,+Philosophy,+Literature,+Games,+Puzzles,+Thinkin'...;Lit%26Film:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery;Games:+Survival-Horror,+Puzzle-Based,+Story-Driven,+Role-Playing;Regular+Music:+Progressive+Metal,+Lo-Fi,+Hip+Hop,+Alt,+Folk,+Punk,+Indie+et+al.;All+work+and+no+play+makes+Kern+a+dull+boy...)](https://git.io/typing-svg)
 
 ### Currently I am...
 - 💭 studying and actively working with Node, TypeScript, Remix, GraphQL, & Prisma
-- 📖 reading **The Girl with the Dragon Tattoo** by *Stieg Larsson* ![](https://geps.dev/progress/68)
+- 📖 reading **The Girl with the Dragon Tattoo** by *Stieg Larsson* ![](https://geps.dev/progress/95)
 - 🏗️ collaborating on custom ERP/eCommerce middleware built with Python, Flask, & MySQL
 - 🌯 probably hungry...
 
