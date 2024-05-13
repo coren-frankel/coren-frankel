@@ -13,7 +13,7 @@ But you can call me... <em>Kern</em>
   <br/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=450&color=F70000&width=1000&vCenter=true&multiline=true&lines=Film,+Music,+Philosophy,+Literature,+Games,+Puzzles,+Art,+Thinkin'...;Literary+%26+Film+Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery...;Games:+Survival-horror,+Puzzle-based,+Story-driven,+Role-playing...;Tunes:+Folk,+Punk,+R%26B,+Metal,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Music,+Philosophy,+Literature,+Games,+Puzzles,+Art,+Thinkin'...;Genres🎞️📚🎭:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery...;Games🎮🎲👾🃏:+survival-horror,+puzzle-based,+story-driven,+role-playing...;Tunes🎼🔀🪗🧑🏻‍🎤:+Folk,+Punk,+R%26B,+Metal,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
 ### Currently I am...
 - 💭 studying and actively working with TypeScript, Remix, GraphQL, Prisma, MySQL
