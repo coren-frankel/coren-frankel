@@ -32,15 +32,15 @@ But you can call me... <em>Kern</em>
 <a href="https://stackoverflow.com/users/19356052/uncle-baby-kern"><img src="https://stackoverflow.com/users/flair/19356052.png?theme=hotdog" width="208" height="58" alt="profile for uncle_baby_kern at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for uncle_baby_kern at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
 
-### Watch this snake eat all of my contributions year-to-date!
+### Watch this snake eat all of my contributions year-to-date
 
 <div align=center>
-    <h4>Whooa <em>Hungry snek!</em></h4>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg">
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg">
     </picture>
+    <p>Whooa! <em>Hungry snek!</em></p>
   </div>
 
 ## Check out some of my public projects:
