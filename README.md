@@ -18,7 +18,7 @@ But you can call me... <em>Kern</em>
 ### Currently I am...
 - 💭 studying and actively working with TypeScript, Remix, GraphQL, Prisma, MySQL
 - 🔌 looking for opportunities to make meaningful contributions to open-source projects
-- 📖 reading ***The Call of Cthulu*** by *H.P. Lovecraft* ![](https://geps.dev/progress/0)
+- 📖 reading ***The Call of Cthulhu*** by *H.P. Lovecraft* ![](https://geps.dev/progress/0)
 - 🛠️ collaborating on custom ERP/eCommerce middleware built with Python, Flask, & MySQL and
 - 🌯 probably hungry...
 
