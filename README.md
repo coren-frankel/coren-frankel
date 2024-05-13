@@ -16,10 +16,10 @@ But you can call me... <em>Kern</em>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Music,+Philosophy,+Literature,+Games,+Puzzles,+Art,+Thinkin'...;Genres🎞️📚🎭:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery...;Games🎮🎲👾🃏:+survival-horror,+puzzle-based,+story-driven,+role-playing...;Tunes🎼🔀🪗🧑🏻‍🎤:+Folk,+Punk,+R%26B,+Metal,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
 ### Currently I am...
-- 💭 studying and actively working with TypeScript, Remix, GraphQL, Prisma, MySQL
+- 💭 studying, using, and integrating TypeScript, Remix, GraphQL, Prisma, MySQL, Liquid & Shopify APIs
 - 🔌 looking for opportunities to make meaningful contributions to open-source projects
-- 📖 reading ***The Call of Cthulhu*** by *H.P. Lovecraft* ![](https://geps.dev/progress/0)
-- 🛠️ collaborating on custom ERP/eCommerce middleware built with Python, Flask, & MySQL and
+- 📖 reading ***The Call of Cthulhu*** by *H.P. Lovecraft* ![](https://geps.dev/progress/8)
+- 🛠️ collaborating on a custom ERP/eCommerce middleware solution built with Python, Flask, MySQL, and utilizing Shopify & Koble APIs
 - 🌯 probably hungry...
 
 ###  
