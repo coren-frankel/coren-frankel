@@ -13,21 +13,26 @@ But you can call me... <em>Kern</em>
   <br/>
 </div>
 
-### My personal interests include:
-[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=450&color=F70000&width=850&vCenter=true&lines=+Film,+Series,+Music,+Philosophy,+Literature,+Games,+Puzzles,+Art,+Thinkin'...;Lit+%26+Film:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery...;Games:+Survival-Horror,+Puzzle-Based,+Story-Driven,+Role-Playing...;Music:+Progressive+Metal,+Lo-Fi,+Hip+Hop,+Alt,+Folk,+Punk,+Indie+et+al.;All+work+and+no+play+makes+Kern+a+dull+boy...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=450&color=F70000&width=1000&vCenter=true&multiline=true&lines=Film,+Music,+Philosophy,+Literature,+Games,+Puzzles,+Art,+Thinkin'...;Literary+%26+Film+Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery...;Games:+Survival-horror,+Puzzle-based,+Story-driven,+Role-playing...;Tunes:+Folk,+Punk,+R%26B,+Metal,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
 ### Currently I am...
-- 💭 studying and actively working with Node, TypeScript, Remix, GraphQL, & Prisma
-- 📖 reading ***At the Mountains of Madness*** by *H.P. Lovecraft* ![](https://geps.dev/progress/59)
-- 🏗️ collaborating on custom ERP/eCommerce middleware built with Python, Flask, & MySQL
+- 💭 studying and actively working with TypeScript, Remix, GraphQL, Prisma, MySQL
+- 🔌 looking for opportunities to make meaningful contributions to open-source projects
+- 📖 reading ***The Call of Cthulu*** by *H.P. Lovecraft* ![](https://geps.dev/progress/0)
+- 🛠️ collaborating on custom ERP/eCommerce middleware built with Python, Flask, & MySQL and
 - 🌯 probably hungry...
 
-### I can be found on: 
+###  
+
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
 [![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=black&labelColor=white)](https://stackoverflow.com/users/19356052/unclebabykern?tab=profile)
 
-### What's that? A Snek?!
+<a href="https://stackoverflow.com/users/19356052/uncle-baby-kern"><img src="https://stackoverflow.com/users/flair/19356052.png?theme=hotdog" width="208" height="58" alt="profile for uncle_baby_kern at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for uncle_baby_kern at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+</div>
+
+### Watch this snake eat all of my contributions year-to-date!
 
 <div align=center>
     <h4>Whooa <em>Hungry snek!</em></h4>
@@ -47,10 +52,10 @@ But you can call me... <em>Kern</em>
     - TypeScript/Jest 🃏
     - [*repository*](https://github.com/coren-frankel/culinary-unit-abbreviation)
   + 📝 [*WebDev Flashcards*](https://webdev-flashcards.vercel.app/) - An Open Source Web Developer Study Tool App deployed on Vercel
-    - MERN stack (MongoDB, Express, React, Node) ⚛️
+    - MERN stack (MongoDB, Express, React, Node)
     - [*repository*](https://github.com/m-smith15/webdev_flashcards)
   + 🕹️ [*NinjaSweeper*](https://coren-frankel.github.io/NinjaSweeper/) - Minesweeper clone hosted with GitHub Pages
-    - Vanilla JavaScript/CSS/HTML  🍦🕸️
+    - Vanilla JavaScript/CSS/HTML
     - [*repository*](https://github.com/coren-frankel/NinjaSweeper)
   
 </details>
