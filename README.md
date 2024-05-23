@@ -18,7 +18,7 @@ But you can call me... <em>Kern</em>
 ### Currently I am...
 - 💭 studying, using, and integrating TypeScript, Remix, GraphQL, Prisma, MySQL, Liquid & Shopify APIs
 - 🔌 looking for opportunities to make meaningful contributions to open-source projects
-- 📖 reading ***The Call of Cthulhu*** by *H.P. Lovecraft* ![](https://geps.dev/progress/8)
+- 📖 reading ***The Dunwich Horror*** by *H.P. Lovecraft* ![](https://geps.dev/progress/28)
 - 🛠️ collaborating on a custom ERP/eCommerce middleware solution built with Python, Flask, MySQL, and utilizing Shopify & Koble APIs
 - 🌯 probably hungry...
 
