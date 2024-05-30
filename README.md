@@ -1,8 +1,8 @@
 # Heya, I'm Coren (he/they)
 
-But you can call me... <em>Kern</em>
+But you can call me <em>Kern</em>
 <h3 align=center>
-  I'm a Full Stack Developer with a penchant for open source, freedom of information, privacy, & humanism. Persistent and creative in solving problems and driving results. A meticulous, perpetual scholar resolved to learn, build, and grow with new technologies.
+  I am a dedicated Full Stack Developer passionate about open-source initiatives, advocating for information freedom, prioritizing user privacy, and embodying humanistic principles in my work. I approach challenges with unwavering persistence and creativity, striving to deliver tangible outcomes. My commitment to excellence is matched by my insatiable curiosity; I continuously seek knowledge, innovate solutions, and evolve alongside emerging technologies.
 </h3>  
 <div align="center">
   <img alt="sesame street yippers find computer" src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp"/>
@@ -13,16 +13,16 @@ But you can call me... <em>Kern</em>
   <br/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Music,+Philosophy,+Literature,+Games,+Puzzles,+Art,+Thinkin'...;Genres🎞️📚🎭:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Suspense,+Mystery...;Games🎮🎲👾🃏:+survival-horror,+puzzle-based,+story-driven,+role-playing...;Tunes🎼🔀🪗🧑🏻‍🎤:+Folk,+Punk,+R%26B,+Metal,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
 ### Currently I am...
-- 💭 studying, using, and integrating TypeScript, Remix, GraphQL, Prisma, MySQL, Liquid & Shopify APIs
+- 💭 studying, using, and integrating TypeScript, React Native, Expo, Firebase, & NativeWind
 - 🔌 looking for opportunities to make meaningful contributions to open-source projects
-- 📖 reading ***The Dunwich Horror*** by *H.P. Lovecraft* ![](https://geps.dev/progress/28)
+- 📖 reading ***The Dunwich Horror*** by *H.P. Lovecraft* ![](https://geps.dev/progress/76)
 - 🛠️ collaborating on a custom ERP/eCommerce middleware solution built with Python, Flask, MySQL, and utilizing Shopify & Koble APIs
 - 🌯 probably hungry...
 
-###  
+### Find me
 
 <div align="center">
   
@@ -32,7 +32,7 @@ But you can call me... <em>Kern</em>
 <a href="https://stackoverflow.com/users/19356052/uncle-baby-kern"><img src="https://stackoverflow.com/users/flair/19356052.png?theme=hotdog" width="208" height="58" alt="profile for uncle_baby_kern at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for uncle_baby_kern at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
 
-### Watch this snake eat all of my contributions year-to-date
+### Watch this snake eat my year-to-date contributions
 
 <div align=center>
     <picture>
