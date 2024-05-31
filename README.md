@@ -36,9 +36,9 @@ But you can call me <em>Kern</em>
 
 <div align=center>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake-dark.svg"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg"/>
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg">
     </picture>
     <p>Whooa! <em>Hungry snek!</em></p>
   </div>
@@ -82,8 +82,8 @@ But you can call me <em>Kern</em>
 <p align=center>
   <a href="https://github.com/LelouchFR/skill-icons">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?perline=8&i=html,css,md,js,ts,py,java,jquery,react,remix,express,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,nodejs,vite,sqlite,mysql,firebase,mongodb,docker,vercel,aws,gcp,githubactions"/>
-      <img alt="my technology and tools icons" src="https://go-skill-icons.vercel.app/api/icons?perline=8&theme=light&i=html,css,md,js,ts,py,java,jquery,react,remix,express,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,nodejs,vite,sqlite,mysql,firebase,mongodb,docker,vercel,aws,gcp,githubactions"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,jquery,react,remix,express,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,nodejs,vite,sqlite,mysql,firebase,mongodb,docker,vercel,aws,gcp,githubactions&perline=8&theme=light">
+      <img alt="my technology and tools icons" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,jquery,react,remix,express,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,nodejs,vite,sqlite,mysql,firebase,mongodb,docker,vercel,aws,gcp,githubactions&perline=8">
     </picture>
   </a>
 </p>
