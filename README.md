@@ -18,7 +18,7 @@ But you can call me <em>Kern</em>
 ### Currently I am...
 - 💭 studying, using, and integrating TypeScript, React Native, Expo, Firebase, & NativeWind
 - 🔌 looking for opportunities to make meaningful contributions to open-source projects
-- 📖 reading ***The Dunwich Horror*** by *H.P. Lovecraft* ![](https://geps.dev/progress/76)
+- 📖 reading ***The Dunwich Horror*** by *H.P. Lovecraft* ![](https://geps.dev/progress/88)
 - 🛠️ collaborating on a custom ERP/eCommerce middleware solution built with Python, Flask, MySQL, and utilizing Shopify & Koble APIs
 - 🌯 probably hungry...
 
@@ -80,8 +80,12 @@ But you can call me <em>Kern</em>
 ## My Development Tools (Non-Exclusive):
 
 <p align=center>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,md,js,ts,py,java,jquery,react,express,remix,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,postman,figma,jest,regex,bootstrap,materialui,nodejs,vite,mysql,mongodb,docker,vercel,aws,gcp,githubactions&perline=7" alt="technical skills and tools icons">
+  <a href="https://github.com/LelouchFR/skill-icons">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,jquery,react,remix,express,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,nodejs,vite,sqlite,mysql,firebase,mongodb,docker,vercel,aws,gcp,githubactions&perline=8">
+      <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,jquery,react,remix,express,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,nodejs,vite,sqlite,mysql,firebase,mongodb,docker,vercel,aws,gcp,githubactions&perline=8&theme=light">
+      <img alt="my technology and tools icons" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,jquery,react,remix,express,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,nodejs,vite,sqlite,mysql,firebase,mongodb,docker,vercel,aws,gcp,githubactions&perline=8">
+    </picture>
   </a>
 </p>
 <hr/>
