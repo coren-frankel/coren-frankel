@@ -2,7 +2,7 @@
 
 But you can call me <em>Kern</em>
 <h3 align=center>
-  I am a dedicated Full Stack Developer passionate about open-source initiatives, advocating for information freedom, prioritizing user privacy, and embodying humanistic principles in my work. I approach challenges with unwavering persistence and creativity, striving to deliver tangible outcomes. My commitment to excellence is matched by my insatiable curiosity; I continuously seek knowledge, innovate solutions, and evolve alongside emerging technologies.
+  I'm an ambitious Full Stack Developer passionate about the open-source community, freedom of information, privacy, and embodying humanistic principles in my work. I am meticulous, persistent, and creative in my efforts to deliver results in my work. As an aspiring polyglot, I am constantly looking for ways to level up and to evolve with emerging tech.
 </h3>  
 <div align="center">
   <img alt="sesame street yippers find computer" src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp"/>
@@ -41,18 +41,18 @@ But you can call me <em>Kern</em>
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg">
     </picture>
     <p>Whooa! <em>Hungry snek!</em></p>
-  </div>
+</div>
 
 ## Check out some of my public projects:
 
 <details>
   <summary>🦫 Active Projects:</summary>
 
-  + 📦 [*culinary-unit-abbreviation*](https://www.npmjs.com/package/culinary-unit-abbreviation) - A simple npm library that converts culinary unit strings into their corresponding abbreviations
-    - TypeScript/Jest 🃏
+  + 📦 [*culinary-unit-abbreviation*](https://www.npmjs.com/package/culinary-unit-abbreviation) - lightweight and tested npm library that converts culinary unit strings into their corresponding abbreviations
+    - TypeScript/Jest/npm
     - [*repository*](https://github.com/coren-frankel/culinary-unit-abbreviation)
-  + 📝 [*WebDev Flashcards*](https://webdev-flashcards.vercel.app/) - An Open Source Web Developer Study Tool App deployed on Vercel
-    - MERN stack (MongoDB, Express, React, Node)
+  + 📝 [*WebDev Flashcards*](https://webdev-flashcards.vercel.app/) - An open-source Web Developer study tool deployed on Vercel
+    - JavaScript Full Stack (Node.js, React, Express, MongoDB)
     - [*repository*](https://github.com/m-smith15/webdev_flashcards)
   + 🕹️ [*NinjaSweeper*](https://coren-frankel.github.io/NinjaSweeper/) - Minesweeper clone hosted with GitHub Pages
     - Vanilla JavaScript/CSS/HTML
