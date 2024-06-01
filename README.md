@@ -1,9 +1,13 @@
 # Heya, I'm Coren (he/they)
 
-But you can call me <em>Kern</em>
-<h3 align=center>
-  I'm an ambitious Full Stack Developer passionate about the open-source community, freedom of information, privacy, and embodying humanistic principles in my work. I am meticulous, persistent, and creative in my efforts to deliver results in my work. As an aspiring polyglot, I am constantly looking for ways to level up and to evolve with emerging tech.
-</h3>  
+<p>But you can call me <em>Kern</em></p>
+<h5>
+  I'm an ambitious Full Stack Developer passionate about open-source technology, freedom of information, privacy, and embodying humanistic principles in my work.
+</h5>
+<h6 align=end>
+  I am meticulous, persistent, and creative in my efforts to deliver results in my work.
+  As an aspiring polyglot, I am constantly looking for ways to level up and evolve with emerging tech.
+</h6>
 <div align="center">
   <img alt="sesame street yippers find computer" src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp"/>
   <br/>
