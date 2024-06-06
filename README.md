@@ -20,9 +20,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
 ### Currently I am...
-- 💭 studying, using, and integrating TypeScript, React Native, Expo, Firebase, & NativeWind
+- 💭 studying, using, and integrating TypeScript, React Native, Expo, Supabase, & NativeWind
 - 🔌 looking for opportunities to make meaningful contributions to open-source projects
-- 📖 reading ***The Dunwich Horror*** by *H.P. Lovecraft* ![](https://geps.dev/progress/88)
+- 📖 reading ***Beyond the Wall of Sleep*** by *H.P. Lovecraft* ![](https://geps.dev/progress/50)
 - 🛠️ collaborating on a custom ERP/eCommerce middleware solution built with Python, Flask, MySQL, and utilizing Shopify & Koble APIs
 - 🌯 probably hungry...
 
@@ -87,7 +87,7 @@
   <a href="https://github.com/LelouchFR/skill-icons">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,jquery,react,remix,express,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,nodejs,vite,sqlite,mysql,firebase,mongodb,docker,vercel,aws,gcp,githubactions&perline=8&theme=light">
-      <img alt="my technology and tools icons" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,jquery,react,remix,express,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,nodejs,vite,sqlite,mysql,firebase,mongodb,docker,vercel,aws,gcp,githubactions&perline=8">
+      <img alt="my technology and tools icons" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,jquery,react,remix,express,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,nodejs,vite,sqlite,mysql,firebase,supabase,mongodb,docker,vercel,aws,gcp,githubactions&perline=8">
     </picture>
   </a>
 </p>
