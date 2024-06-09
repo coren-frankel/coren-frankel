@@ -1,6 +1,6 @@
 # Heya, I'm Coren (he/they)
 
-<p>But you can call me <em>Kern</em></p>
+<p>I am also affectionately know as <em>Kern</em></p>
 <h5>
   I'm an ambitious Full Stack Developer passionate about open-source technology, freedom of information, privacy, and embodying humanistic principles in my work.
 </h5>
@@ -11,7 +11,7 @@
 <div align="center">
   <img alt="sesame street yippers find computer" src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp"/>
   <br/>
-  <caption>Ohh! Ahh! The Wonder!</caption>
+  <caption>Ooh! Ahh! The Wonder!</caption>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20Page%20Loads&color=4CC733&style=for-the-badge" alt="profile view count" />
   <br/>
@@ -22,7 +22,7 @@
 ### Currently I am...
 - 💭 studying, using, and integrating TypeScript, React Native, Expo, Supabase, & NativeWind
 - 🔌 looking for opportunities to make meaningful contributions to open-source projects
-- 📖 reading ***Beyond the Wall of Sleep*** by *H.P. Lovecraft* ![](https://geps.dev/progress/50)
+- 📖 reading ***Lovecraft Country*** by *Matt Ruff* ![](https://geps.dev/progress/2)
 - 🛠️ collaborating on a custom ERP/eCommerce middleware solution built with Python, Flask, MySQL, and utilizing Shopify & Koble APIs
 - 🌯 probably hungry...
 
@@ -36,7 +36,7 @@
 <a href="https://stackoverflow.com/users/19356052/uncle-baby-kern"><img src="https://stackoverflow.com/users/flair/19356052.png?theme=hotdog" width="208" height="58" alt="profile for uncle_baby_kern at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for uncle_baby_kern at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
 
-### Watch this snake eat my year-to-date contributions
+### Watch this snake eat my year-to-date git contributions
 
 <div align=center>
     <picture>
@@ -44,7 +44,7 @@
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg">
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg">
     </picture>
-    <p>Whooa! <em>Hungry snek!</em></p>
+    <p>whoooo! <em>look at em go!</em></p>
 </div>
 
 ## Check out some of my public projects:
@@ -67,16 +67,16 @@
   <summary>⏸️ Curriculum-borne projects:</summary>
   
   + 🍔 *GetYum* - A User-driven & spoonacular-fueled Recipe-to-Grocery List app with Spotify Web player integration
-    - Java/Spring/MySQL/React  ☕️🍃🐬⚛️
+    - Java/Spring/MySQL/React
     - [*GetYum Repo*](https://github.com/richzarate1997/recipe_routers#readme) 
   + 📈 VolatilitySurf - Stock Options Volatility Surface Trading Tool 
-    - Java/Spring/MySQL  ☕️🍃🐬
+    - Java/Spring/MySQL
     - [VolatilitySurf Repo](https://github.com/coren-frankel/VolatilitySurf)
   + 🤧 *LookAchoo* - Geolocal Sneeze Context App
-    - JavaScript/MERN stack (MongoDB, Express, React, Node) ⚛️
+    - JavaScript/MERN stack (MongoDB, Express, React, Node) 
     - [*LookAchoo Repo*](https://github.com/coren-frankel/LookAchoo")
   + 🍳 *piqr* - Random Recipe CRUD App
-    - Python/Flask/MySQL  🐍🍾🐬
+    - Python/Flask/MySQL
     - [*piqr Repo*](https://github.com/coren-frankel/meal_picker)
   
 </details>
@@ -86,8 +86,8 @@
 <p align=center>
   <a href="https://github.com/LelouchFR/skill-icons">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,jquery,react,remix,express,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,nodejs,vite,sqlite,mysql,firebase,mongodb,docker,vercel,aws,gcp,githubactions&perline=8&theme=light">
-      <img alt="my technology and tools icons" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,jquery,react,remix,express,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,nodejs,vite,sqlite,mysql,firebase,supabase,mongodb,docker,vercel,aws,gcp,githubactions&perline=8">
+      <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,jquery,react,remix,express,flask,spring,npm,pnpm,yarn,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,nodejs,vite,sqlite,mysql,firebase,supabase,mongodb,docker,vercel,aws,gcp,githubactions&perline=8&theme=light">
+      <img alt="my technology and tools icons" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,jquery,react,remix,express,flask,spring,npm,pnpm,yarn,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,nodejs,vite,sqlite,mysql,firebase,supabase,mongodb,docker,vercel,aws,gcp,githubactions&perline=8">
     </picture>
   </a>
 </p>
