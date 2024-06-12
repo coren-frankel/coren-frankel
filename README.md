@@ -22,7 +22,7 @@
 ### Currently I am...
 - 💭 studying, using, and integrating TypeScript, React Native, Expo, Supabase, & NativeWind
 - 🔌 looking for opportunities to make meaningful contributions to open-source projects
-- 📖 reading ***Lovecraft Country*** by *Matt Ruff* ![](https://geps.dev/progress/8)
+- 📖 reading ***Lovecraft Country*** by *Matt Ruff* ![](https://geps.dev/progress/11)
 - 🛠️ collaborating on a custom ERP/eCommerce middleware solution built with Python, Flask, MySQL, and utilizing Shopify & Koble APIs
 - 🌯 probably hungry...
 
