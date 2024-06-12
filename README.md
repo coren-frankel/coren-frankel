@@ -2,16 +2,16 @@
 
 <p>I am also affectionately know as <em>Kern</em></p>
 <h5>
-  I'm an ambitious Full Stack Developer passionate about open-source technology, freedom of information, privacy, and embodying humanistic principles in my work.
+  I am an ambitious Full Stack Developer passionate about open-source technology, freedom of information, privacy, and embodying humanistic principles in my work.
 </h5>
 <h6 align=end>
-  I am meticulous, persistent, and creative in my efforts to deliver results in my work.
-  As an aspiring polyglot, I am constantly looking for ways to level up and evolve with emerging tech.
+  I am meticulous, persistent, and creative in my efforts to deliver results.
+  As an aspiring polyglot, I am regularly seeking ways to level up and evolve with emerging tech.
 </h6>
 <div align="center">
   <img alt="sesame street yippers find computer" src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp"/>
   <br/>
-  <caption>Ooh! Ahh! The Wonder!</caption>
+  <caption>Yipp, yipp!</caption>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20Page%20Loads&color=4CC733&style=for-the-badge" alt="profile view count" />
   <br/>
@@ -22,7 +22,7 @@
 ### Currently I am...
 - 💭 studying, using, and integrating TypeScript, React Native, Expo, Supabase, & NativeWind
 - 🔌 looking for opportunities to make meaningful contributions to open-source projects
-- 📖 reading ***Lovecraft Country*** by *Matt Ruff* ![](https://geps.dev/progress/2)
+- 📖 reading ***Lovecraft Country*** by *Matt Ruff* ![](https://geps.dev/progress/8)
 - 🛠️ collaborating on a custom ERP/eCommerce middleware solution built with Python, Flask, MySQL, and utilizing Shopify & Koble APIs
 - 🌯 probably hungry...
 
