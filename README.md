@@ -19,10 +19,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
-### Currently I am...
-- 💭 studying, using, and integrating React Native, Expo, & Supabase in TypeScript
-- 🔌 looking for opportunities to make meaningful contributions to open-source projects
-- 📖 reading ***Lovecraft Country*** by *Matt Ruff* ![](https://geps.dev/progress/14)
+### Recently I've been...
+- 💭 working on integrating React Native, Expo, & Supabase in TypeScript
+- 🔌 looking for opportunities to make meaningful contributions to open-source projects that I use or want to use
+- 📖 reading ***Lovecraft Country*** by *Matt Ruff* ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/15?dangerColor=800000&warningColor=ff9900&successColor=006600)
 - 🌯 probably hungry...
 
 ### Find me
