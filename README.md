@@ -1,20 +1,19 @@
 # Heya, I'm Coren (he/they)
 
-<p>I am also affectionately know as <em>Kern</em></p>
+<p>I am also affectionately know as <em>Kern</em>.</p>
 <h5>
   I am an ambitious Full Stack Developer passionate about open-source technology, freedom of information, privacy, and embodying humanistic principles in my work.
 </h5>
 <h6 align=end>
   I am meticulous, persistent, and creative in my efforts to deliver results.
-  As an aspiring polyglot, I am regularly seeking ways to level up and evolve with emerging tech.
+  An aspiring polyglot, I am regularly seeking ways to level up & evolve with emerging tech.
 </h6>
 <div align="center">
   <img alt="sesame street yippers find computer" src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp"/>
   <br/>
+  <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20View%20Count&color=4CC733&style=plastic" alt="profile view count" />
+  <br/>
   <caption>Yipp, yipp!</caption>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20Page%20Loads&color=4CC733&style=for-the-badge" alt="profile view count" />
-  <br/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
