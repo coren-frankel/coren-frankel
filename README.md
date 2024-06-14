@@ -39,13 +39,8 @@
 
 <div align=center>
   <picture>
-  <source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake-dark.svg">
-
-  <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake-dark.svg">
-
-  <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake-dark.svg">
-
-  <img src="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions, dang it!" width="50%" title="hungry snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions, dang it!" width="75%" title="hungry snake">
 </picture>
     <p>whoooo! <em>look at em go!</em></p>
 </div>
