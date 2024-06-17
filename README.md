@@ -21,7 +21,7 @@
 ### Recently I've been...
 - 💭 working on integrating React Native, Expo, & Supabase in TypeScript
 - 🔌 looking for opportunities to make meaningful contributions to open-source projects that I use or want to use
-- 📖 reading ***Lovecraft Country*** by *Matt Ruff* ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/15?dangerColor=800000&warningColor=ff9900&successColor=006600)
+- 📖 reading ***Lovecraft Country*** by *Matt Ruff* ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/21?dangerColor=800000&warningColor=ff9900&successColor=006600)
 - 🌯 probably hungry...
 
 ### Find me
