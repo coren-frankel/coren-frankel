@@ -21,12 +21,22 @@
 ### Recently I've been...
 - 💭 working on integrating React Native, Expo, & Supabase in TypeScript
 - 🔌 looking for opportunities to make meaningful contributions to open-source projects that I use or want to use
-- 📖 reading ***Lovecraft Country*** by *Matt Ruff* ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/21?dangerColor=800000&warningColor=ff9900&successColor=006600)
-- 🌯 probably hungry...
+- 🍕 probably hungry...
 
-### Find me
+<div align=center>
+  
+I'm currently ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/21?dangerColor=800000&warningColor=ff9900&successColor=006600) through:
+  
+  <a href="https://share.libbyapp.com/title/2147929">
+    <img src="https://img2.od-cdn.com/ImageType-100/0293-1/{7C0D2717-29A7-4DCF-96F8-B42C2B8026BA}IMG100.JPG" width="250px"/>
+  </a>
+  
+</div>
+
 
 <div align="center">
+  
+### Find me lurking on
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
 [![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
@@ -34,9 +44,10 @@
 <a href="https://stackoverflow.com/users/19356052/uncle-baby-kern"><img src="https://stackoverflow.com/users/flair/19356052.png?theme=hotdog" width="208" height="58" alt="profile for uncle_baby_kern at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for uncle_baby_kern at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
 
-### Watch this snake eat my year-to-date git contributions
 
 <div align=center>
+  
+### Or watch this snake eat my year-to-date git contributions
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake-dark.svg">
@@ -79,20 +90,24 @@
   
 </details>
 
-## My Development Tools (Non-Exclusive):
 
-<p align=center>
+<div align=center>
+
+## My Development Tools (Non-Exclusive):
+  
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img alt="my technology and tools icons" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,yaml,jquery,react,remix,express,flask,spring,npm,pnpm,yarn,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,nodejs,vite,sqlite,mysql,firebase,supabase,mongodb,digitalocean,shopify,docker,vercel,aws,gcp,githubactions&perline=9&theme=dark" />
+    <img alt="my technology and tools icons" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,yaml,react,remix,flask,spring,pnpm,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,nodejs,vite,sqlite,mysql,firebase,supabase,mongodb,digitalocean,shopify,docker,vercel,gcp,githubactions&perline=8&theme=dark" />
   </a>
-</p>
+</div>
 <hr/>
 
-## Some Stats:
 
-<p align="center">
+<div align="center">
+
+## Some Stats:
+  
   <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=blue-green&show_icons=true&langs_count=6&count-private=true" />
-</p>
+</div>
 <p align="center">  
   <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=radical&show_icons=true" />
 </p>
