@@ -2,11 +2,11 @@
 
 <p>I am also affectionately know as <em>Kern</em>.</p>
 <h5>
-  I am an ambitious Full Stack Developer passionate about open-source technology, freedom of information, privacy, and embodying humanistic principles in my work.
+  I am a Full Stack Developer passionate about open-source technology, freedom of information, privacy, and embodying humanistic principles in my work.
 </h5>
 <h6 align=end>
   I am meticulous, persistent, and creative in my efforts to deliver results.
-  An aspiring polyglot, I am regularly seeking ways to level up & evolve with emerging tech.
+  An aspiring polyglot, I am regularly seeking ways to level up and evolve with emerging tech.
 </h6>
 <div align="center">
   <img alt="sesame street yippers find computer" src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp"/>
@@ -25,7 +25,7 @@
 
 <div align=center>
   
-I'm currently ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/21?dangerColor=800000&warningColor=ff9900&successColor=006600) through:
+I'm currently ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/38?dangerColor=800000&warningColor=ff9900&successColor=006600) through:
   
   <a href="https://share.libbyapp.com/title/2147929">
     <img src="https://img2.od-cdn.com/ImageType-100/0293-1/{7C0D2717-29A7-4DCF-96F8-B42C2B8026BA}IMG100.JPG" width="250px"/>
