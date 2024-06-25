@@ -19,8 +19,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
 ### Recently I've been...
-- 💭 working on integrating React Native, Expo, & Supabase in TypeScript
-- 🔌 looking for opportunities to make meaningful contributions to open-source projects that I use or want to use
+- 💭 integrating React Native, Expo, & Supabase with a Remix/TypeScript server
+- 🔌 seeking out opportunities to make meaningful contributions to open-source projects that I use or want to use
 - 🍕 probably hungry...
 
 <div align=center>
@@ -47,7 +47,7 @@ I'm currently ![https://github.com/gepser/markdown-progress](https://geps.dev/pr
 
 <div align=center>
   
-### Or watch this snake eat my year-to-date git contributions
+### Or watch this snake eat my year-to-date github contributions
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake-dark.svg">
