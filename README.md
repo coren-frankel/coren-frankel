@@ -112,7 +112,7 @@ I'm currently ![https://github.com/gepser/markdown-progress](https://geps.dev/pr
   <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=radical&show_icons=true" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=coren-frankel&theme=ambient-gradient&exclude_days=Sun%2CSat" alt="coren-frankel's GitHub Streak" />
+  <img src="https://github-readme-streak-stats-pi-sable.vercel.app/?user=coren-frankel&theme=ambient-gradient&exclude_days=Sun%2CSat" alt="coren-frankel's GitHub Streak" />
 </p>
 
 <div align=center>
