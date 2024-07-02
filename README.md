@@ -105,15 +105,13 @@ I'm currently ![https://github.com/gepser/markdown-progress](https://geps.dev/pr
 <div align="center">
 
 ## Some Stats:
-  
-  <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=blue-green&show_icons=true&langs_count=6&count-private=true" />
+
+<div>
+  <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=tokyonight&show_icons=true&langs_count=6&count-private=true&size_weight=0.5&count_weight=0.5" />
 </div>
-<p align="center">  
-  <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=radical&show_icons=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats-pi-sable.vercel.app/?user=coren-frankel&theme=ambient-gradient&exclude_days=Sun%2CSat" alt="coren-frankel's GitHub Streak" />
-</p>
+<img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=dracula&show_icons=true" />
+<img src="https://github-readme-streak-stats-pi-sable.vercel.app/?user=coren-frankel&theme=ambient-gradient&exclude_days=Sun%2CSat" alt="coren-frankel's GitHub Streak" />
+</div>
 
 <div align=center>
   
