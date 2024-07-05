@@ -1,4 +1,4 @@
-# Heya, I'm Coren (he/they)
+# Hey, I'm Coren (he/they)
 
 <p>I am also affectionately know as <em>Kern</em>.</p>
 <h5>
@@ -20,12 +20,12 @@
 
 ### Recently I've been...
 - 💭 integrating React Native, Expo, & Supabase with a Remix/TypeScript server
-- 🔌 seeking out opportunities to make meaningful contributions to open-source projects that I use or want to use
+- 🔌 seeking out opportunities to make contributions to open-source projects
 - 🍕 probably hungry...
 
 <div align=center>
   
-I'm currently ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=006600) through:
+I'm currently ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600) through:
   
   <a href="https://share.libbyapp.com/title/2147929">
     <img src="https://img2.od-cdn.com/ImageType-100/0293-1/{7C0D2717-29A7-4DCF-96F8-B42C2B8026BA}IMG100.JPG" width="250px"/>
