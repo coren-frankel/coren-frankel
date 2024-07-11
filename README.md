@@ -25,10 +25,16 @@
 
 <div align=center>
   
-I'm currently ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/91?dangerColor=800000&warningColor=ff9900&successColor=006600) through:
+I'm currently ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/94?dangerColor=800000&warningColor=ff9900&successColor=006600) through reading:
   
   <a href="https://share.libbyapp.com/title/2147929">
     <img src="https://img2.od-cdn.com/ImageType-100/0293-1/{7C0D2717-29A7-4DCF-96F8-B42C2B8026BA}IMG100.JPG" width="250px"/>
+  </a>
+
+And ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600) through listening to:
+  
+  <a href="https://share.libbyapp.com/title/5639811">
+    <img src="https://img1.od-cdn.com/ImageType-100/0111-1/%7B2BEE8523-8677-493F-8315-9C9B5C676FBE%7DIMG100.JPG" width="250px"/>
   </a>
   
 </div>
