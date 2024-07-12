@@ -19,9 +19,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
 ### Recently I've been...
-- 💭 integrating React Native, Expo, & Supabase with a Remix/TypeScript server
-- 🔌 seeking out opportunities to make contributions to open-source projects
-- 🍕 probably hungry...
+- 💭 integrating React Native, Expo, & Supabase with a Remix/TypeScript customer Shopify application
+- 🔌 seeking out and taking advantage of opportunities to contribute to open-source projects
+- 🏗️ shipping custom proprietary middleware built with Python, Flask, SQLAlchemy & MySQL to connect Shopify with Koble ERP software
+- 🥨 probably hungry...
 
 <div align=center>
   
