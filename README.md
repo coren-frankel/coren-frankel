@@ -26,14 +26,16 @@
 
 <div align=center>
   
-I'm currently ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600) through reading:
+I'm currently ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/1?dangerColor=800000&warningColor=ff9900&successColor=006600) through reading:
   
+<!-- Strong Female Character -->
   <a href="https://share.libbyapp.com/title/9580780">
     <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0111-1%2F%257B2D7F2FC5-AF38-4F42-9BB8-FAAED5136E25%257DIMG100.JPG" width="250px"/>
   </a>
 
-![https://github.com/gepser/markdown-progress](https://geps.dev/progress/1?dangerColor=800000&warningColor=ff9900&successColor=006600) through reading:
+![https://github.com/gepser/markdown-progress](https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600) through reading:
   
+<!-- They Lurk -->
   <a href="https://share.libbyapp.com/title/9420397">
     <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0111-1%2F%257B8CD6A262-644A-421B-B55C-9FF6E4B8695D%257DIMG100.JPG" width="250px"/>
   </a>
