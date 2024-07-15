@@ -21,24 +21,24 @@
 ### Recently I've been...
 - 💭 integrating React Native, Expo, & Supabase with a Remix/TypeScript customer Shopify application
 - 🔌 seeking out and taking advantage of opportunities to contribute to open-source projects
-- 🏗️ shipping custom proprietary middleware built with Python, Flask, SQLAlchemy & MySQL to connect Shopify with Koble ERP software
+- 🏗️ shipping custom proprietary middleware built with Python, Flask, SQLAlchemy & MySQL to connect Shopify with ERP software
 - 🥨 probably hungry...
 
 <div align=center>
   
-I'm currently ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600) through reading:
+I'm currently ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600) through reading:
   
   <a href="https://share.libbyapp.com/title/9580780">
     <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0111-1%2F%257B2D7F2FC5-AF38-4F42-9BB8-FAAED5136E25%257DIMG100.JPG" width="250px"/>
   </a>
 
-![https://github.com/gepser/markdown-progress](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600) through reading:
+![https://github.com/gepser/markdown-progress](https://geps.dev/progress/1?dangerColor=800000&warningColor=ff9900&successColor=006600) through reading:
   
   <a href="https://share.libbyapp.com/title/9420397">
     <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0111-1%2F%257B8CD6A262-644A-421B-B55C-9FF6E4B8695D%257DIMG100.JPG" width="250px"/>
   </a>
 
-And ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/45?dangerColor=800000&warningColor=ff9900&successColor=006600) through listening to:
+And ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/55?dangerColor=800000&warningColor=ff9900&successColor=006600) through listening to:
   
   <a href="https://share.libbyapp.com/title/5639811">
     <img src="https://img1.od-cdn.com/ImageType-100/0111-1/%7B2BEE8523-8677-493F-8315-9C9B5C676FBE%7DIMG100.JPG" width="250px"/>
