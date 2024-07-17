@@ -33,7 +33,7 @@ I'm currently ![https://github.com/gepser/markdown-progress](https://geps.dev/pr
     <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0111-1%2F%257B2D7F2FC5-AF38-4F42-9BB8-FAAED5136E25%257DIMG100.JPG" width="250px"/>
   </a>
 
-![https://github.com/gepser/markdown-progress](https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600) through reading:
+![https://github.com/gepser/markdown-progress](https://geps.dev/progress/14?dangerColor=800000&warningColor=ff9900&successColor=006600) through reading:
   
 <!-- They Lurk -->
   <a href="https://share.libbyapp.com/title/9420397">
@@ -111,7 +111,7 @@ And ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/55?
 ## My Development Tools (Non-Exclusive):
   
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img alt="my technology and tools icons" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,yaml,react,remix,flask,spring,pnpm,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,nodejs,vite,sqlite,mysql,firebase,supabase,mongodb,digitalocean,shopify,docker,vercel,gcp,githubactions&perline=8&theme=dark" />
+    <img alt="my technology and tools icons" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,yaml,react,remix,nodejs,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,vite,sqlite,mysql,supabase,mongodb,digitalocean,shopify,docker,vercel,gcp,githubactions&perline=8&theme=dark" />
   </a>
 </div>
 <hr/>
