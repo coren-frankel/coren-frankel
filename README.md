@@ -24,29 +24,50 @@
 - 🏗️ shipping custom proprietary middleware built with Python, Flask, SQLAlchemy & MySQL connecting ERP software to a Shopify eCommerce store
 - 🥨 probably hungry...
 
-<div align=center>
-  
-I'm currently ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/1?dangerColor=800000&warningColor=ff9900&successColor=006600) through:
-  
-<!-- Strong Female Character -->
+
+<hr/>
+<h2 align=center>I'm reading:</h2>
+<table align=center>
+  <tr>
+  <td><!-- Strong Female Character -->
   <a href="https://share.libbyapp.com/title/9580780">
     <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0111-1%2F%257B2D7F2FC5-AF38-4F42-9BB8-FAAED5136E25%257DIMG100.JPG" width="250px"/>
   </a>
-
-![https://github.com/gepser/markdown-progress](https://geps.dev/progress/24?dangerColor=800000&warningColor=ff9900&successColor=006600) through:
-  
-<!-- They Lurk -->
+  </td>
+  <td><!-- They Lurk -->
   <a href="https://share.libbyapp.com/title/9420397">
     <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0111-1%2F%257B8CD6A262-644A-421B-B55C-9FF6E4B8695D%257DIMG100.JPG" width="250px"/>
   </a>
-
-And ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=006600) through:
-  
+  </td>
+  <td><!-- Crying in H Mart -->
   <a href="https://share.libbyapp.com/title/5639811">
     <img src="https://img1.od-cdn.com/ImageType-100/0111-1/%7B2BEE8523-8677-493F-8315-9C9B5C676FBE%7DIMG100.JPG" width="250px"/>
   </a>
+  </td>
+</tr>
+  <tr>
+    <td align=center>
+      
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/1?dangerColor=800000&warningColor=ff9900&successColor=006600)
+      
+  <!-- Strong Female Character - Fern Brady -->
+  </td>
+  <td align=center>
+    
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/24?dangerColor=800000&warningColor=ff9900&successColor=006600)
+
+  <!-- They Lurk - Ronald Malfi -->
+  </td>
+  <td align=center>
+    
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=006600)
+
+  <!-- Crying in H Mart - Michelle Zauner -->
+  </td>
+  </tr>
   
-</div>
+  
+</table>
 
 
 <div align="center">
@@ -121,11 +142,15 @@ And ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/65?
 
 ## Some Stats:
 
-<div>
-  <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=compact&theme=tokyonight&show_icons=true&langs_count=6&count-private=true&size_weight=0.5&count_weight=0.5" />
-</div>
-<img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=dracula&show_icons=true" />
-<img src="https://github-readme-streak-stats-pi-sable.vercel.app/?user=coren-frankel&theme=ambient-gradient&exclude_days=Sun%2CSat" alt="coren-frankel's GitHub Streak" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <div>
+      <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=donut-vertical&theme=merko&size_weight=0.5&count_weight=0.5" />
+  </div>
+  <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=dracula&show_icons=true" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats-pi-sable.vercel.app/?user=coren-frankel&theme=ambient-gradient&exclude_days=Sun%2CSat" alt="coren-frankel's GitHub Streak" />
+  </a>
 </div>
 
 <div align=center>
