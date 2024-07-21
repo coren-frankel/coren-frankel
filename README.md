@@ -146,7 +146,7 @@
   <div>
       <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=donut-vertical&theme=merko&size_weight=0.5&count_weight=0.5" />
   </div>
-  <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=dracula&show_icons=true" />
+  <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=dracula&show_icons=true&show_private=true" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats-pi-sable.vercel.app/?user=coren-frankel&theme=ambient-gradient&exclude_days=Sun%2CSat" alt="coren-frankel's GitHub Streak" />
