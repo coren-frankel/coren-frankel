@@ -5,7 +5,7 @@
   I am a Full Stack Developer passionate about open-source technology, freedom of information, privacy, and embodying humanistic principles in my work.
 </h5>
 <h6 align=end>
-  I am meticulous, persistent, and creative in my efforts to deliver results.
+  I am meticulous, persistent, and creative in my efforts to deliver solutions.
   An aspiring polyglot, I am regularly seeking ways to level up and evolve with emerging tech.
 </h6>
 <div align="center">
@@ -54,13 +54,13 @@
   </td>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/24?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/38?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   <!-- They Lurk - Ronald Malfi -->
   </td>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/68?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   <!-- Crying in H Mart - Michelle Zauner -->
   </td>
