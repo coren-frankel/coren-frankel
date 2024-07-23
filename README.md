@@ -6,7 +6,7 @@
 </h5>
 <h6 align=end>
   I am meticulous, persistent, and creative in my efforts to deliver solutions.
-  An aspiring polyglot, I am regularly seeking ways to level up and evolve with emerging tech.
+  An aspiring polyglot, I regularly seek out ways to level up and evolve with emerging tech.
 </h6>
 <div align="center">
   <img alt="sesame street yippers find computer" src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp"/>
@@ -73,13 +73,13 @@
 <div align="center">
   
 ### Find me lurking on
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
-[![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
 
 <a href="https://stackoverflow.com/users/19356052/uncle-baby-kern"><img src="https://stackoverflow.com/users/flair/19356052.png?theme=hotdog" width="208" height="58" alt="profile for uncle_baby_kern at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for uncle_baby_kern at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
-
+or say hi
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
+[![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
 
 <div align=center>
   
