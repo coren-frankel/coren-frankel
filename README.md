@@ -60,7 +60,7 @@
   </td>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/74?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/84?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   <!-- Crying in H Mart - Michelle Zauner -->
   </td>
