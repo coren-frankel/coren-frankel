@@ -48,7 +48,7 @@
   <tr>
     <td align=center>
       
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/1?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/8?dangerColor=800000&warningColor=ff9900&successColor=006600)
       
   <!-- Strong Female Character - Fern Brady -->
   </td>
@@ -60,7 +60,7 @@
   </td>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/74?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   <!-- Crying in H Mart - Michelle Zauner -->
   </td>
