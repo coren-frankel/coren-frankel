@@ -19,7 +19,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
 ### Recently I've been...
-- 💭 integrating React Native, Expo, & Supabase with a Remix/TypeScript customer Shopify application
+- 💭 integrating React Native, Expo, & Supabase with a Remix/TypeScript custom Shopify application
 - 🔌 seeking out and taking advantage of opportunities to contribute to open-source projects
 - 🏗️ shipping custom proprietary middleware built with Python, Flask, SQLAlchemy & MySQL connecting ERP software to a Shopify eCommerce store
 - 🥨 probably hungry...
@@ -60,7 +60,7 @@
   </td>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/84?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/93?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   <!-- Crying in H Mart - Michelle Zauner -->
   </td>
@@ -113,7 +113,7 @@
 <details>
   <summary>⏸️ Curriculum-borne projects:</summary>
   
-  + 🍔 *GetYum* - A User-driven & spoonacular-fueled Recipe-to-Grocery List app with Spotify Web player integration
+  + 🍔 *GetYum* - A spoonacular API-fueled Recipe-to-Grocery List app with Spotify Web player integration
     - Java/Spring/MySQL/React
     - [*GetYum Repo*](https://github.com/richzarate1997/recipe_routers#readme) 
   + 📈 VolatilitySurf - Stock Options Volatility Surface Trading Tool 
