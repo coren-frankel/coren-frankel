@@ -19,10 +19,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
 ### Recently I've been...
-- 💭 integrating React Native, Expo, & Supabase with a Remix/TypeScript custom Shopify application
-- 🔌 seeking out and taking advantage of opportunities to contribute to open-source projects
-- 🏗️ shipping custom proprietary middleware built with Python, Flask, SQLAlchemy & MySQL connecting ERP software to a Shopify eCommerce store
-- 🥨 probably hungry...
+- 📱 integrating React Native, Expo, & Supabase with a Remix/TypeScript custom Shopify application
+- 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects
+- 🔌 shipping custom proprietary middleware built with Python, Flask, SQLAlchemy, Redis, & MySQL connecting ERP software to a Shopify eCommerce store
+- 🌮 probably hungry...
 
 
 <hr/>
@@ -76,7 +76,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
 [![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
 
-#### or find me lurking on SO
+#### or find me lurking on SO:
 
 <a href="https://stackoverflow.com/users/19356052/uncle-baby-kern"><img src="https://stackoverflow.com/users/flair/19356052.png?theme=hotdog" width="208" height="58" alt="profile for uncle_baby_kern at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for uncle_baby_kern at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
