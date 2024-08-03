@@ -136,7 +136,7 @@
 ## My Development Tools (Non-Exclusive):
   
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img alt="my technology and tools icons" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,yaml,react,remix,nodejs,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,vite,sqlite,mysql,supabase,mongodb,digitalocean,shopify,docker,vercel,gcp,githubactions&perline=8&theme=dark" />
+    <img alt="my technology and tools icons" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,yaml,react,remix,nodejs,flask,spring,npm,pnpm,maven,prisma,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,vite,sqlite,mysql,supabase,mongodb,digitalocean,shopify,docker,vercel,gcp,githubactions&perline=8&theme=auto" />
   </a>
 </div>
 <hr/>
