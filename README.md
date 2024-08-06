@@ -39,16 +39,11 @@
     <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0111-1%2F%257B8CD6A262-644A-421B-B55C-9FF6E4B8695D%257DIMG100.JPG" width="250px"/>
   </a>
   </td>
-  <td><!-- Crying in H Mart -->
-  <a href="https://share.libbyapp.com/title/5639811">
-    <img src="https://img1.od-cdn.com/ImageType-100/0111-1/%7B2BEE8523-8677-493F-8315-9C9B5C676FBE%7DIMG100.JPG" width="250px"/>
-  </a>
-  </td>
 </tr>
   <tr>
     <td align=center>
       
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/49?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/71?dangerColor=800000&warningColor=ff9900&successColor=006600)
       
   <!-- Strong Female Character - Fern Brady -->
   </td>
@@ -57,12 +52,6 @@
   ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/64?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   <!-- They Lurk - Ronald Malfi -->
-  </td>
-  <td align=center>
-    
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
-
-  <!-- Crying in H Mart - Michelle Zauner -->
   </td>
   </tr>
   
