@@ -150,5 +150,5 @@
   
   ## Thanks for visiting. See you...
   
-  <img src="https://i.giphy.com/media/GHeV8BGjJAAWk/giphy.webp" alt=" cartoon: 2 people put on sunglasses, then a duck tries too and pokes itself in the eye" />
+  <img src="https://media3.giphy.com/media/m9eG1qVjvN56H0MXt8.gif" alt="ok, bye" />
 </div>
