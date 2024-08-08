@@ -150,5 +150,5 @@
   
   ## Thanks for visiting. See you...
   
-  <img src="https://media3.giphy.com/media/m9eG1qVjvN56H0MXt8.gif" alt="ok, bye" />
+  <img src="https://media3.giphy.com/media/m9eG1qVjvN56H0MXt8/giphy.gif" alt="ok, bye" />
 </div>
