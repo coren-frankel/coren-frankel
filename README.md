@@ -20,8 +20,8 @@
 
 ### Recently I've been...
 - 📱 integrating React Native, Expo, & Supabase with a Remix/TypeScript custom Shopify application
-- 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects
 - 🔌 shipping custom proprietary middleware built with Python, Flask, SQLAlchemy, Redis, & MySQL connecting ERP software to a Shopify eCommerce store
+- 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects in my free time
 - 🌮 probably hungry...
 
 
