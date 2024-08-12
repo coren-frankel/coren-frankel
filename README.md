@@ -43,13 +43,13 @@
   <tr>
     <td align=center>
       
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/88?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
       
   <!-- Strong Female Character - Fern Brady -->
   </td>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/64?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/68?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   <!-- They Lurk - Ronald Malfi -->
   </td>
