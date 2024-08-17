@@ -30,15 +30,15 @@
 <table align=center>
   <tr>
   <td><!-- They Lurk -->
-  <a href="https://share.libbyapp.com/title/9420397">
-    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0111-1%2F%257B8CD6A262-644A-421B-B55C-9FF6E4B8695D%257DIMG100.JPG" width="250px"/>
+  <a href="https://share.libbyapp.com/title/8906311">
+    <img src="https://img1.od-cdn.com/ImageType-100/2390-1/%7BB369DC85-E77D-4999-B0CD-D8AF966C5DDD%7DIMG100.JPG" width="250px"/>
   </a>
   </td>
 </tr>
   <tr>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/79?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   <!-- They Lurk - Ronald Malfi -->
   </td>
