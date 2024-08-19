@@ -20,8 +20,9 @@
 
 ### Recently I've been...
 - 📱 integrating React Native, Expo, & Supabase with a Remix/TypeScript custom Shopify application
-- 🔌 shipping custom proprietary middleware built with Python, Flask, SQLAlchemy, Redis, & MySQL connecting ERP software to a Shopify eCommerce store
+- 🔌 shipping custom proprietary eCommerce middleware built with Python, Flask, SQLAlchemy, Redis, & MySQL connecting ERP software with Shopify
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects in my free time
+- 🛹 exercising my command line and scripting muscles
 - 🌮 probably hungry...
 
 
@@ -29,7 +30,7 @@
 <h2 align=center>I'm reading:</h2>
 <table align=center>
   <tr>
-  <td><!-- They Lurk -->
+  <td><!-- Looking Glass Sound -->
   <a href="https://share.libbyapp.com/title/8906311">
     <img src="https://img1.od-cdn.com/ImageType-100/2390-1/%7BB369DC85-E77D-4999-B0CD-D8AF966C5DDD%7DIMG100.JPG" width="250px"/>
   </a>
@@ -38,9 +39,9 @@
   <tr>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/13?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
-  <!-- They Lurk - Ronald Malfi -->
+  <!-- Looking Glass Sound - Catriona Ward -->
   </td>
   </tr>
   
