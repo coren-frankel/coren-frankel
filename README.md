@@ -19,16 +19,25 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
 ### Recently I've been...
-- 📱 integrating React Native, Expo, & Supabase with a Remix/TypeScript custom Shopify application
-- 🔌 shipping custom proprietary eCommerce middleware built with Python, Flask, SQLAlchemy, Redis, & MySQL connecting ERP software with Shopify
-- 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects in my free time
-- 🛹 exercising my command line and scripting muscles
-- 🌮 probably hungry...
+- 🎟️ arcbuilding a custom Shopify application utilizing Remix, Prisma, MySQL, TypeScript, Polaris, & Tailwind CSS.
+- 📱 integrating React Native/Expo universal mobile application using Supabase, NativeWind with a custom Shopify application
+- 🚀 shipping custom proprietary eCommerce middleware built with Python, Flask, SQLAlchemy, Redis, & MySQL connecting ERP software with Shopify
+- 🔭 seeking out and taking advantage of opportunities to contribute to open-source
+- ⌨️ studying Docker, OSI, Linux essentials, & Ethical Hacking in my free time
+- 🥟 hungry, probably...
 
 
 <hr/>
-<h2 align=center>I'm reading:</h2>
+<h2 align=center>I'm currently reading:</h2>
 <table align=center>
+  <tr>
+  <td align=center>
+    
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=006600)
+
+  <!-- Looking Glass Sound - Catriona Ward -->
+  </td>
+  </tr>
   <tr>
   <td><!-- Looking Glass Sound -->
   <a href="https://share.libbyapp.com/title/8906311">
@@ -36,18 +45,33 @@
   </a>
   </td>
 </tr>
-  <tr>
-  <td align=center>
-    
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/35?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  
+  
+</table>
 
-  <!-- Looking Glass Sound - Catriona Ward -->
+<h2 align=center>I recently finished reading:</h2>
+<table align=center>
+  <tr>
+  <td><!-- Crying in H Mart Michelle Zauner-->
+  <a href="https://share.libbyapp.com/title/5639811">
+    <img src="https://img1.od-cdn.com/ImageType-100/0111-1/%7B2BEE8523-8677-493F-8315-9C9B5C676FBE%7DIMG100.JPG" width="250px"/>
+  </a>
+  </td>
+  </td>
+  <td><!-- Strong Female Character Fern Brady -->
+  <a href="">
+    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F0111-1%2F%257B2D7F2FC5-AF38-4F42-9BB8-FAAED5136E25%257DIMG400.JPG" width="250px"/>
+  </a>
+  </td>
+  <td><!-- They Lurk Ronald Malfi -->
+  <a href="">
+    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F0111-1%2F%257B8CD6A262-644A-421B-B55C-9FF6E4B8695D%257DIMG400.JPG" width="250px"/>
+  </a>
   </td>
   </tr>
   
   
 </table>
-
 
 <div align="center">
   
