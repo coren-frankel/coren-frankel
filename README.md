@@ -1,12 +1,11 @@
-# Hey, I'm Coren (he/they)
+# Howdy, I'm Coren (he/they)
 
-<p>I am also affectionately know as <em>Kern</em>.</p>
+<p>Some call me <em>Kern</em>.</p>
 <h5>
-  I am a Full Stack Developer passionate about open-source technology, freedom of information, privacy, and embodying humanistic principles in my work.
+  I'm a Full Stack Developer passionate about freedom of information, privacy, open-source technology, and evolving with emerging tech.
 </h5>
 <h6 align=end>
-  I am meticulous, persistent, and creative in my efforts to deliver solutions.
-  An aspiring polyglot, I regularly seek out ways to level up and evolve with emerging tech.
+  An aspiring polyglot, I am meticulous, persistent, and creative in my ability to deliver solutions and embody humanistic principles in my work.
 </h6>
 <div align="center">
   <img alt="sesame street yippers find computer" src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp"/>
@@ -19,8 +18,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
 ### Recently I've been...
-- 🎟️ arcbuilding a custom Shopify application utilizing Remix, Prisma, MySQL, TypeScript, Polaris, & Tailwind CSS.
-- 📱 integrating React Native/Expo universal mobile application using Supabase, NativeWind with a custom Shopify application
+- 🎟️ building a custom Shopify application utilizing Remix, Prisma, MySQL, TypeScript, Polaris, & Tailwind CSS.
+- 📱 integrating an Android/iOS/Web application using Expo, React Native, Supabase, NativeWind with a custom Shopify application
 - 🚀 shipping custom proprietary eCommerce middleware built with Python, Flask, SQLAlchemy, Redis, & MySQL connecting ERP software with Shopify
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source
 - ⌨️ studying Docker, OSI, Linux essentials, & Ethical Hacking in my free time
@@ -49,7 +48,7 @@
   
 </table>
 
-<h2 align=center>I recently finished reading:</h2>
+<h2 align=center>I recently finished:</h2>
 <table align=center>
   <tr>
   <td><!-- Crying in H Mart Michelle Zauner-->
