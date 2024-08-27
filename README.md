@@ -17,7 +17,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
-### Recently I've been...
+### Lately, I've been focused on...
 - 🎟️ building a custom Shopify application utilizing Remix, Prisma, MySQL, TypeScript, Polaris, & Tailwind CSS.
 - 📱 integrating an Android/iOS/Web application using Expo, React Native, Supabase, NativeWind with a custom Shopify application
 - 🚀 shipping custom proprietary eCommerce middleware built with Python, Flask, SQLAlchemy, Redis, & MySQL connecting ERP software with Shopify
@@ -48,30 +48,26 @@
   
 </table>
 
-<h2 align=center>I recently finished:</h2>
+<p align=center>I recently finished:</p>
 <table align=center>
   <tr>
   <td><!-- Crying in H Mart Michelle Zauner-->
   <a href="https://share.libbyapp.com/title/5639811">
-    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F0111-1%2F%257B2BEE8523-8677-493F-8315-9C9B5C676FBE%257DIMG400.JPG" width="300px"/>
+    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F0111-1%2F%257B2BEE8523-8677-493F-8315-9C9B5C676FBE%257DIMG400.JPG" width="150px"/>
   </a>
-  </td>
   </td>
   <td><!-- Strong Female Character Fern Brady -->
   <a href="https://share.libbyapp.com/title/9580780">
-    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F0111-1%2F%257B2D7F2FC5-AF38-4F42-9BB8-FAAED5136E25%257DIMG400.JPG" width="300px"/>
+    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F0111-1%2F%257B2D7F2FC5-AF38-4F42-9BB8-FAAED5136E25%257DIMG400.JPG" width="150px"/>
   </a>
   </td>
   <td><!-- They Lurk Ronald Malfi -->
   <a href="https://share.libbyapp.com/title/9420397">
-    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F0111-1%2F%257B8CD6A262-644A-421B-B55C-9FF6E4B8695D%257DIMG400.JPG" width="300px"/>
+    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F0111-1%2F%257B8CD6A262-644A-421B-B55C-9FF6E4B8695D%257DIMG400.JPG" width="150px"/>
   </a>
   </td>
   </tr>
-  
-  
 </table>
-
 <div align="center">
   
 ### Reach me on:
@@ -165,3 +161,4 @@
   
   <img src="https://media3.giphy.com/media/m9eG1qVjvN56H0MXt8/giphy.gif" alt="ok, bye" />
 </div>
+<script src="/js/image-carousel.js"></script>
