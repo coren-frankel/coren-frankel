@@ -32,7 +32,7 @@
   <tr>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/55?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   <!-- Looking Glass Sound - Catriona Ward -->
   </td>
