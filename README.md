@@ -32,15 +32,14 @@
   <tr>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/66?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/6?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
-  <!-- Looking Glass Sound - Catriona Ward -->
   </td>
   </tr>
   <tr>
-  <td><!-- Looking Glass Sound -->
-  <a href="https://share.libbyapp.com/title/8906311">
-    <img src="https://img1.od-cdn.com/ImageType-100/2390-1/%7BB369DC85-E77D-4999-B0CD-D8AF966C5DDD%7DIMG100.JPG" width="250px"/>
+  <td><!-- Jurassic Park Michael Crichton -->
+  <a href="https://share.libbyapp.com/title/871092">
+    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0111-1%2F%257BEEBDB2BD-76FF-4F32-85B5-110C39C4E811%257DImg100.jpg" alt="Jurassic Park Michael Crichton width="250px"/>
   </a>
   </td>
 </tr>
@@ -51,11 +50,6 @@
 <p align=center>I recently finished:</p>
 <table align=center>
   <tr>
-  <td><!-- Crying in H Mart Michelle Zauner-->
-  <a href="https://share.libbyapp.com/title/5639811">
-    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F0111-1%2F%257B2BEE8523-8677-493F-8315-9C9B5C676FBE%257DIMG400.JPG" width="150px"/>
-  </a>
-  </td>
   <td><!-- Strong Female Character Fern Brady -->
   <a href="https://share.libbyapp.com/title/9580780">
     <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F0111-1%2F%257B2D7F2FC5-AF38-4F42-9BB8-FAAED5136E25%257DIMG400.JPG" width="150px"/>
@@ -64,6 +58,11 @@
   <td><!-- They Lurk Ronald Malfi -->
   <a href="https://share.libbyapp.com/title/9420397">
     <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F0111-1%2F%257B8CD6A262-644A-421B-B55C-9FF6E4B8695D%257DIMG400.JPG" width="150px"/>
+  </a>
+  </td>
+  <td><!-- Looking Glass Sound -->
+  <a href="https://share.libbyapp.com/title/8906311">
+    <img src="https://img1.od-cdn.com/ImageType-100/2390-1/%7BB369DC85-E77D-4999-B0CD-D8AF966C5DDD%7DIMG100.JPG" width="250px"/>
   </a>
   </td>
   </tr>
