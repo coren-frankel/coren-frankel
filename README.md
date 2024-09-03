@@ -39,7 +39,7 @@
   <tr>
   <td><!-- Jurassic Park Michael Crichton -->
   <a href="https://share.libbyapp.com/title/871092">
-    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0111-1%2F%257BEEBDB2BD-76FF-4F32-85B5-110C39C4E811%257DImg100.jpg" alt="Jurassic Park Michael Crichton width="250px"/>
+    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0111-1%2F%257BEEBDB2BD-76FF-4F32-85B5-110C39C4E811%257DImg100.jpg" alt="Jurassic Park Michael Crichton" width="250px"/>
   </a>
   </td>
 </tr>
@@ -62,7 +62,7 @@
   </td>
   <td><!-- Looking Glass Sound -->
   <a href="https://share.libbyapp.com/title/8906311">
-    <img src="https://img1.od-cdn.com/ImageType-100/2390-1/%7BB369DC85-E77D-4999-B0CD-D8AF966C5DDD%7DIMG100.JPG" width="250px"/>
+    <img src="https://img1.od-cdn.com/ImageType-100/2390-1/%7BB369DC85-E77D-4999-B0CD-D8AF966C5DDD%7DIMG100.JPG" width="150px"/>
   </a>
   </td>
   </tr>
