@@ -18,11 +18,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
 ### Lately, I've been focused on...
-- 🎟️ building a custom Shopify application utilizing Remix, Prisma, MySQL, TypeScript, Polaris, & Tailwind CSS.
-- 📱 integrating an Android/iOS/Web application using Expo, React Native, Supabase, NativeWind with a custom Shopify application
-- 🚀 shipping custom proprietary eCommerce middleware built with Python, Flask, SQLAlchemy, Redis, & MySQL connecting ERP software with Shopify
-- 🔭 seeking out and taking advantage of opportunities to contribute to open-source
-- ⌨️ studying Docker, OSI, Linux essentials, & Ethical Hacking in my free time
+- 🎟️ finalizing a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS.
+- 📱 developing an Native + Web application using React Native, Expo, Supabase, NativeWind with a custom 
+- 🚀 shipping custom proprietary eCommerce middleware built with Python, Flask, SQLAlchemy, Redis, & MySQL connecting ERP software with a Shopify store
+- 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects and software
+- 🧫 studying Docker, OSI, Linux essentials, & Ethical Hacking in my free time
 - 🥟 hungry, probably...
 
 
@@ -32,7 +32,7 @@
   <tr>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/6?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/17?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
   </tr>
@@ -133,7 +133,7 @@
 ## My Development Tools (Non-Exclusive):
   
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img alt="my technology and tools icons" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,yaml,react,remix,nodejs,flask,spring,npm,pnpm,maven,prisma,sqla,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,tailwind,bootstrap,materialui,vite,sqlite,mysql,redis,supabase,mongodb,digitalocean,shopify,docker,vercel,gcp,githubactions&perline=7&theme=auto" />
+    <img alt="my technology and tools icons" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,yaml,react,reactnative,remix,nodejs,flask,spring,npm,pnpm,maven,prisma,sqla,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,babel,tailwind,bootstrap,materialui,vite,sqlite,mysql,redis,supabase,mongodb,digitalocean,shopify,docker,ngrok,cloudflare,vercel,gcp,git,githubactions,linux,apple&perline=7&theme=auto" />
   </a>
 </div>
 <hr/>
