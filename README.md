@@ -145,68 +145,53 @@
   <a href="https://github.com/LelouchFR/skill-icons">
     <img alt="my technology and tools icons" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,yaml,react,reactnative,remix,nodejs,flask,spring,npm,pnpm,maven,prisma,sqla,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,regex,babel,tailwind,bootstrap,materialui,vite,sqlite,mysql,redis,supabase,mongodb,digitalocean,shopify,docker,ngrok,cloudflare,vercel,gcp,git,githubactions,linux,apple&perline=7&theme=auto" />
   </a>
-
 </div>
   <details>
     <summary>Breakdown</summary>
     <div align=center>
     <details>
       <summary>Languages:</summary>
-      <p>HTML, CSS, JavaScript, TypeScript, Python, Java, Markdown</p>
+      <p>HTML, CSS, GraphQL, JavaScript, TypeScript, Python, Java, Markdown</p>
     </details>
     <details>
-      <summary>Runtimes:</summary>
-      <p>NodeJS, Remix, React Native, Expo, Flask, Spring</p>
+      <summary>Frameworks & Runtimes:</summary>
+      <p>Expo, Flask, Node.js, React, Remix, React Native, Spring</p>
     </details>
     <details>
-      <summary>Frameworks:</summary>
-      <p>React, Remix, React Native, Expo, Flask, Spring</p>
-    </details>
-    <details>
-      <summary>Dependency Management:</summary>
-      <p>npm, pnpm, Maven, Pipenv</p>
-    </details>
-    <details>
-      <summary>Build Tools:</summary>
-      <p>Vite, Babel, Tomcat, Docker</p>
+      <summary>Dependency Management & Build Tools:</summary>
+      <p>npm, pnpm, Maven, Pipenv, Vite, Babel, Tomcat, Docker</p>
     </details>
     <details>
       <summary>Style Libraries:</summary>
-      <p>Tailwind, Bootstrap, Material UI</p>
+      <p>Tailwind CSS, Bootstrap, Material UI</p>
     </details>
     <details>
       <summary>IDEs:</summary>
-      <p>VSCode, IntelliJ Idea, Android Studio, XCode, Postman</p>
+      <p>VS Code, IntelliJ Idea, Android Studio, XCode, Postman</p>
     </details>
     <details>
       <summary>OS:</summary>
-      <p>Linux, MacOS, Android, iOS</p>
+      <p>Android, iOS, Linux, MacOS</p>
     </details>
     <details>
       <summary>Developer Tools:</summary>
-      <p>Git, Github, Github Actions, Cloudflare, Ngrok</p>
+      <p>Cloudflare, Figma, Git, Github, Github Actions, Ngrok</p>
     </details>
     <details>
-      <summary>ORMs, ODMs, & Data Persistence Tools:</summary>
-      <p>Prisma, SqlAlchemy, JPA, JDBC, Mongoose</p>
+      <summary>ORMs, ODMs, Middlewares, & Data Persistence Tools:</summary>
+      <p>JPA, JDBC, Mongoose, Prisma, SqlAlchemy</p>
     </details>
     <details>
       <summary>Databases:</summary>
-      <p>MySQL, MongoDB, SQLite, PostgreSQL, Redis</p>
+      <p>MySQL, MongoDB, PostgreSQL, Redis, SQLite</p>
     </details>
-<!--     <details>
-      <summary>Architectures:</summary>
-      <p>REST, GraphQL, OOP</p>
-    </details> -->
     <details>
-      <summary>Deployment:</summary>
+      <summary>Cloud Providers:</summary>
       <p>Vercel, Digital Ocean, GCP, AWS</p>
     </details>
     </div>
   </details>
 <hr/>
-
-
 <div align="center">
 
 ## Some Stats:
