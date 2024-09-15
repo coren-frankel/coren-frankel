@@ -17,13 +17,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
-### Lately, I've been focused on...
+### Recently, I've been focused on...
 - 🎟️ finalizing a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS.
-- 📱 developing an Native + Web application using React Native, Expo, Supabase, NativeWind with a custom 
-- 🚀 shipping custom proprietary eCommerce middleware built with Python, Flask, SQLAlchemy, Redis, & MySQL connecting ERP software with a Shopify store
+- 📱 preparing a Native + Web application using React Native, Expo, Supabase, NativeWind
+- 🚀 launching custom proprietary eCommerce middleware built with Python, Flask, SQLAlchemy, Redis, & MySQL connecting ERP software with a Shopify store
+- 📊 improvising data visualizations with raw SQL queries and D3-powered Victory Charts
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects and software
-- 🧫 studying Docker, OSI, Linux essentials, & Ethical Hacking in my free time
-- 🥟 hungry, probably...
+- 🧫 studying & experimenting with Docker, OSI, Linux essentials, & Ethical Hacking
+- 🥐 hungry, probably...
 
 
 <hr/>
@@ -37,7 +38,7 @@
   </td>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
   </tr>
@@ -155,7 +156,7 @@
     </details>
     <details>
       <summary>Frameworks & Runtimes:</summary>
-      <p>Expo, Flask, Node.js, React, Remix, React Native, Spring</p>
+      <p>Expo, Flask, Node.js, React, Remix, React Native, Spring, Supabase</p>
     </details>
     <details>
       <summary>Dependency Management & Build Tools:</summary>
