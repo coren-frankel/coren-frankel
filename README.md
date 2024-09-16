@@ -33,12 +33,12 @@
   <tr>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/54?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/59?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/11?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
   </tr>
