@@ -23,7 +23,7 @@
 - 🚀 launching custom proprietary eCommerce middleware built with Python, Flask, SQLAlchemy, Redis, & MySQL connecting ERP software with a Shopify store
 - 📊 improvising data visualizations with raw SQL queries and D3-powered Victory Charts
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects and software
-- 🧫 studying & experimenting with Docker, OSI, Linux essentials, & Ethical Hacking
+- 🧫 studying & experimenting with Docker, Deno, OSI, Linux essentials, & Ethical Hacking
 - 🥐 hungry, probably...
 
 
@@ -38,7 +38,7 @@
   </td>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/11?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/16?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
   </tr>
