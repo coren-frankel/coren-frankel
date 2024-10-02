@@ -19,7 +19,7 @@
 
 ### Recently, I've been focused on...
 - 🎟️ finalizing a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS.
-- 📱 preparing a Native + Web application using React Native, Expo, Supabase, NativeWind
+- 📱 preparing a Native + Web application using React Native, Expo, Supabase, SWR, & NativeWind
 - 🚀 launching custom proprietary eCommerce middleware built with Python, Flask, SQLAlchemy, Redis, & MySQL connecting ERP software with a Shopify store
 - 📊 improvising data visualizations with raw SQL queries and D3-powered Victory Charts
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects and software
