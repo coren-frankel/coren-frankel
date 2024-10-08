@@ -79,7 +79,7 @@
   </td>
   <td><!-- Jurassic Park Michael Crichton -->
   <a href="https://share.libbyapp.com/title/871092">
-    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0111-1%2F%257BEEBDB2BD-76FF-4F32-85B5-110C39C4E811%257DImg100.jpg" alt="Jurassic Park Michael Crichton" width="250px"/>
+    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0111-1%2F%257BEEBDB2BD-76FF-4F32-85B5-110C39C4E811%257DImg100.jpg" alt="Jurassic Park Michael Crichton" width="150px"/>
   </a>
   </td>
   </tr>
