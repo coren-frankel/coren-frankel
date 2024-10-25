@@ -33,7 +33,7 @@
   <tr>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/89?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/4?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
   <td align=center>
@@ -44,10 +44,9 @@
   </tr>
   <tr>
   <td><!-- Moon of the Crusted Snow Waubgeshig Rice -->
-  <a href="https://share.libbyapp.com/title/4340470">
-    <img src="https://img2.od-cdn.com/ImageType-100/5177-1/%7BEB52BD25-CA34-4B20-A3B1-C229560597E8%7DImg100.jpg" alt="Moon of the Crusted Snow Waubgeshig Rice" width="250px"/>
+  <a href="https://share.libbyapp.com/title/9885661">
+    <img src="https://img3.od-cdn.com/ImageType-100/0293-1/{080874D8-AE37-407C-9318-D999489D8A01}IMG100.JPG" alt="Moon of the Turning Leaves Waubgeshig Rice" width="250px"/>
   </a>
-  
   </td>
   <td><!-- Building Production-Grade Web Applications with Supabase by David Lorenz -->
   <a href="https://www.packtpub.com/en-us/product/building-production-grade-web-applications-with-supabase-9781837630684">
@@ -62,16 +61,6 @@
 <p align=center>I recently finished:</p>
 <table align=center>
   <tr>
-  <td><!-- Strong Female Character Fern Brady -->
-  <a href="https://share.libbyapp.com/title/9580780">
-    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F0111-1%2F%257B2D7F2FC5-AF38-4F42-9BB8-FAAED5136E25%257DIMG400.JPG" width="150px"/>
-  </a>
-  </td>
-  <td><!-- They Lurk Ronald Malfi -->
-  <a href="https://share.libbyapp.com/title/9420397">
-    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F0111-1%2F%257B8CD6A262-644A-421B-B55C-9FF6E4B8695D%257DIMG400.JPG" width="150px"/>
-  </a>
-  </td>
   <td><!-- Looking Glass Sound -->
   <a href="https://share.libbyapp.com/title/8906311">
     <img src="https://img1.od-cdn.com/ImageType-100/2390-1/%7BB369DC85-E77D-4999-B0CD-D8AF966C5DDD%7DIMG100.JPG" width="150px"/>
@@ -80,6 +69,11 @@
   <td><!-- Jurassic Park Michael Crichton -->
   <a href="https://share.libbyapp.com/title/871092">
     <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0111-1%2F%257BEEBDB2BD-76FF-4F32-85B5-110C39C4E811%257DImg100.jpg" alt="Jurassic Park Michael Crichton" width="150px"/>
+  </a>
+  </td>
+  <td><!-- Moon of the Crusted Snow Waubgeshig Rice -->
+  <a href="https://share.libbyapp.com/title/4340470">
+    <img src="https://img2.od-cdn.com/ImageType-100/5177-1/%7BEB52BD25-CA34-4B20-A3B1-C229560597E8%7DImg100.jpg" alt="Moon of the Crusted Snow Waubgeshig Rice" width="150px"/>
   </a>
   </td>
   </tr>
