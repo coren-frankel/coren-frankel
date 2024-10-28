@@ -21,7 +21,6 @@
 - 🎟️ finalizing a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS.
 - 📱 preparing a Native + Web application using React Native, Expo, Supabase, SWR, & NativeWind
 - 🚀 launching custom proprietary eCommerce middleware built with Python, Flask, SQLAlchemy, Redis, & MySQL connecting ERP software with a Shopify store
-- 📊 improvising data visualizations with raw SQL queries and D3-powered Victory Charts
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects and software
 - 🧫 studying & experimenting with Docker, Deno, OSI, Linux essentials, & Ethical Hacking
 - 🥐 hungry, probably...
@@ -93,7 +92,7 @@
 
 <div align=center>
   
-### Or watch this snake eat my year-to-date github contributions
+### or watch this snake eat my year-to-date github contributions
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coren-frankel/coren-frankel/output/github-contribution-grid-snake-dark.svg">
