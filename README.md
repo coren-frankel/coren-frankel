@@ -20,7 +20,6 @@
 ### Recently, I've been focused on...
 - 🎟️ finalizing a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS.
 - 📱 preparing a Native + Web application using React Native, Expo, Supabase, SWR, & NativeWind
-- 🚀 launching custom proprietary eCommerce middleware built with Python, Flask, SQLAlchemy, Redis, & MySQL connecting ERP software with a Shopify store
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects and software
 - 🧫 studying & experimenting with Docker, Deno, OSI, Linux essentials, & Ethical Hacking
 - 🥐 hungry, probably...
@@ -32,7 +31,7 @@
   <tr>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/4?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/18?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
   <td align=center>
