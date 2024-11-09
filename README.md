@@ -18,10 +18,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
 ### Recently, I've been focused on...
-- 🎟️ finalizing a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS.
-- 📱 preparing a Native + Web application using React Native, Expo, Supabase, SWR, & NativeWind
+- 🎟️ shipping a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS.
+- 📱 developing a Native + Web application using React Native, Expo, Supabase, SWR, & NativeWind
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects and software
-- 🧫 studying & experimenting with Docker, Deno, OSI, Linux essentials, & Ethical Hacking
+- 🧰 studying system design and architecture
+- 🧫 experimenting with Supabase, Docker, Deno, Next.js, 
 - 🥐 hungry, probably...
 
 
@@ -31,7 +32,7 @@
   <tr>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/34?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/48?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
   <td align=center>
@@ -41,7 +42,7 @@
   </td>
   </tr>
   <tr>
-  <td><!-- Moon of the Crusted Snow Waubgeshig Rice -->
+  <td><!-- Moon of the Turning Leaves by Waubgeshig Rice -->
   <a href="https://share.libbyapp.com/title/9885661">
     <img src="https://img3.od-cdn.com/ImageType-100/0293-1/{080874D8-AE37-407C-9318-D999489D8A01}IMG100.JPG" alt="Moon of the Turning Leaves Waubgeshig Rice" width="250px"/>
   </a>
@@ -61,17 +62,17 @@
   <tr>
   <td><!-- Looking Glass Sound -->
   <a href="https://share.libbyapp.com/title/8906311">
-    <img src="https://img1.od-cdn.com/ImageType-100/2390-1/%7BB369DC85-E77D-4999-B0CD-D8AF966C5DDD%7DIMG100.JPG" width="150px"/>
+    <img src="https://img1.od-cdn.com/ImageType-100/2390-1/%7BB369DC85-E77D-4999-B0CD-D8AF966C5DDD%7DIMG100.JPG" width="150px" alt="Looking Glass Sound by Catriona Ward" />
   </a>
   </td>
   <td><!-- Jurassic Park Michael Crichton -->
   <a href="https://share.libbyapp.com/title/871092">
-    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0111-1%2F%257BEEBDB2BD-76FF-4F32-85B5-110C39C4E811%257DImg100.jpg" alt="Jurassic Park Michael Crichton" width="150px"/>
+    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0111-1%2F%257BEEBDB2BD-76FF-4F32-85B5-110C39C4E811%257DImg100.jpg" alt="Jurassic Park by Michael Crichton" width="150px"/>
   </a>
   </td>
   <td><!-- Moon of the Crusted Snow Waubgeshig Rice -->
   <a href="https://share.libbyapp.com/title/4340470">
-    <img src="https://img2.od-cdn.com/ImageType-100/5177-1/%7BEB52BD25-CA34-4B20-A3B1-C229560597E8%7DImg100.jpg" alt="Moon of the Crusted Snow Waubgeshig Rice" width="150px"/>
+    <img src="https://img2.od-cdn.com/ImageType-100/5177-1/%7BEB52BD25-CA34-4B20-A3B1-C229560597E8%7DImg100.jpg" alt="Moon of the Crusted Snow by Waubgeshig Rice" width="150px"/>
   </a>
   </td>
   </tr>
