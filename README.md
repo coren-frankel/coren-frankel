@@ -5,7 +5,7 @@
   I'm a Full Stack Developer passionate about freedom of information, privacy, open-source technology, and evolving with emerging tech.
 </h5>
 <h6 align=end>
-  An aspiring polyglot, I am meticulous, persistent, and creative in my ability to deliver solutions and embody humanistic principles in my work.
+  An aspiring polyglot, I am meticulous, persistent, and creative in my ability to deliver solutions and apply humanistic principles in my work.
 </h6>
 <div align="center">
   <img alt="sesame street yippers find computer" src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp"/>
