@@ -44,12 +44,12 @@
   <tr>
   <td><!-- Moon of the Turning Leaves by Waubgeshig Rice -->
   <a href="https://share.libbyapp.com/title/9885661">
-    <img src="https://img3.od-cdn.com/ImageType-100/0293-1/{080874D8-AE37-407C-9318-D999489D8A01}IMG100.JPG" alt="Moon of the Turning Leaves Waubgeshig Rice" width="250px"/>
+    <img src="https://img3.od-cdn.com/ImageType-100/0293-1/{080874D8-AE37-407C-9318-D999489D8A01}IMG100.JPG" alt="Moon of the Turning Leaves Waubgeshig Rice" height="300px"/>
   </a>
   </td>
   <td><!-- Building Production-Grade Web Applications with Supabase by David Lorenz -->
   <a href="https://www.packtpub.com/en-us/product/building-production-grade-web-applications-with-supabase-9781837630684">
-    <img src="https://content.packt.com/_/image/original/B19648/cover_image_large.jpg" alt="Building Production-Grade Web Applications with Supabase by David Lorenz" width="250px"/>
+    <img src="https://content.packt.com/_/image/original/B19648/cover_image_large.jpg" alt="Building Production-Grade Web Applications with Supabase by David Lorenz" height="300px"/>
   </a>
   </td>
 </tr>
