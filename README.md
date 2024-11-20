@@ -18,12 +18,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
 ### Recently, I've been focused on...
+- 🪈 building out CI/CD pipelines for multiple codebases using Github Actions, Expo Application Services, & Docker
 - 🎟️ shipping a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS.
 - 📱 developing a Native + Web application using React Native, Expo, Supabase, SWR, & NativeWind
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects and software
 - 🧰 studying system design and architecture
-- 🧫 experimenting with Supabase, Docker, Deno, Next.js, 
-- 🥐 hungry, probably...
+- 🧫 experimenting with Supabase, Docker, Deno, Next.js
+- 🥐 hungry, probably
 
 
 <hr/>
@@ -32,7 +33,7 @@
   <tr>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/66?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
   <td align=center>
@@ -104,7 +105,7 @@
 ## Check out some of my public projects:
 
 <details>
-  <summary>🦫 Active Projects:</summary>
+  <summary>🦫 Pet Projects:</summary>
 
   + 📦 [*culinary-unit-abbreviation*](https://www.npmjs.com/package/culinary-unit-abbreviation) - lightweight and tested npm library that converts culinary unit strings into their corresponding abbreviations
     - TypeScript/Jest/npm
@@ -127,7 +128,7 @@
     - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
     - [VolatilitySurf Repo](https://github.com/coren-frankel/VolatilitySurf)
   + 🤧 *LookAchoo* - Geolocal Sneeze Context App
-    -  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+    - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
     - [*LookAchoo Repo*](https://github.com/coren-frankel/LookAchoo")
   + 🍳 *piqr* - Random Recipe CRUD App
     - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
