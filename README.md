@@ -33,7 +33,7 @@
   <tr>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/4?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
   <td align=center>
@@ -43,9 +43,9 @@
   </td>
   </tr>
   <tr>
-  <td><!-- You Should Have Left by Daniel Khelmann -->
-  <a href="https://www.overdrive.com/media/3071233/you-should-have-left">
-    <img src="https://s26162.pcdn.co/wp-content/uploads/2017/05/Daniel-Kehlmann-You-Should-Have-Left.jpeg" alt="You Should Have Left a novel by Daniel Khelmann" height="200px"/>
+  <td><!-- Boys in the Valley by Philip Fracassi -->
+  <a href="https://share.libbyapp.com/title/9174761">
+    <img src="https://img2.od-cdn.com/ImageType-100/2390-1/%7BBEFB9566-12F8-46A9-9D63-691003D6AF55%7DIMG100.JPG" alt="Boys In The Valley by Philip Fracassi" height="200px"/>
   </a>
   </td>
   <td><!-- Building Production-Grade Web Applications with Supabase by David Lorenz -->
@@ -61,11 +61,6 @@
 <p align=center>I recently finished:</p>
 <table align=center>
   <tr>
-  <td><!-- Jurassic Park Michael Crichton -->
-  <a href="https://share.libbyapp.com/title/871092">
-    <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0111-1%2F%257BEEBDB2BD-76FF-4F32-85B5-110C39C4E811%257DImg100.jpg" alt="Jurassic Park by Michael Crichton" width="150px"/>
-  </a>
-  </td>
   <td><!-- Moon of the Crusted Snow Waubgeshig Rice -->
   <a href="https://share.libbyapp.com/title/4340470">
     <img src="https://img2.od-cdn.com/ImageType-100/5177-1/%7BEB52BD25-CA34-4B20-A3B1-C229560597E8%7DImg100.jpg" alt="Moon of the Crusted Snow by Waubgeshig Rice" width="150px"/>
@@ -74,6 +69,11 @@
   <td><!-- Moon of the Turning Leaves by Waubgeshig Rice -->
   <a href="https://share.libbyapp.com/title/9885661">
     <img src="https://img3.od-cdn.com/ImageType-100/0293-1/{080874D8-AE37-407C-9318-D999489D8A01}IMG100.JPG" alt="Moon of the Turning Leaves Waubgeshig Rice" width="150px"/>
+  </a>
+  </td>
+  <td><!-- You Should Have Left by Daniel Khelmann -->
+  <a href="https://www.overdrive.com/media/3071233/you-should-have-left">
+    <img src="https://s26162.pcdn.co/wp-content/uploads/2017/05/Daniel-Kehlmann-You-Should-Have-Left.jpeg" alt="You Should Have Left a novel by Daniel Khelmann" height="200px"/>
   </a>
   </td>
   </tr>
