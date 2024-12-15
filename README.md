@@ -84,6 +84,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
 [![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
 
+#### Check out my website [corenfrankel.dev](https://corenfrankel.dev)
+
 #### or find me lurking on SO:
 
 <a href="https://stackoverflow.com/users/19356052/uncle-baby-kern"><img src="https://stackoverflow.com/users/flair/19356052.png?theme=hotdog" width="208" height="58" alt="profile for uncle_baby_kern at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for uncle_baby_kern at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
