@@ -2,7 +2,7 @@
 
 <p>Some call me <em>Kern</em>.</p>
 <h5>
-  I'm a software Engineer passionate about freedom of information, privacy, open-source, and evolving with emerging tech.
+  I'm a Software Engineer passionate about freedom of information, privacy, open-source, and evolving with emerging tech.
 </h5>
 <h6 align=end>
   An aspiring polyglot, I am meticulous, persistent, and creative in my ability to deliver solutions and apply humanistic principles in my work.
@@ -19,12 +19,12 @@
 
 ### Recently, I've been focused on...
 - 🪈 building out CI/CD pipelines for multiple codebases using Github Actions, Expo Application Services, & Docker
-- 🎟️ shipping a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS.
-- 📱 developing a Native + Web application using React Native, Expo, Supabase, SWR, & NativeWind
-- 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects and software
-- 🧰 studying system design and architecture
+- 🎟️ shipping a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS
+- 📱 launcing a Native + PWA with React Native, Expo, Supabase, SWR, React Native Paper, & NativeWind
+- 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects
+- 🧰 studying system design & architecture
 - 🧫 experimenting with Supabase, Docker, Deno, Next.js
-- 🥐 hungry, probably
+- 🥯 hungry, probably
 
 
 <hr/>
