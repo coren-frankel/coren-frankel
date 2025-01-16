@@ -28,19 +28,19 @@
 
 
 <hr/>
-<h2 align=center>You're probably asking yourself, "What's Coren reading these days?" I'll tell you:</h2>
+<h3 align=center>You're likely wondering to yourself, "What's Coren reading right now?" Well, I'll tell you:</h3>
 <table align=center>
   <tr>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/84?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
-  <td align=center>
+<!--   <td align=center>
     
   ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/35?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
-  </td>
+  </td> -->
   </tr>
   <tr>
   <td><!-- The Lost World by Michael Crichton -->
@@ -48,11 +48,11 @@
     <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B395E66B7-9771-46F4-B7C0-29F076A6BCD5%7DImg100.jpg" alt="The Lost World by Michael Crichton" height="200px"/>
   </a>
   </td>
-  <td><!-- Building Production-Grade Web Applications with Supabase by David Lorenz -->
+<!--   <td><!-- Building Production-Grade Web Applications with Supabase by David Lorenz -->
   <a href="https://www.packtpub.com/en-us/product/building-production-grade-web-applications-with-supabase-9781837630684">
     <img src="https://content.packt.com/_/image/original/B19648/cover_image_large.jpg" alt="Building Production-Grade Web Applications with Supabase by David Lorenz" height="200px"/>
   </a>
-  </td>
+  </td> -->
 </tr>
   
   
