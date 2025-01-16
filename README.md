@@ -2,7 +2,7 @@
 
 <p>Some call me <em>Kern</em>.</p>
 <h5>
-  I'm a Full Stack Developer passionate about freedom of information, privacy, open-source technology, and evolving with emerging tech.
+  I'm a software Engineer passionate about freedom of information, privacy, open-source, and evolving with emerging tech.
 </h5>
 <h6 align=end>
   An aspiring polyglot, I am meticulous, persistent, and creative in my ability to deliver solutions and apply humanistic principles in my work.
@@ -28,7 +28,7 @@
 
 
 <hr/>
-<h2 align=center>I'm currently reading:</h2>
+<h2 align=center>You're probably asking yourself, "What's Coren reading these days?" I'll tell you:</h2>
 <table align=center>
   <tr>
   <td align=center>
@@ -58,7 +58,7 @@
   
 </table>
 
-<p align=center>I recently finished:</p>
+<p align=center>And since you asked, I recently finished reading:</p>
 <table align=center>
   <tr>
   <td><!-- Moon of the Turning Leaves by Waubgeshig Rice -->
