@@ -43,12 +43,14 @@
   </td> -->
   </tr>
   <tr>
-  <td><!-- The Lost World by Michael Crichton -->
-  <a href="https://share.libbyapp.com/title/5591">
-    <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B395E66B7-9771-46F4-B7C0-29F076A6BCD5%7DImg100.jpg" alt="The Lost World by Michael Crichton" height="200px"/>
-  </a>
-  </td>
-<!--   <td><!-- Building Production-Grade Web Applications with Supabase by David Lorenz -->
+    <!-- The Lost World by Michael Crichton -->
+    <td>
+      <a href="https://share.libbyapp.com/title/5591">
+        <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B395E66B7-9771-46F4-B7C0-29F076A6BCD5%7DImg100.jpg" alt="The Lost World by Michael Crichton" height="200px"/>
+      </a>
+    </td>
+    <!-- Building Production-Grade Web Applications with Supabase by David Lorenz -->
+    <!--   <td>
   <a href="https://www.packtpub.com/en-us/product/building-production-grade-web-applications-with-supabase-9781837630684">
     <img src="https://content.packt.com/_/image/original/B19648/cover_image_large.jpg" alt="Building Production-Grade Web Applications with Supabase by David Lorenz" height="200px"/>
   </a>
@@ -58,7 +60,7 @@
   
 </table>
 
-<p align=center>And since you asked, I recently finished reading:</p>
+<h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   <tr>
   <td><!-- Moon of the Turning Leaves by Waubgeshig Rice -->
