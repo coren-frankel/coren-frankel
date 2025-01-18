@@ -33,7 +33,7 @@
   <tr>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/7?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
 <!--   <td align=center>
@@ -76,7 +76,7 @@
   <!-- The Lost World by Michael Crichton -->
   <td>
     <a href="https://share.libbyapp.com/title/5591">
-      <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B395E66B7-9771-46F4-B7C0-29F076A6BCD5%7DImg100.jpg" alt="The Lost World by Michael Crichton" height="200px"/>
+      <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B395E66B7-9771-46F4-B7C0-29F076A6BCD5%7DImg100.jpg" alt="The Lost World by Michael Crichton" height="150px"/>
     </a>
   </td>
   </tr>
