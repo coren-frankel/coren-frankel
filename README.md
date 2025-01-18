@@ -43,12 +43,12 @@
   </td> -->
   </tr>
   <tr>
-    <!-- The Lost World by Michael Crichton -->
-    <td>
-      <a href="https://share.libbyapp.com/title/5591">
-        <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B395E66B7-9771-46F4-B7C0-29F076A6BCD5%7DImg100.jpg" alt="The Lost World by Michael Crichton" height="200px"/>
-      </a>
-    </td>
+    <!-- The Haunting of Hill House by Shirley Jackson -->
+  <td>
+  <a href="https://share.libbyapp.com/title/543173">
+    <img src="https://img1.od-cdn.com/ImageType-100/1523-1/%7BB2D9A47E-4B69-480B-AB38-E95A15B49FFD%7DImg100.jpg" alt="The Haunting of Hill House by Shirley Jackson" height="200px"/>
+  </a>
+  </td>
     <!-- Building Production-Grade Web Applications with Supabase by David Lorenz -->
     <!--   <td>
   <a href="https://www.packtpub.com/en-us/product/building-production-grade-web-applications-with-supabase-9781837630684">
@@ -63,11 +63,6 @@
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   <tr>
-  <td><!-- Moon of the Turning Leaves by Waubgeshig Rice -->
-  <a href="https://share.libbyapp.com/title/9885661">
-    <img src="https://img3.od-cdn.com/ImageType-100/0293-1/{080874D8-AE37-407C-9318-D999489D8A01}IMG100.JPG" alt="Moon of the Turning Leaves Waubgeshig Rice" height="150px"/>
-  </a>
-  </td>
   <td><!-- You Should Have Left by Daniel Khelmann -->
   <a href="https://www.overdrive.com/media/3071233/you-should-have-left">
     <img src="https://s26162.pcdn.co/wp-content/uploads/2017/05/Daniel-Kehlmann-You-Should-Have-Left.jpeg" alt="You Should Have Left a novel by Daniel Khelmann" height="150px"/>
@@ -77,6 +72,12 @@
   <a href="https://share.libbyapp.com/title/9174761">
     <img src="https://img2.od-cdn.com/ImageType-100/2390-1/%7BBEFB9566-12F8-46A9-9D63-691003D6AF55%7DIMG100.JPG" alt="Boys In The Valley by Philip Fracassi" height="150px"/>
   </a>
+  </td>
+  <!-- The Lost World by Michael Crichton -->
+  <td>
+    <a href="https://share.libbyapp.com/title/5591">
+      <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B395E66B7-9771-46F4-B7C0-29F076A6BCD5%7DImg100.jpg" alt="The Lost World by Michael Crichton" height="200px"/>
+    </a>
   </td>
   </tr>
 </table>
