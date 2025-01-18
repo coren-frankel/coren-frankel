@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <!-- The Haunting of Hill House by Shirley Jackson -->
-  <td>
+  <td align=center>
   <a href="https://share.libbyapp.com/title/543173">
     <img src="https://img1.od-cdn.com/ImageType-100/1523-1/%7BB2D9A47E-4B69-480B-AB38-E95A15B49FFD%7DImg100.jpg" alt="The Haunting of Hill House by Shirley Jackson" height="200px"/>
   </a>
@@ -84,7 +84,7 @@
 <div align="center">
   
 ### Reach me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
 [![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
 
 #### Check out my website [corenfrankel.dev](https://corenfrankel.dev)
