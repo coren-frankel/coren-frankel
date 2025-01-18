@@ -84,7 +84,7 @@
 <div align="center">
   
 ### Reach me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn?style=plastic&logo=linkedin)](https://linkedin.com/in/coren-frankel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn?style=plastic)](https://linkedin.com/in/coren-frankel)
 [![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
 
 #### Check out my website [corenfrankel.dev](https://corenfrankel.dev)
