@@ -33,7 +33,7 @@
   <tr>
   <td align=center>
     
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/52?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/58?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
 <!--   <td align=center>
@@ -84,7 +84,7 @@
 <div align="center">
   
 ### Reach me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn?style=plastic)](https://linkedin.com/in/coren-frankel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://linkedin.com/in/coren-frankel)
 [![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
 
 #### Check out my website [corenfrankel.dev](https://corenfrankel.dev)
