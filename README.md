@@ -41,6 +41,11 @@
   ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/35?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td> -->
+  <td align=center>
+    
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/7?dangerColor=800000&warningColor=ff9900&successColor=006600)
+
+  </td>
   </tr>
   <tr>
     <!-- The Haunting of Hill House by Shirley Jackson -->
@@ -55,6 +60,11 @@
     <img src="https://content.packt.com/_/image/original/B19648/cover_image_large.jpg" alt="Building Production-Grade Web Applications with Supabase by David Lorenz" height="200px"/>
   </a>
   </td> -->
+  <td>
+    <a href="https://archive.org/details/freedomculture0000dewe/page/n7/mode/1up">
+      <img src="https://books.google.com/books/content?id=TFQvAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WtIVKK-NRLLkC5oZfmyjcZI0Iyg8yKGff2QokKSrdY4yTWqecGDlBKiKBT0wWX8oBQBcWVZoVq37E7Ad5fBX9J04iOWvdrEC62e9Kkn5PZnXeHLxu-T-g94I3y5asUQFt2eBv" alt="Freedom and Culture Cover" height="200px">
+    </a>
+  </td>
 </tr>
   
   
