@@ -31,11 +31,7 @@
 <h3 align=center>You're likely wondering to yourself, "What's Coren reading right now?" Well, I'll tell you:</h3>
 <table align=center>
   <tr>
-  <td align=center>
-    
-  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
-
-  </td>
+  
 <!--   <td align=center>
     
   ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/35?dangerColor=800000&warningColor=ff9900&successColor=006600)
@@ -46,14 +42,14 @@
   ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/13?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
+  <td align=center>
+    
+  ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600)
+
+  </td>
   </tr>
   <tr>
-    <!-- The Haunting of Hill House by Shirley Jackson -->
-  <td align=center>
-  <a href="https://share.libbyapp.com/title/543173">
-    <img src="https://img1.od-cdn.com/ImageType-100/1523-1/%7BB2D9A47E-4B69-480B-AB38-E95A15B49FFD%7DImg100.jpg" alt="The Haunting of Hill House by Shirley Jackson" height="200px"/>
-  </a>
-  </td>
+   
     <!-- Building Production-Grade Web Applications with Supabase by David Lorenz -->
     <!--   <td>
   <a href="https://www.packtpub.com/en-us/product/building-production-grade-web-applications-with-supabase-9781837630684">
@@ -65,6 +61,11 @@
       <img src="https://books.google.com/books/content?id=TFQvAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WtIVKK-NRLLkC5oZfmyjcZI0Iyg8yKGff2QokKSrdY4yTWqecGDlBKiKBT0wWX8oBQBcWVZoVq37E7Ad5fBX9J04iOWvdrEC62e9Kkn5PZnXeHLxu-T-g94I3y5asUQFt2eBv" alt="Freedom and Culture Cover" height="200px">
     </a>
   </td>
+    <td>
+  <a href="https://share.libbyapp.com/title/9174747">
+    <img src="https://img1.od-cdn.com/ImageType-100/2390-1/{17593155-2DED-46F4-9B13-9A939A761C9D}IMG100.JPG" alt="All The Sinners Bleed by S.A. Cosby" height="150px"/>
+  </a>
+  </td>
 </tr>
   
   
@@ -73,12 +74,7 @@
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   <tr>
-  <td><!-- You Should Have Left by Daniel Khelmann -->
-  <a href="https://www.overdrive.com/media/3071233/you-should-have-left">
-    <img src="https://s26162.pcdn.co/wp-content/uploads/2017/05/Daniel-Kehlmann-You-Should-Have-Left.jpeg" alt="You Should Have Left a novel by Daniel Khelmann" height="150px"/>
-  </a>
-  </td>
-    <td><!-- Boys in the Valley by Philip Fracassi -->
+  <td><!-- Boys in the Valley by Philip Fracassi -->
   <a href="https://share.libbyapp.com/title/9174761">
     <img src="https://img2.od-cdn.com/ImageType-100/2390-1/%7BBEFB9566-12F8-46A9-9D63-691003D6AF55%7DIMG100.JPG" alt="Boys In The Valley by Philip Fracassi" height="150px"/>
   </a>
@@ -88,6 +84,11 @@
     <a href="https://share.libbyapp.com/title/5591">
       <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B395E66B7-9771-46F4-B7C0-29F076A6BCD5%7DImg100.jpg" alt="The Lost World by Michael Crichton" height="150px"/>
     </a>
+  </ <!-- The Haunting of Hill House by Shirley Jackson -->
+  <td>
+  <a href="https://share.libbyapp.com/title/543173">
+    <img src="https://img1.od-cdn.com/ImageType-100/1523-1/%7BB2D9A47E-4B69-480B-AB38-E95A15B49FFD%7DImg100.jpg" alt="The Haunting of Hill House by Shirley Jackson" height="200px"/>
+  </a>
   </td>
   </tr>
 </table>
