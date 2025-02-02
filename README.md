@@ -52,18 +52,18 @@
    
     <!-- Building Production-Grade Web Applications with Supabase by David Lorenz -->
     <!--   <td>
-  <a href="https://www.packtpub.com/en-us/product/building-production-grade-web-applications-with-supabase-9781837630684">
-    <img src="https://content.packt.com/_/image/original/B19648/cover_image_large.jpg" alt="Building Production-Grade Web Applications with Supabase by David Lorenz" height="200px"/>
-  </a>
-  </td> -->
+    <a href="https://www.packtpub.com/en-us/product/building-production-grade-web-applications-with-supabase-9781837630684">
+    <img src="https://content.packt.com/_/image/original/B19648/cover_image_large.jpg" alt="Building Production-Grade Web Applications with Supabase by David Lorenz" height="200"/>
+    </a>
+    </td> -->
   <td>
     <a href="https://archive.org/details/freedomculture0000dewe/page/n7/mode/1up">
-      <img src="https://books.google.com/books/content?id=TFQvAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WtIVKK-NRLLkC5oZfmyjcZI0Iyg8yKGff2QokKSrdY4yTWqecGDlBKiKBT0wWX8oBQBcWVZoVq37E7Ad5fBX9J04iOWvdrEC62e9Kkn5PZnXeHLxu-T-g94I3y5asUQFt2eBv" alt="Freedom and Culture Cover" height="200px">
+      <img src="https://books.google.com/books/content?id=TFQvAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WtIVKK-NRLLkC5oZfmyjcZI0Iyg8yKGff2QokKSrdY4yTWqecGDlBKiKBT0wWX8oBQBcWVZoVq37E7Ad5fBX9J04iOWvdrEC62e9Kkn5PZnXeHLxu-T-g94I3y5asUQFt2eBv" alt="Freedom and Culture Cover" height="200">
     </a>
   </td>
     <td>
   <a href="https://share.libbyapp.com/title/9174747">
-    <img src="https://img1.od-cdn.com/ImageType-100/2390-1/{17593155-2DED-46F4-9B13-9A939A761C9D}IMG100.JPG" alt="All The Sinners Bleed by S.A. Cosby" height="150px"/>
+    <img src="https://img1.od-cdn.com/ImageType-100/2390-1/{17593155-2DED-46F4-9B13-9A939A761C9D}IMG100.JPG" alt="All The Sinners Bleed by S.A. Cosby" height="200"/>
   </a>
   </td>
 </tr>
@@ -76,18 +76,18 @@
   <tr>
   <td><!-- Boys in the Valley by Philip Fracassi -->
   <a href="https://share.libbyapp.com/title/9174761">
-    <img src="https://img2.od-cdn.com/ImageType-100/2390-1/%7BBEFB9566-12F8-46A9-9D63-691003D6AF55%7DIMG100.JPG" alt="Boys In The Valley by Philip Fracassi" height="150px"/>
+    <img src="https://img2.od-cdn.com/ImageType-100/2390-1/%7BBEFB9566-12F8-46A9-9D63-691003D6AF55%7DIMG100.JPG" alt="Boys In The Valley by Philip Fracassi" height="150"/>
   </a>
   </td>
   <!-- The Lost World by Michael Crichton -->
   <td>
     <a href="https://share.libbyapp.com/title/5591">
-      <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B395E66B7-9771-46F4-B7C0-29F076A6BCD5%7DImg100.jpg" alt="The Lost World by Michael Crichton" height="150px"/>
+      <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B395E66B7-9771-46F4-B7C0-29F076A6BCD5%7DImg100.jpg" alt="The Lost World by Michael Crichton" height="150"/>
     </a>
   </ <!-- The Haunting of Hill House by Shirley Jackson -->
   <td>
   <a href="https://share.libbyapp.com/title/543173">
-    <img src="https://img1.od-cdn.com/ImageType-100/1523-1/%7BB2D9A47E-4B69-480B-AB38-E95A15B49FFD%7DImg100.jpg" alt="The Haunting of Hill House by Shirley Jackson" height="200px"/>
+    <img src="https://img1.od-cdn.com/ImageType-100/1523-1/%7BB2D9A47E-4B69-480B-AB38-E95A15B49FFD%7DImg100.jpg" alt="The Haunting of Hill House by Shirley Jackson" height=q150"/>
   </a>
   </td>
   </tr>
