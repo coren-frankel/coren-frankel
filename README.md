@@ -87,7 +87,7 @@
   </ <!-- The Haunting of Hill House by Shirley Jackson -->
   <td>
   <a href="https://share.libbyapp.com/title/543173">
-    <img src="https://img1.od-cdn.com/ImageType-100/1523-1/%7BB2D9A47E-4B69-480B-AB38-E95A15B49FFD%7DImg100.jpg" alt="The Haunting of Hill House by Shirley Jackson" height=q150"/>
+    <img src="https://img1.od-cdn.com/ImageType-100/1523-1/%7BB2D9A47E-4B69-480B-AB38-E95A15B49FFD%7DImg100.jpg" alt="The Haunting of Hill House by Shirley Jackson" height=150"/>
   </a>
   </td>
   </tr>
