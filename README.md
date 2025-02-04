@@ -22,7 +22,7 @@
 - 🎟️ shipping a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS
 - 📱 launcing a Native + PWA with React Native, Expo, Supabase, SWR, React Native Paper, & NativeWind
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects
-- 🧰 studying system design & architecture
+- 🧰 studying system design & architecture and teaching myself Rust
 - 🧫 experimenting with Supabase, Docker, Deno, Next.js
 - 🥯 hungry, probably
 
@@ -55,7 +55,7 @@
   </td>
   <td align=center>
 
-![https://github.com/gepser/markdown-progress](https://geps.dev/progress/6?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![https://github.com/gepser/markdown-progress](https://geps.dev/progress/9?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
   </tr>
