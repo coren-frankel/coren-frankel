@@ -38,7 +38,7 @@
     </td> -->
     <td>
       <a href="https://archive.org/details/freedomculture0000dewe/page/n7/mode/1up">
-        <img src="https://books.google.com/books/content?id=TFQvAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WtIVKK-NRLLkC5oZfmyjcZI0Iyg8yKGff2QokKSrdY4yTWqecGDlBKiKBT0wWX8oBQBcWVZoVq37E7Ad5fBX9J04iOWvdrEC62e9Kkn5PZnXeHLxu-T-g94I3y5asUQFt2eBv" alt="Freedom and Culture Cover" height="200">
+        <img src="https://books.google.com/books/content?id=TFQvAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WtIVKK-NRLLkC5oZfmyjcZI0Iyg8yKGff2QokKSrdY4yTWqecGDlBKiKBT0wWX8oBQBcWVZoVq37E7Ad5fBX9J04iOWvdrEC62e9Kkn5PZnXeHLxu-T-g94I3y5asUQFt2eBv" alt="Freedom and Culture Cover by John Dewey" height="200">
       </a>
     </td>
     <td>
@@ -50,12 +50,12 @@
   <tr>
     <td align=center>
       
-![https://github.com/gepser/markdown-progress](https://geps.dev/progress/59?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![https://github.com/gepser/markdown-progress](https://geps.dev/progress/61?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
   <td align=center>
 
-![https://github.com/gepser/markdown-progress](https://geps.dev/progress/68?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![https://github.com/gepser/markdown-progress](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
   </tr>
