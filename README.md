@@ -42,20 +42,20 @@
       </a>
     </td>
     <td>
-      <a href="https://share.libbyapp.com/title/9174747">
-        <img src="https://img1.od-cdn.com/ImageType-100/2390-1/{17593155-2DED-46F4-9B13-9A939A761C9D}IMG100.JPG" alt="All The Sinners Bleed by S.A. Cosby" height="200"/>
+      <a href="https://www.andrewfsullivan.com/the-marigold">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659110290i/61773985.jpg" alt="The Marigold by Andrew Sullivan" height="200"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align=center>
       
-![https://github.com/gepser/markdown-progress](https://geps.dev/progress/76?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![https://github.com/gepser/markdown-progress](https://geps.dev/progress/81?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
   <td align=center>
 
-![https://github.com/gepser/markdown-progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![https://github.com/gepser/markdown-progress](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
   </tr>
@@ -65,22 +65,21 @@
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   <tr>
-  <td><!-- Boys in the Valley by Philip Fracassi -->
-  <a href="https://share.libbyapp.com/title/9174761">
-    <img src="https://img2.od-cdn.com/ImageType-100/2390-1/%7BBEFB9566-12F8-46A9-9D63-691003D6AF55%7DIMG100.JPG" alt="Boys In The Valley by Philip Fracassi" height="150"/>
-  </a>
+  <td>
+    <a href="https://share.libbyapp.com/title/9174747">
+      <img src="https://img1.od-cdn.com/ImageType-100/2390-1/{17593155-2DED-46F4-9B13-9A939A761C9D}IMG100.JPG" alt="All The Sinners Bleed by S.A. Cosby" height="150"/>
+    </a>
   </td>
-  <!-- The Lost World by Michael Crichton -->
+  </td>
+  <td>
+    <a href="https://share.libbyapp.com/title/543173">
+      <img src="https://img1.od-cdn.com/ImageType-100/1523-1/%7BB2D9A47E-4B69-480B-AB38-E95A15B49FFD%7DImg100.jpg" alt="The Haunting of Hill House by Shirley Jackson" height=150"/>
+    </a>
+  </td>
   <td>
     <a href="https://share.libbyapp.com/title/5591">
       <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B395E66B7-9771-46F4-B7C0-29F076A6BCD5%7DImg100.jpg" alt="The Lost World by Michael Crichton" height="150"/>
     </a>
-  </ <!-- The Haunting of Hill House by Shirley Jackson -->
-  <td>
-  <a href="https://share.libbyapp.com/title/543173">
-    <img src="https://img1.od-cdn.com/ImageType-100/1523-1/%7BB2D9A47E-4B69-480B-AB38-E95A15B49FFD%7DImg100.jpg" alt="The Haunting of Hill House by Shirley Jackson" height=150"/>
-  </a>
-  </td>
   </tr>
 </table>
 <div align="center">
