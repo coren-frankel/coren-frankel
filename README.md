@@ -30,16 +30,16 @@
 <h3 align=center>You're likely wondering to yourself, "What's Coren reading right now?" Well, I'll tell you:</h3>
 <table align=center>
   <tr>
-    <!--   <td>
+<!--       <td>
     <a href="https://www.packtpub.com/en-us/product/building-production-grade-web-applications-with-supabase-9781837630684">
     <img src="https://content.packt.com/_/image/original/B19648/cover_image_large.jpg" alt="Building Production-Grade Web Applications with Supabase by David Lorenz" height="200"/>
     </a>
-    </td>
-    <td>
-      <a href="https://archive.org/details/freedomculture0000dewe/page/n7/mode/1up">
-        <img src="https://books.google.com/books/content?id=TFQvAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WtIVKK-NRLLkC5oZfmyjcZI0Iyg8yKGff2QokKSrdY4yTWqecGDlBKiKBT0wWX8oBQBcWVZoVq37E7Ad5fBX9J04iOWvdrEC62e9Kkn5PZnXeHLxu-T-g94I3y5asUQFt2eBv" alt="Freedom and Culture Cover by John Dewey" height="200">
-      </a>
     </td> -->
+    <td>
+      <a href="https://archive.org/details/thusspokezarathu00nietuoft">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.t8cBjYETcc7eTKrHGAEV9QHaLH%26pid%3DApi&f=1&ipt=37e6781d26432089d01585e9fd6969c08a9bc8cff17375d55f4b78877a00ff2f&ipo=images" alt="Thus Spake Zarathustra by Friedrich Nietzsche" height="200">
+      </a>
+    </td>
     <td>
       <a href="https://www.andrewfsullivan.com/the-marigold">
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659110290i/61773985.jpg" alt="The Marigold by Andrew Sullivan" height="200"/>
@@ -47,11 +47,11 @@
     </td>
   </tr>
   <tr>
-<!--     <td align=center>
+    <td align=center>
       
-![https://github.com/gepser/markdown-progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![https://github.com/gepser/markdown-progress](https://geps.dev/progress/45?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
-  </td> -->
+  </td>
   <td align=center>
 
 ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=006600)
@@ -61,6 +61,7 @@
   
 </table>
 
+<p align=center>I may be updating this to harvest github contributions, but I also like doing it. So let's drop it!</p>
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   <tr>
