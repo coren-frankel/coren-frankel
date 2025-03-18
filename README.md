@@ -20,10 +20,9 @@
 ### Recently, I've been focused on...
 - 🪈 building out CI/CD pipelines for multiple codebases using Github Actions, Expo Application Services, & Docker
 - 🎟️ shipping a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS
-- 📱 launcing a Native + PWA with React Native, Expo, Supabase, SWR, React Native Paper, & NativeWind
+- 📱 launching a universal native + PWA with React Native, Expo, Supabase, SWR, React Native Paper, & NativeWind
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects
 - 🧰 studying system design & architecture and teaching myself Rust
-- 🧫 experimenting with Supabase, Docker, Deno, Next.js
 - 🥯 hungry, probably
 
 
@@ -35,12 +34,12 @@
     <a href="https://www.packtpub.com/en-us/product/building-production-grade-web-applications-with-supabase-9781837630684">
     <img src="https://content.packt.com/_/image/original/B19648/cover_image_large.jpg" alt="Building Production-Grade Web Applications with Supabase by David Lorenz" height="200"/>
     </a>
-    </td> -->
+    </td>
     <td>
       <a href="https://archive.org/details/freedomculture0000dewe/page/n7/mode/1up">
         <img src="https://books.google.com/books/content?id=TFQvAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WtIVKK-NRLLkC5oZfmyjcZI0Iyg8yKGff2QokKSrdY4yTWqecGDlBKiKBT0wWX8oBQBcWVZoVq37E7Ad5fBX9J04iOWvdrEC62e9Kkn5PZnXeHLxu-T-g94I3y5asUQFt2eBv" alt="Freedom and Culture Cover by John Dewey" height="200">
       </a>
-    </td>
+    </td> -->
     <td>
       <a href="https://www.andrewfsullivan.com/the-marigold">
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659110290i/61773985.jpg" alt="The Marigold by Andrew Sullivan" height="200"/>
@@ -48,14 +47,14 @@
     </td>
   </tr>
   <tr>
-    <td align=center>
+<!--     <td align=center>
       
 ![https://github.com/gepser/markdown-progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
-  </td>
+  </td> -->
   <td align=center>
 
-![https://github.com/gepser/markdown-progress](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![https://github.com/gepser/markdown-progress](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
   </tr>
@@ -65,6 +64,11 @@
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   <tr>
+  <td>
+    <a href="https://archive.org/details/freedomculture0000dewe/page/n7/mode/1up">
+      <img src="https://books.google.com/books/content?id=TFQvAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WtIVKK-NRLLkC5oZfmyjcZI0Iyg8yKGff2QokKSrdY4yTWqecGDlBKiKBT0wWX8oBQBcWVZoVq37E7Ad5fBX9J04iOWvdrEC62e9Kkn5PZnXeHLxu-T-g94I3y5asUQFt2eBv" alt="Freedom and Culture Cover by John Dewey" height="150">
+    </a>
+  </td>
   <td>
     <a href="https://share.libbyapp.com/title/9174747">
       <img src="https://img1.od-cdn.com/ImageType-100/2390-1/{17593155-2DED-46F4-9B13-9A939A761C9D}IMG100.JPG" alt="All The Sinners Bleed by S.A. Cosby" height="150"/>
