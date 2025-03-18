@@ -154,7 +154,7 @@
 ## My Development Tools (Non-Exclusive):
   
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img alt="my technology and tools icons" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,yaml,react,reactnative,remix,express,nodejs,flask,spring,npm,pnpm,maven,prisma,sqla,mongoose,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,vitest,regex,babel,tailwind,bootstrap,materialui,vite,sqlite,mysql,postgres,redis,supabase,mongodb,digitalocean,shopify,docker,ngrok,cloudflare,vercel,nginx,gcp,git,github,githubactions,linux,apple,ubuntu&perline=8&theme=auto" />
+    <img alt="my technology and tools icons: HTML, CSS, Markdown, JavaScript, TypeScript, Python, Java, Rust, YAML, React, React Native, Remix, Express, Node.js, Flask, Spring, npm, pnpm, Maven, Prisma, SQLAlchemy, Mongoose, GraphQL, VSCode, IntelliJ Idea, Android Studio, Xcode, Postman, Figma, Jest, Vitest, Regular Expression, Babel, Tailwind CSS, Bootstrap, MaterialUI, Vite, SQLite, MySQL, PostgreSQL, Redis, Supabase, MongoDB, Digital Ocean, Shopify, Docker, Ngrok, Cloudflare, Vercel, Nginx,Google Cloud Platform, git,Github, Github Actions, Linux, Apple, Ubuntu, Sentry, Snyk, Slack" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,rust,yaml,react,reactnative,remix,express,nodejs,flask,spring,npm,pnpm,maven,prisma,sqla,mongoose,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,vitest,regex,babel,tailwind,bootstrap,materialui,vite,sqlite,mysql,postgres,redis,supabase,mongodb,digitalocean,shopify,docker,ngrok,cloudflare,vercel,nginx,gcp,git,github,githubactions,linux,apple,ubuntu,sentry,snyk,slack&perline=10&theme=auto" />
   </a>
 </div>
   <details>
