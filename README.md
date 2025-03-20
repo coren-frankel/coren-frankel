@@ -67,23 +67,23 @@
   <tr>
   <td>
     <a href="https://archive.org/details/freedomculture0000dewe/page/n7/mode/1up">
-      <img src="https://books.google.com/books/content?id=TFQvAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WtIVKK-NRLLkC5oZfmyjcZI0Iyg8yKGff2QokKSrdY4yTWqecGDlBKiKBT0wWX8oBQBcWVZoVq37E7Ad5fBX9J04iOWvdrEC62e9Kkn5PZnXeHLxu-T-g94I3y5asUQFt2eBv" alt="Freedom and Culture Cover by John Dewey" height="150">
+      <img src="https://books.google.com/books/content?id=TFQvAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WtIVKK-NRLLkC5oZfmyjcZI0Iyg8yKGff2QokKSrdY4yTWqecGDlBKiKBT0wWX8oBQBcWVZoVq37E7Ad5fBX9J04iOWvdrEC62e9Kkn5PZnXeHLxu-T-g94I3y5asUQFt2eBv" alt="Freedom and Culture Cover by John Dewey" width="75">
     </a>
   </td>
   <td>
     <a href="https://share.libbyapp.com/title/9174747">
-      <img src="https://img1.od-cdn.com/ImageType-100/2390-1/{17593155-2DED-46F4-9B13-9A939A761C9D}IMG100.JPG" alt="All The Sinners Bleed by S.A. Cosby" height="150"/>
+      <img src="https://img1.od-cdn.com/ImageType-100/2390-1/{17593155-2DED-46F4-9B13-9A939A761C9D}IMG100.JPG" alt="All The Sinners Bleed by S.A. Cosby" width="75"/>
     </a>
   </td>
   </td>
   <td>
     <a href="https://share.libbyapp.com/title/543173">
-      <img src="https://img1.od-cdn.com/ImageType-100/1523-1/%7BB2D9A47E-4B69-480B-AB38-E95A15B49FFD%7DImg100.jpg" alt="The Haunting of Hill House by Shirley Jackson" height=150"/>
+      <img src="https://img1.od-cdn.com/ImageType-100/1523-1/%7BB2D9A47E-4B69-480B-AB38-E95A15B49FFD%7DImg100.jpg" alt="The Haunting of Hill House by Shirley Jackson" width="75"/>
     </a>
   </td>
   <td>
     <a href="https://share.libbyapp.com/title/5591">
-      <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B395E66B7-9771-46F4-B7C0-29F076A6BCD5%7DImg100.jpg" alt="The Lost World by Michael Crichton" height="150"/>
+      <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B395E66B7-9771-46F4-B7C0-29F076A6BCD5%7DImg100.jpg" alt="The Lost World by Michael Crichton" width="75"/>
     </a>
   </tr>
 </table>
