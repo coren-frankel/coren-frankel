@@ -54,7 +54,7 @@
   </td>
   <td align=center>
 
-![https://github.com/gepser/markdown-progress](https://geps.dev/progress/91?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![https://github.com/gepser/markdown-progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
   </tr>
