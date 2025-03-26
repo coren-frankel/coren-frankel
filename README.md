@@ -18,11 +18,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
 ### Recently, I've been focused on...
-- 🪈 building out CI/CD pipelines for multiple codebases using Github Actions, Expo Application Services, & Docker
-- 🎟️ shipping a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS
-- 📱 launching a universal native + PWA with React Native, Expo, Supabase, SWR, React Native Paper, & NativeWind
+- 🪈 building out CI/CD pipelines for plural repositories using technologies like Digital Ocean, Github Actions, Expo Application Services, & Docker
+- 🎟️ iterating on custom a Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS
+- 📱 maintaining a universal native app/PWA with React Native, Expo, Supabase, SWR, React Native Paper, & NativeWind
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects
-- 🧰 studying system design & architecture and teaching myself Rust
+- 🧰 studying system design & architecture
+- 🆕 teaching myself Rust
 - 🥯 hungry, probably
 
 
@@ -41,8 +42,8 @@
       </a>
     </td>
     <td>
-      <a href="https://www.andrewfsullivan.com/the-marigold">
-        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659110290i/61773985.jpg" alt="The Marigold by Andrew Sullivan" height="200"/>
+      <a href="https://share.libbyapp.com/title/1556903">
+        <img src="https://img2.od-cdn.com/ImageType-100/0439-1/%7B52F39DD5-8AB7-4DEE-B2AA-02B41D2C1DBC%7DIMG100.JPG" alt="The Troop by Nick Cutter" height="200"/>
       </a>
     </td>
   </tr>
@@ -54,7 +55,7 @@
   </td>
   <td align=center>
 
-![https://github.com/gepser/markdown-progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![https://github.com/gepser/markdown-progress](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
   </td>
   </tr>
@@ -65,26 +66,32 @@
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   <tr>
-  <td>
-    <a href="https://archive.org/details/freedomculture0000dewe/page/n7/mode/1up">
-      <img src="https://books.google.com/books/content?id=TFQvAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WtIVKK-NRLLkC5oZfmyjcZI0Iyg8yKGff2QokKSrdY4yTWqecGDlBKiKBT0wWX8oBQBcWVZoVq37E7Ad5fBX9J04iOWvdrEC62e9Kkn5PZnXeHLxu-T-g94I3y5asUQFt2eBv" alt="Freedom and Culture Cover by John Dewey" width="75">
-    </a>
-  </td>
-  <td>
-    <a href="https://share.libbyapp.com/title/9174747">
-      <img src="https://img1.od-cdn.com/ImageType-100/2390-1/{17593155-2DED-46F4-9B13-9A939A761C9D}IMG100.JPG" alt="All The Sinners Bleed by S.A. Cosby" width="75"/>
-    </a>
-  </td>
-  </td>
-  <td>
-    <a href="https://share.libbyapp.com/title/543173">
-      <img src="https://img1.od-cdn.com/ImageType-100/1523-1/%7BB2D9A47E-4B69-480B-AB38-E95A15B49FFD%7DImg100.jpg" alt="The Haunting of Hill House by Shirley Jackson" width="75"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://share.libbyapp.com/title/5591">
-      <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B395E66B7-9771-46F4-B7C0-29F076A6BCD5%7DImg100.jpg" alt="The Lost World by Michael Crichton" width="75"/>
-    </a>
+    <td>
+      <a href="https://www.andrewfsullivan.com/the-marigold">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659110290i/61773985.jpg" alt="The Marigold by Andrew Sullivan" width="75"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://archive.org/details/freedomculture0000dewe/page/n7/mode/1up">
+        <img src="https://books.google.com/books/content?id=TFQvAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WtIVKK-NRLLkC5oZfmyjcZI0Iyg8yKGff2QokKSrdY4yTWqecGDlBKiKBT0wWX8oBQBcWVZoVq37E7Ad5fBX9J04iOWvdrEC62e9Kkn5PZnXeHLxu-T-g94I3y5asUQFt2eBv" alt="Freedom and Culture Cover by John Dewey" width="75">
+      </a>
+    </td>
+    <td>
+      <a href="https://share.libbyapp.com/title/9174747">
+        <img src="https://img1.od-cdn.com/ImageType-100/2390-1/{17593155-2DED-46F4-9B13-9A939A761C9D}IMG100.JPG" alt="All The Sinners Bleed by S.A. Cosby" width="75"/>
+      </a>
+    </td>
+    </td>
+    <td>
+      <a href="https://share.libbyapp.com/title/543173">
+        <img src="https://img1.od-cdn.com/ImageType-100/1523-1/%7BB2D9A47E-4B69-480B-AB38-E95A15B49FFD%7DImg100.jpg" alt="The Haunting of Hill House by Shirley Jackson" width="75"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://share.libbyapp.com/title/5591">
+        <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B395E66B7-9771-46F4-B7C0-29F076A6BCD5%7DImg100.jpg" alt="The Lost World by Michael Crichton" width="75"/>
+      </a>
+    </td>
   </tr>
 </table>
 <div align="center">
