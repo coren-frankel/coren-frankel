@@ -28,7 +28,7 @@
 
 
 <hr/>
-<h3 align=center>You're likely wondering to yourself, "What's Coren reading right now?" Well, I'll tell you:</h3>
+<h3 align=center>You're likely wondering to yourself, "What's Coren reading right now?" Well, let me show you:</h3>
 <table align=center>
   <tr>
 <!--       <td>
@@ -50,12 +50,12 @@
   <tr>
     <td align=center>
       
-![https://github.com/gepser/markdown-progress](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=006600)
+[![50% complete](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
 
   </td>
   <td align=center>
 
-![https://github.com/gepser/markdown-progress](https://geps.dev/progress/25?dangerColor=800000&warningColor=ff9900&successColor=006600)
+[![39% complete](https://geps.dev/progress/39?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
 
   </td>
   </tr>
