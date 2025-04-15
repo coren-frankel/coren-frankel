@@ -37,14 +37,18 @@
     </a>
     </td> -->
     <td>
-      <a href="https://archive.org/details/thusspokezarathu00nietuoft">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.t8cBjYETcc7eTKrHGAEV9QHaLH%26pid%3DApi&f=1&ipt=37e6781d26432089d01585e9fd6969c08a9bc8cff17375d55f4b78877a00ff2f&ipo=images" alt="Thus Spake Zarathustra by Friedrich Nietzsche" height="200">
+      <details>
+        <summary><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.t8cBjYETcc7eTKrHGAEV9QHaLH%26pid%3DApi&f=1&ipt=37e6781d26432089d01585e9fd6969c08a9bc8cff17375d55f4b78877a00ff2f&ipo=images" alt="Thus Spake Zarathustra by Friedrich Nietzsche" height="200"/></summary>
+        <a href="https://archive.org/details/thusspokezarathu00nietuoft">
+          <p>Thus Spake Zarathustra by Friedrich Nietzsche</p>
       </a>
+      </details>
     </td>
     <td>
-      <a href="https://share.libbyapp.com/title/1556903">
-        <img src="https://img2.od-cdn.com/ImageType-100/0439-1/%7B52F39DD5-8AB7-4DEE-B2AA-02B41D2C1DBC%7DIMG100.JPG" alt="The Troop by Nick Cutter" height="200"/>
-      </a>
+      <details>
+        <summary><img src="https://img2.od-cdn.com/ImageType-100/0439-1/%7B52F39DD5-8AB7-4DEE-B2AA-02B41D2C1DBC%7DIMG100.JPG" alt="The Troop by Nick Cutter" height="200"/></summary>
+        <a href="https://share.libbyapp.com/title/1556903"><p>The Troop by Nick Cutter</p></a>
+      </details>
     </td>
   </tr>
   <tr>
@@ -67,30 +71,54 @@
 <table align=center>
   <tr>
     <td>
-      <a href="https://www.andrewfsullivan.com/the-marigold">
-        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659110290i/61773985.jpg" alt="The Marigold by Andrew Sullivan" width="75"/>
-      </a>
+      <details>
+        <summary>
+          <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659110290i/61773985.jpg" alt="The Marigold by Andrew Sullivan" height="120"/>
+        </summary>
+        <a href="https://www.andrewfsullivan.com/the-marigold">
+          <p>The Marigold by Andrew Sullivan</p>
+        </a>
+      </details>
     </td>
     <td>
-      <a href="https://archive.org/details/freedomculture0000dewe/page/n7/mode/1up">
-        <img src="https://books.google.com/books/content?id=TFQvAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WtIVKK-NRLLkC5oZfmyjcZI0Iyg8yKGff2QokKSrdY4yTWqecGDlBKiKBT0wWX8oBQBcWVZoVq37E7Ad5fBX9J04iOWvdrEC62e9Kkn5PZnXeHLxu-T-g94I3y5asUQFt2eBv" alt="Freedom and Culture Cover by John Dewey" width="75">
-      </a>
+      <details>
+        <summary>
+          <img src="https://books.google.com/books/content?id=TFQvAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WtIVKK-NRLLkC5oZfmyjcZI0Iyg8yKGff2QokKSrdY4yTWqecGDlBKiKBT0wWX8oBQBcWVZoVq37E7Ad5fBX9J04iOWvdrEC62e9Kkn5PZnXeHLxu-T-g94I3y5asUQFt2eBv" alt="Freedom and Culture Cover by John Dewey" height="120"/>  
+        </summary>
+        <a href="https://archive.org/details/freedomculture0000dewe/page/n7/mode/1up">
+          <p>Freedom and Culture Cover by John Dewey</p>
+        </a>
+      </details>
     </td>
     <td>
-      <a href="https://share.libbyapp.com/title/9174747">
-        <img src="https://img1.od-cdn.com/ImageType-100/2390-1/{17593155-2DED-46F4-9B13-9A939A761C9D}IMG100.JPG" alt="All The Sinners Bleed by S.A. Cosby" width="75"/>
-      </a>
-    </td>
+      <details>
+        <summary>
+          <img src="https://img1.od-cdn.com/ImageType-100/2390-1/{17593155-2DED-46F4-9B13-9A939A761C9D}IMG100.JPG" alt="All The Sinners Bleed by S.A. Cosby" height="120"/>
+        </summary>
+        <a href="https://share.libbyapp.com/title/9174747">
+          <p>All The Sinners Bleed by S.A. Cosby</p>
+        </a>
+      </details>
     </td>
     <td>
-      <a href="https://share.libbyapp.com/title/543173">
-        <img src="https://img1.od-cdn.com/ImageType-100/1523-1/%7BB2D9A47E-4B69-480B-AB38-E95A15B49FFD%7DImg100.jpg" alt="The Haunting of Hill House by Shirley Jackson" width="75"/>
-      </a>
+      <details>
+        <summary>
+          <img src="https://img1.od-cdn.com/ImageType-100/1523-1/%7BB2D9A47E-4B69-480B-AB38-E95A15B49FFD%7DImg100.jpg" alt="The Haunting of Hill House by Shirley Jackson" height="120"/>
+        </summary>
+        <a href="https://share.libbyapp.com/title/543173">
+          <p>The Haunting of Hill House by Shirley Jackson</p>
+        </a>
+      </details>
     </td>
     <td>
-      <a href="https://share.libbyapp.com/title/5591">
-        <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B395E66B7-9771-46F4-B7C0-29F076A6BCD5%7DImg100.jpg" alt="The Lost World by Michael Crichton" width="75"/>
-      </a>
+      <details>
+        <summary>
+          <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B395E66B7-9771-46F4-B7C0-29F076A6BCD5%7DImg100.jpg" alt="The Lost World by Michael Crichton" height="120"/>
+        </summary>
+        <a href="https://share.libbyapp.com/title/5591">
+          <p>The Lost World by Michael Crichton</p>
+        </a>
+      </details>
     </td>
   </tr>
 </table>
