@@ -38,31 +38,28 @@
     </td> -->
     <td>
       <details>
-        <summary><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.t8cBjYETcc7eTKrHGAEV9QHaLH%26pid%3DApi&f=1&ipt=37e6781d26432089d01585e9fd6969c08a9bc8cff17375d55f4b78877a00ff2f&ipo=images" alt="Thus Spake Zarathustra by Friedrich Nietzsche" height="200"/></summary>
+        <summary><img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B9CEE2BD3-61D6-4377-9208-34D8A572DEBB%7DIMG100.JPG" alt="cover of Lone Women by Victor LaValle" height="200"/></summary>
+        <a href="https://share.libbyapp.com/title/9080172"><p>Lone Women by Victor LaValle</p></a>
+      </details>
+    </td>
+    <td>
+      <details>
+        <summary><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.t8cBjYETcc7eTKrHGAEV9QHaLH%26pid%3DApi&f=1&ipt=37e6781d26432089d01585e9fd6969c08a9bc8cff17375d55f4b78877a00ff2f&ipo=images" alt="cover of Thus Spake Zarathustra by Friedrich Nietzsche" height="200"/></summary>
         <a href="https://archive.org/details/thusspokezarathu00nietuoft">
           <p>Thus Spake Zarathustra by Friedrich Nietzsche</p>
       </a>
       </details>
     </td>
-    <td>
-      <details>
-        <summary><img src="https://img2.od-cdn.com/ImageType-100/0439-1/%7B52F39DD5-8AB7-4DEE-B2AA-02B41D2C1DBC%7DIMG100.JPG" alt="The Troop by Nick Cutter" height="200"/></summary>
-        <a href="https://share.libbyapp.com/title/1556903"><p>The Troop by Nick Cutter</p></a>
-      </details>
-    </td>
   </tr>
-  <tr>
-    <td align=center>
+  <tr><td align=center>
+  
+[![10% complete](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+    
+  </td><td align=center>
       
-[![50% complete](https://geps.dev/progress/59?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
-
-  </td>
-  <td align=center>
-
-[![100% complete](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
-
-  </td>
-  </tr>
+[![62% complete](https://geps.dev/progress/62?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+  
+  </td></tr>
   
 </table>
 
@@ -72,8 +69,14 @@
   <tr>
     <td>
       <details>
+        <summary><img src="https://img2.od-cdn.com/ImageType-100/0439-1/%7B52F39DD5-8AB7-4DEE-B2AA-02B41D2C1DBC%7DIMG100.JPG" alt="cover of The Troop by Nick Cutter" height="120"/></summary>
+        <a href="https://share.libbyapp.com/title/1556903"><p>The Troop by Nick Cutter</p></a>
+      </details>
+    </td>
+    <td>
+      <details>
         <summary>
-          <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659110290i/61773985.jpg" alt="The Marigold by Andrew Sullivan" height="120"/>
+          <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659110290i/61773985.jpg" alt="cover of The Marigold by Andrew Sullivan" height="120"/>
         </summary>
         <a href="https://www.andrewfsullivan.com/the-marigold">
           <p>The Marigold by Andrew Sullivan</p>
@@ -83,7 +86,7 @@
     <td>
       <details>
         <summary>
-          <img src="https://books.google.com/books/content?id=TFQvAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WtIVKK-NRLLkC5oZfmyjcZI0Iyg8yKGff2QokKSrdY4yTWqecGDlBKiKBT0wWX8oBQBcWVZoVq37E7Ad5fBX9J04iOWvdrEC62e9Kkn5PZnXeHLxu-T-g94I3y5asUQFt2eBv" alt="Freedom and Culture Cover by John Dewey" height="120"/>  
+          <img src="https://books.google.com/books/content?id=TFQvAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WtIVKK-NRLLkC5oZfmyjcZI0Iyg8yKGff2QokKSrdY4yTWqecGDlBKiKBT0wWX8oBQBcWVZoVq37E7Ad5fBX9J04iOWvdrEC62e9Kkn5PZnXeHLxu-T-g94I3y5asUQFt2eBv" alt="cover of Freedom and Culture Cover by John Dewey" height="120"/>  
         </summary>
         <a href="https://archive.org/details/freedomculture0000dewe/page/n7/mode/1up">
           <p>Freedom and Culture Cover by John Dewey</p>
@@ -93,7 +96,7 @@
     <td>
       <details>
         <summary>
-          <img src="https://img1.od-cdn.com/ImageType-100/2390-1/{17593155-2DED-46F4-9B13-9A939A761C9D}IMG100.JPG" alt="All The Sinners Bleed by S.A. Cosby" height="120"/>
+          <img src="https://img1.od-cdn.com/ImageType-100/2390-1/{17593155-2DED-46F4-9B13-9A939A761C9D}IMG100.JPG" alt="cover of All The Sinners Bleed by S.A. Cosby" height="120"/>
         </summary>
         <a href="https://share.libbyapp.com/title/9174747">
           <p>All The Sinners Bleed by S.A. Cosby</p>
@@ -107,16 +110,6 @@
         </summary>
         <a href="https://share.libbyapp.com/title/543173">
           <p>The Haunting of Hill House by Shirley Jackson</p>
-        </a>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary>
-          <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B395E66B7-9771-46F4-B7C0-29F076A6BCD5%7DImg100.jpg" alt="The Lost World by Michael Crichton" height="120"/>
-        </summary>
-        <a href="https://share.libbyapp.com/title/5591">
-          <p>The Lost World by Michael Crichton</p>
         </a>
       </details>
     </td>
