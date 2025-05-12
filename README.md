@@ -38,8 +38,8 @@
     </td> -->
     <td>
       <details>
-        <summary><img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B9CEE2BD3-61D6-4377-9208-34D8A572DEBB%7DIMG100.JPG" alt="cover of Lone Women by Victor LaValle" height="200"/></summary>
-        <a href="https://share.libbyapp.com/title/9080172"><p>Lone Women by Victor LaValle</p></a>
+        <summary><img src="https://www.harpercollins.com/cdn/shop/files/9780063157675_7512ae89-b5db-4d2f-9bfa-0e345c0afcb4.jpg?v=1747013652&width=350" alt="cover of The Between by Tananarive Due" height="200"/></summary>
+        <a href="https://www.harpercollins.com/products/the-between-tananarive-due?variant=33104863330338"><p>The Between by Tananarive Due</p></a>
       </details>
     </td>
     <td>
@@ -53,7 +53,7 @@
   </tr>
   <tr><td align=center>
   
-[![88% complete](https://geps.dev/progress/88?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![3% complete](https://geps.dev/progress/3?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
   </td><td align=center>
       
@@ -67,6 +67,12 @@
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   <tr>
+    <td>
+      <details>
+        <summary><img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B9CEE2BD3-61D6-4377-9208-34D8A572DEBB%7DIMG100.JPG" alt="cover of Lone Women by Victor LaValle" height="120"/></summary>
+        <a href="https://share.libbyapp.com/title/9080172"><p>Lone Women by Victor LaValle</p></a>
+      </details>
+    </td>
     <td>
       <details>
         <summary><img src="https://img2.od-cdn.com/ImageType-100/0439-1/%7B52F39DD5-8AB7-4DEE-B2AA-02B41D2C1DBC%7DIMG100.JPG" alt="cover of The Troop by Nick Cutter" height="120"/></summary>
@@ -100,16 +106,6 @@
         </summary>
         <a href="https://share.libbyapp.com/title/9174747">
           <p>All The Sinners Bleed by S.A. Cosby</p>
-        </a>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary>
-          <img src="https://img1.od-cdn.com/ImageType-100/1523-1/%7BB2D9A47E-4B69-480B-AB38-E95A15B49FFD%7DImg100.jpg" alt="The Haunting of Hill House by Shirley Jackson" height="120"/>
-        </summary>
-        <a href="https://share.libbyapp.com/title/543173">
-          <p>The Haunting of Hill House by Shirley Jackson</p>
         </a>
       </details>
     </td>
