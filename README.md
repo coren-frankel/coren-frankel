@@ -23,8 +23,8 @@
 - 📱 maintaining a universal native app/PWA with React Native, Expo, Supabase, SWR, React Native Paper, & NativeWind
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects
 - 🧰 studying system design & architecture
-- 🆕 teaching myself Rust
-- 🥯 hungry, probably
+- 📖 teaching myself Rust
+- 🥞 hungry, probably
 
 
 <hr/>
@@ -53,7 +53,7 @@
   </tr>
   <tr><td align=center>
   
-[![3% complete](https://geps.dev/progress/3?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![8% complete](https://geps.dev/progress/8?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
   </td><td align=center>
       
