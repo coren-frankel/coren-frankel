@@ -18,11 +18,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
 ### Recently, I've been focused on...
-- 🪈 building out CI/CD pipelines for plural repositories using technologies like Digital Ocean, Github Actions, Expo Application Services, & Docker
-- 🎟️ iterating on custom a Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS
-- 📱 maintaining a universal native app/PWA with React Native, Expo, Supabase, SWR, React Native Paper, & NativeWind
+- ✅ configuring CI with Github Actions to validate code security, lint, format, test, compile, & build checks
+- 🎟️ iterating on a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS
+- 📱 maintaining a PWA built with React Native, Expo, Supabase, SWR, React Native Paper, & NativeWind; Soon to publish native build to app stores!
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects
-- 🧰 studying system design & architecture
+- 🧰 studying System Design & Architecture and DevOps best practices
 - 📖 teaching myself Rust
 - 🥞 hungry, probably
 
@@ -53,11 +53,11 @@
   </tr>
   <tr><td align=center>
   
-[![41% complete](https://geps.dev/progress/41?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![92% complete](https://geps.dev/progress/92?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
   </td><td align=center>
       
-[![82% complete](https://geps.dev/progress/82?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![86% complete](https://geps.dev/progress/86?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
   
   </td></tr>
   
