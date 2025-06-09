@@ -39,8 +39,8 @@
     </td> -->
     <td>
       <details>
-        <summary><img src="https://www.harpercollins.com/cdn/shop/files/9780063157675_7512ae89-b5db-4d2f-9bfa-0e345c0afcb4.jpg?v=1747013652&width=350" alt="cover of The Between by Tananarive Due" height="200"/></summary>
-        <a href="https://www.harpercollins.com/products/the-between-tananarive-due?variant=33104863330338"><p>The Between by Tananarive Due</p></a>
+        <summary><img src="https://secure.syndetics.com/index.aspx?isbn=9781957957067/MC.GIF&client=jecop&type=xw12&oclc=" alt="cover of Lotería by Cynthia Pelayo" height="200"/></summary>
+        <a href="https://www.cynthiapelayo.com/books/loter%C3%ADa"><p>Lotería by Cynthia Pelayo</p></a>
       </details>
     </td>
     <td>
@@ -54,11 +54,11 @@
   </tr>
   <tr><td align=center>
   
-[![100% complete](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![10% complete](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
   </td><td align=center>
       
-[![86% complete](https://geps.dev/progress/86?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![88% complete](https://geps.dev/progress/86?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
   
   </td></tr>
   
@@ -68,6 +68,12 @@
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   <tr>
+    <td>
+      <details>
+        <summary><img src="https://www.harpercollins.com/cdn/shop/files/9780063157675_7512ae89-b5db-4d2f-9bfa-0e345c0afcb4.jpg?v=1747013652&width=350" alt="cover of The Between by Tananarive Due" height="120"/></summary>
+        <a href="https://www.harpercollins.com/products/the-between-tananarive-due?variant=33104863330338"><p>The Between by Tananarive Due</p></a>
+      </details>
+    </td>
     <td>
       <details>
         <summary><img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B9CEE2BD3-61D6-4377-9208-34D8A572DEBB%7DIMG100.JPG" alt="cover of Lone Women by Victor LaValle" height="120"/></summary>
@@ -80,6 +86,8 @@
         <a href="https://share.libbyapp.com/title/1556903"><p>The Troop by Nick Cutter</p></a>
       </details>
     </td>
+  </tr>
+  <tr>
     <td>
       <details>
         <summary>
