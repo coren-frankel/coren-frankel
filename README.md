@@ -39,8 +39,8 @@
     </td> -->
     <td>
       <details>
-        <summary><img src="https://secure.syndetics.com/index.aspx?isbn=9781957957067/MC.GIF&client=jecop&type=xw12&oclc=" alt="cover of Lotería by Cynthia Pelayo" height="200"/></summary>
-        <a href="https://www.cynthiapelayo.com/books/loter%C3%ADa"><p>Lotería by Cynthia Pelayo</p></a>
+        <summary><img src="https://m.media-amazon.com/images/I/410dRmdQG7L._SL500_.jpg" alt="cover of I Have No Mouth &amp; I Must Scream And Other Works by Harlan Ellsion" height="200"/></summary>
+        <a href="https://archive.org/details/i-have-no-mouth-and-i-must-scream_202408"><p>I Have No Mouth &amp; I Must Scream And Other Works by Harlan Ellsion</p></a>
       </details>
     </td>
     <td>
@@ -54,7 +54,7 @@
   </tr>
   <tr><td align=center>
   
-[![13% complete](https://geps.dev/progress/13?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![4% complete](https://geps.dev/progress/4?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
   </td><td align=center>
       
