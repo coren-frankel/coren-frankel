@@ -19,10 +19,10 @@
 
 ### Recently, I've been focused on...
 - ✅ configuring multiple CI pipelines with Github Actions to validate code security, lint, format, test, compile, & build checks
-- 🎟️ iterating on a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS
+<!-- - 🎟️ iterating on a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS -->
 - 📱 maintaining a PWA built with React Native, Expo, Supabase, SWR, React Native Paper, & NativeWind; Soon to publish native build to app stores!
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects
-- 🆕 integrating HubSpot with WordPress to turn client leads into contacts   
+- 🆕 configuring & integrating HubSpot with existing technologies for various clients
 - 🧰 studying System Design & Architecture and DevOps best practices
 - 📖 teaching myself Rust
 - 🥨 hungry, probably
@@ -39,8 +39,8 @@
     </td> -->
     <td>
       <details>
-        <summary><img src="https://m.media-amazon.com/images/I/410dRmdQG7L._SL500_.jpg" alt="cover of I Have No Mouth &amp; I Must Scream And Other Works by Harlan Ellsion" height="200"/></summary>
-        <a href="https://archive.org/details/i-have-no-mouth-and-i-must-scream_202408"><p>I Have No Mouth &amp; I Must Scream And Other Works by Harlan Ellsion</p></a>
+        <summary><img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F1523-1%2FD99%2FFEB%2F89%2F%257BD99FEB89-17D6-4C9D-BF30-A401FD718831%257DImg400.jpg" alt="cover of The Hike by Drew Magary" height="200"/></summary>
+        <a href="https://share.libbyapp.com/title/2504621"><p>The Hike by Drew Magary</p></a>
       </details>
     </td>
     <td>
@@ -54,7 +54,7 @@
   </tr>
   <tr><td align=center>
   
-[![4% complete](https://geps.dev/progress/4?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![5% complete](https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
   </td><td align=center>
       
@@ -64,7 +64,7 @@
   
 </table>
 
-<p align=center>I may be updating this to harvest github contributions, but I also like doing it. So let's drop it!</p>
+<p align=center>I may be updating this to harvest public github contributions, but I also like doing it. So let's drop it!</p>
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   <tr>
