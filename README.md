@@ -39,8 +39,8 @@
     </td> -->
     <td>
       <details>
-        <summary><img src="https://img1.od-cdn.com/ImageType-100/2390-1/%7B6AFC5982-93F8-41C7-96CC-E203B90528E8%7DIMG100.JPG" alt="cover of Ring Shout by P. Djèlí Clark" height="200"/></summary>
-        <a href="https://share.libbyapp.com/title/5168334"><p>Ring Shout by P. Djèlí Clark</p></a>
+        <summary><img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0439-1%2F%257BE1336240-0BD9-4EFE-9D94-20B12611FD9E%257DIMG100.JPG" alt="cover of The Paleontologist by Luke Dumas" height="200"/></summary>
+        <a href="https://share.libbyapp.com/title/9599074"><p>The Paleontologist by Luke Dumas</p></a>
       </details>
     </td>
     <td>
@@ -54,11 +54,11 @@
   </tr>
   <tr><td align=center>
   
-[![59% complete](https://geps.dev/progress/59?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![0% complete](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
   </td><td align=center>
       
-[![93% complete](https://geps.dev/progress/93?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![94% complete](https://geps.dev/progress/94?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
   
   </td></tr>
   
@@ -68,6 +68,16 @@
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   <tr>
+    <td>
+      <details>
+        <summary>
+          <img src="https://img1.od-cdn.com/ImageType-100/2390-1/%7B6AFC5982-93F8-41C7-96CC-E203B90528E8%7DIMG100.JPG" alt="cover of Ring Shout by P. Djèlí Clark" height="120"/>  
+        </summary>
+        <a href="https://share.libbyapp.com/title/5168334">
+          <p>Ring Shout by P. Djèlí Clark</p>
+        </a>
+      </details>
+    </td>
     <td>
       <details>
         <summary><img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F1523-1%2FD99%2FFEB%2F89%2F%257BD99FEB89-17D6-4C9D-BF30-A401FD718831%257DImg400.jpg" alt="cover of The Hike by Drew Magary" height="120"/></summary>
@@ -80,6 +90,8 @@
         <a href="https://www.harpercollins.com/products/the-between-tananarive-due?variant=33104863330338"><p>The Between by Tananarive Due</p></a>
       </details>
     </td>
+  </tr>
+  <tr>
     <td>
       <details>
         <summary><img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B9CEE2BD3-61D6-4377-9208-34D8A572DEBB%7DIMG100.JPG" alt="cover of Lone Women by Victor LaValle" height="120"/></summary>
@@ -92,8 +104,6 @@
         <a href="https://share.libbyapp.com/title/1556903"><p>The Troop by Nick Cutter</p></a>
       </details>
     </td>
-  </tr>
-  <tr>
     <td>
       <details>
         <summary>
@@ -101,16 +111,6 @@
         </summary>
         <a href="https://www.andrewfsullivan.com/the-marigold">
           <p>The Marigold by Andrew Sullivan</p>
-        </a>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary>
-          <img src="https://books.google.com/books/content?id=TFQvAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WtIVKK-NRLLkC5oZfmyjcZI0Iyg8yKGff2QokKSrdY4yTWqecGDlBKiKBT0wWX8oBQBcWVZoVq37E7Ad5fBX9J04iOWvdrEC62e9Kkn5PZnXeHLxu-T-g94I3y5asUQFt2eBv" alt="cover of Freedom and Culture Cover by John Dewey" height="120"/>  
-        </summary>
-        <a href="https://archive.org/details/freedomculture0000dewe/page/n7/mode/1up">
-          <p>Freedom and Culture Cover by John Dewey</p>
         </a>
       </details>
     </td>
