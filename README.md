@@ -19,7 +19,7 @@
 
 ### Recently, 
 
-#### My dominant tech stacks have included...
+#### my tech stacks have included...
 - MySQL, Redis, Supabase (PostgreSQL)
 - Python, Flask, SQLAlchemy, RQ
 - TypeScript, Remix v2, React Native, Shopify APIs & CLI
