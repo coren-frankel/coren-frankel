@@ -197,19 +197,19 @@
 ## My Development Tools (Non-Exclusive):
   
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img alt="my technology and tools icons: HTML, CSS, Markdown, JavaScript, TypeScript, Python, Java, Rust, YAML, React, React Native, Remix, Express, Node.js, Flask, Spring, npm, pnpm, Maven, Prisma, SQLAlchemy, Mongoose, GraphQL, VSCode, IntelliJ Idea, Android Studio, Xcode, Postman, Figma, Jest, Vitest, Regular Expression, Babel, Tailwind CSS, Bootstrap, MaterialUI, Vite, SQLite, MySQL, PostgreSQL, Redis, Supabase, MongoDB, Digital Ocean, Shopify, Docker, Ngrok, Cloudflare, Vercel, Nginx,Google Cloud Platform, git,Github, Github Actions, Linux, Apple, Ubuntu, Sentry, Snyk, Slack" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,rust,yaml,react,reactnative,remix,express,nodejs,flask,spring,npm,pnpm,maven,prisma,sqla,mongoose,graphql,vscode,idea,androidstudio,xcode,postman,figma,jest,vitest,regex,babel,tailwind,bootstrap,materialui,vite,sqlite,mysql,postgres,redis,supabase,mongodb,digitalocean,shopify,docker,ngrok,cloudflare,vercel,nginx,gcp,git,github,githubactions,linux,apple,ubuntu,sentry,snyk,slack&perline=10&theme=auto" />
+    <img alt="my technology and tools icons: HTML, CSS, Markdown, JavaScript, TypeScript, Python, Java, Rust, YAML, React, React Native, Remix, jQuery, Express, Expo, Node.js, Flask, Spring, npm, pnpm, Maven, Prisma, SQLAlchemy, Mongoose, GraphQL, VSCode, IntelliJ Idea, Postman, Terminal, Figma, Jest, Vitest, PyTest, Junit, Tailwind CSS, Bootstrap, MaterialUI, Ant Design, Vite, Babel, Tomcat, SQLite, MySQL, PostgreSQL, Redis, Supabase, MongoDB, Digital Ocean, Shopify, Docker, Ngrok, Cloudflare, Vercel, Nginx, Google Cloud Platform, git, Github, Github Actions, Linux, Apple, Ubuntu, Windows, Sentry, Snyk, Slack, Tailscale" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,rust,yaml,react,reactnative,jquery,remix,express,expo,nodejs,flask,spring,npm,pnpm,maven,prisma,sqla,mongoose,graphql,vscode,idea,postman,terminal,figma,jest,vitest,pytest,junit,vite,babel,tomcat,tailwind,bootstrap,materialui,antdesign,sqlite,mysql,postgres,redis,supabase,mongodb,digitalocean,shopify,docker,ngrok,cloudflare,vercel,nginx,gcp,git,github,githubactions,linux,apple,ubuntu,windows,sentry,snyk,slack,tailscale&perline=11&theme=auto" />
   </a>
 </div>
   <details>
-    <summary>Breakdown</summary>
+    <summary>Tools Breakdown</summary>
     <div align=center>
     <details>
       <summary>Languages:</summary>
-      <p>HTML, CSS, GraphQL, JavaScript, TypeScript, Python, Java, Markdown</p>
+      <p>HTML, CSS, GraphQL, JavaScript (ES6+), TypeScript, Python, Java, Rust, Markdown, YAML</p>
     </details>
     <details>
       <summary>Frameworks & Runtimes:</summary>
-      <p>Expo, Flask, Node.js, React, Remix, React Native, Spring, Supabase</p>
+      <p>Expo, Flask, React, Remix, React Native, Spring, Node.js, Deno</p>
     </details>
     <details>
       <summary>Dependency Management & Build Tools:</summary>
@@ -217,31 +217,35 @@
     </details>
     <details>
       <summary>Style Libraries:</summary>
-      <p>Tailwind CSS, Bootstrap, Material UI</p>
+      <p>Tailwind CSS, Bootstrap, Material UI, Ant Design</p>
     </details>
     <details>
-      <summary>IDEs:</summary>
-      <p>VS Code, IntelliJ Idea, Android Studio, XCode, Postman</p>
+      <summary>Interactive Development Environments (IDEs):</summary>
+      <p>VS Code, IntelliJ Idea, Postman, Terminal</p>
     </details>
     <details>
-      <summary>OS:</summary>
-      <p>Android, iOS, Linux, MacOS</p>
+      <summary>Operation Systems (OS):</summary>
+      <p>MacOS, Linux, Android, iOS, Windows</p>
     </details>
     <details>
       <summary>Developer Tools:</summary>
-      <p>Cloudflare, Figma, Git, Github, Github Actions, Ngrok</p>
+      <p>Cloudflare, Figma, Git, Github, Github Actions, Ngrok, Docker, Tailscale</p>
     </details>
     <details>
-      <summary>ORMs, ODMs, Middlewares, & Data Persistence Tools:</summary>
-      <p>JPA, JDBC, Mongoose, Prisma, SqlAlchemy</p>
+      <summary>Testing Libraries:</summary>
+      <p>Vitest, Jest, PyTest, JUnit, Mockito</p>
+    </details>
+    <details>
+      <summary>Object-Relational Models (ORMs), Object-Document Mappings (ODMs), Middlewares, & Other Data Persistence Tools:</summary>
+      <p>Prisma, SQLAlchemy, Java Persistence API (JPA), Java Database Connectivity (JDBC), Mongoose</p>
     </details>
     <details>
       <summary>Databases:</summary>
-      <p>MySQL, MongoDB, PostgreSQL, Redis, SQLite</p>
+      <p>MySQL, PostgreSQL, Redis, SQLite, Supabase, MongoDB</p>
     </details>
     <details>
       <summary>Cloud Providers:</summary>
-      <p>Vercel, Digital Ocean, GCP, AWS</p>
+      <p>DigitalOcean, Google Cloud Platform, Amazon Web Services, Vercel</p>
     </details>
     </div>
   </details>
