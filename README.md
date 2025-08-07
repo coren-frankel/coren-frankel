@@ -37,9 +37,8 @@
 - 🥨 hungry, probably
 
 #### I've been experimenting with new technologies and releases, like...
-- Oxlint
-- Sentry Seer
-- 
+- [Oxlint](https://oxc.rs/) Collection of JavaScript tools written in Rust
+- [Ruff](https://docs.astral.sh/ruff/) Rust-based next-gen Python linter and formatter
 
 <hr/>
 <h3 align=center>You're likely wondering to yourself, "What's Coren reading right now?" Well, let me show you:</h3>
@@ -56,24 +55,18 @@
         <a href="https://share.libbyapp.com/title/9599074"><p>The Paleontologist by Luke Dumas</p></a>
       </details>
     </td>
-    <td>
-      <details>
-        <summary><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.t8cBjYETcc7eTKrHGAEV9QHaLH%26pid%3DApi&f=1&ipt=37e6781d26432089d01585e9fd6969c08a9bc8cff17375d55f4b78877a00ff2f&ipo=images" alt="cover of Thus Spake Zarathustra by Friedrich Nietzsche" height="200"/></summary>
-        <a href="https://archive.org/details/thusspokezarathu00nietuoft">
-          <p>Thus Spake Zarathustra by Friedrich Nietzsche</p>
-      </a>
-      </details>
-    </td>
   </tr>
   <tr><td align=center>
   
-[![22% complete](https://geps.dev/progress/22?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![27% complete](https://geps.dev/progress/27?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
-  </td><td align=center>
-      
+  </td>
+  <!--    <td align=center>
+    
 [![100% complete](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
-  
-  </td></tr>
+
+  </td> -->
+  </tr>
   
 </table>
 
@@ -81,6 +74,14 @@
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   <tr>
+    <td>
+      <details>
+        <summary><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.t8cBjYETcc7eTKrHGAEV9QHaLH%26pid%3DApi&f=1&ipt=37e6781d26432089d01585e9fd6969c08a9bc8cff17375d55f4b78877a00ff2f&ipo=images" alt="cover of Thus Spake Zarathustra by Friedrich Nietzsche" height="120"/></summary>
+        <a href="https://archive.org/details/thusspokezarathu00nietuoft">
+          <p>Thus Spake Zarathustra by Friedrich Nietzsche</p>
+      </a>
+      </details>
+    </td>
     <td>
       <details>
         <summary>
@@ -97,14 +98,14 @@
         <a href="https://share.libbyapp.com/title/2504621"><p>The Hike by Drew Magary</p></a>
       </details>
     </td>
+  </tr>
+  <tr>
     <td>
       <details>
         <summary><img src="https://www.harpercollins.com/cdn/shop/files/9780063157675_7512ae89-b5db-4d2f-9bfa-0e345c0afcb4.jpg?v=1747013652&width=350" alt="cover of The Between by Tananarive Due" height="120"/></summary>
         <a href="https://www.harpercollins.com/products/the-between-tananarive-due?variant=33104863330338"><p>The Between by Tananarive Due</p></a>
       </details>
     </td>
-  </tr>
-  <tr>
     <td>
       <details>
         <summary><img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B9CEE2BD3-61D6-4377-9208-34D8A572DEBB%7DIMG100.JPG" alt="cover of Lone Women by Victor LaValle" height="120"/></summary>
@@ -115,16 +116,6 @@
       <details>
         <summary><img src="https://img2.od-cdn.com/ImageType-100/0439-1/%7B52F39DD5-8AB7-4DEE-B2AA-02B41D2C1DBC%7DIMG100.JPG" alt="cover of The Troop by Nick Cutter" height="120"/></summary>
         <a href="https://share.libbyapp.com/title/1556903"><p>The Troop by Nick Cutter</p></a>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary>
-          <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659110290i/61773985.jpg" alt="cover of The Marigold by Andrew Sullivan" height="120"/>
-        </summary>
-        <a href="https://www.andrewfsullivan.com/the-marigold">
-          <p>The Marigold by Andrew Sullivan</p>
-        </a>
       </details>
     </td>
   </tr>
