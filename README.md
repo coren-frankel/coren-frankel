@@ -2,7 +2,7 @@
 
 <p>Some call me <em>Kern</em>.</p>
 <h5>
-  I'm a Software Engineer passionate about freedom of information, privacy, open-source, and evolving with emerging tech.
+  I'm a self-taught Software Engineer passionate about freedom of information, privacy, open-source, and evolving with emerging tech.
 </h5>
 <h6 align=end>
   An aspiring polyglot, I am meticulous, persistent, and creative in my ability to deliver solutions and apply humanistic principles in my work.
@@ -15,17 +15,17 @@
   <caption>Yipp, yipp!</caption>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Hardcore,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Prog+Metal,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
 
-### Recently, 
+### Recently...
 
-#### my tech stacks have included...
+#### ...my tech stacks have included:
 - MySQL, Redis, Supabase (PostgreSQL)
 - Python, Flask, SQLAlchemy, RQ
 - TypeScript, Remix v2, React Native, Shopify APIs & CLI
 - GitHub Actions, Sentry, DigitalOcean
 
-#### I've been focused on...
+#### ...I've been focused on:
 - ⛓️ refactoring custom eCommerce-ERP integration built with Python, Flask, SQLAlchemy, Redis, & RQ to use Shopify's GraphQL API and Service-Layer Architecture
 - ✅ configuring multiple CI pipelines with Github Actions to validate code security, lint, format, test, compile, & build checks
 <!-- - 🎟️ iterating on a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS -->
@@ -36,7 +36,7 @@
 - 📖 teaching myself Rust
 - 🥨 hungry, probably
 
-#### I've been experimenting with new technologies and releases, like...
+#### ...I've been experimenting with new technologies & releases, like:
 - [Oxlint](https://oxc.rs/) Collection of JavaScript tools written in Rust
 - [Ruff](https://docs.astral.sh/ruff/) Rust-based next-gen Python linter and formatter
 
@@ -58,7 +58,7 @@
   </tr>
   <tr><td align=center>
   
-[![27% complete](https://geps.dev/progress/27?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![33% complete](https://geps.dev/progress/33?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
   </td>
   <!--    <td align=center>
