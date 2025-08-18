@@ -50,15 +50,25 @@
     </a>
     </td> -->
     <td>
-      <details>
-        <summary><img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0439-1%2F%257BE1336240-0BD9-4EFE-9D94-20B12611FD9E%257DIMG100.JPG" alt="cover of The Paleontologist by Luke Dumas" height="200"/></summary>
-        <a href="https://share.libbyapp.com/title/9599074"><p>The Paleontologist by Luke Dumas</p></a>
+      <a href="https://share.libbyapp.com/title/9599074">
+        <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0439-1%2F%257BE1336240-0BD9-4EFE-9D94-20B12611FD9E%257DIMG100.JPG" alt="cover of The Paleontologist by Luke Dumas" height="200"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://share.libbyapp.com/title/11693967">
+        <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F2390-1%2F%257B31BCA4AD-CE27-47AD-A932-30E75A0F5BDE%257DIMG100.JPG" alt="cover of Careless People by Sarah Wynn-Williams" height="200"/>
+        </a>
       </details>
     </td>
   </tr>
   <tr><td align=center>
   
-[![33% complete](https://geps.dev/progress/33?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![51% complete](https://geps.dev/progress/51?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+    
+  </td>
+  <td align=center>
+  
+[![0% complete](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
   </td>
   <!--    <td align=center>
