@@ -68,7 +68,7 @@
   </td>
   <td align=center>
   
-[![50% complete](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![68% complete](https://geps.dev/progress/68?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
   </td>
   <!--    <td align=center>
