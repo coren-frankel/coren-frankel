@@ -86,7 +86,7 @@
   <tr>
     <td>
       <details>
-        <summary><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.t8cBjYETcc7eTKrHGAEV9QHaLH%26pid%3DApi&f=1&ipt=37e6781d26432089d01585e9fd6969c08a9bc8cff17375d55f4b78877a00ff2f&ipo=images" alt="cover of Thus Spake Zarathustra by Friedrich Nietzsche" height="120"/></summary>
+        <summary><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.aladin.co.kr%2Fproduct%2F33769%2F34%2Fcover500%2Ff722930460_2.jpg&f=1&nofb=1&ipt=18a044c2657fd4afeba11b0df14402afc77bb5b4c523d8c645ba685379a47360" alt="cover of Thus Spake Zarathustra by Friedrich Nietzsche" height="120"/></summary>
         <a href="https://archive.org/details/thusspokezarathu00nietuoft">
           <p>Thus Spake Zarathustra by Friedrich Nietzsche</p>
       </a>
