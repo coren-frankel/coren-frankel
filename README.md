@@ -27,7 +27,7 @@
 
 #### ...I've been focused on:
 - ⛓️ refactoring custom eCommerce-ERP integration built with Python, Flask, SQLAlchemy, Redis, & RQ to use Shopify's GraphQL API and Service-Layer Architecture
-- ✅ configuring multiple CI pipelines with Github Actions to validate code security, lint, format, test, compile, & build checks
+- ✅ configuring multiple CI pipelines with Github Actions to validate code security, lint, format, test, type, & compile/build checks
 <!-- - 🎟️ iterating on a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS -->
 <!-- - 📱 maintaining a PWA built with React Native, Expo, Supabase, SWR, React Native Paper, & NativeWind; Soon to publish native build to app stores! -->
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects
@@ -57,7 +57,7 @@
   </tr>
   <tr><td align=center>
   
-[![82% complete](https://geps.dev/progress/82?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![91% complete](https://geps.dev/progress/91?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
   </td>
   <!--    <td align=center>
@@ -77,7 +77,7 @@
       <details>
         <summary><img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F2390-1%2F%257B31BCA4AD-CE27-47AD-A932-30E75A0F5BDE%257DIMG100.JPG" alt="cover of Careless People by Sarah Wynn-Williams" height="120"/></summary>
         <a href="https://share.libbyapp.com/title/11693967">
-          <p>Thus Spake Zarathustra by Friedrich Nietzsche</p>
+          <p>Careless People by Sarah Wynn-Williams</p>
       </a>
       </details>
     </td>
