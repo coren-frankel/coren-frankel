@@ -27,6 +27,7 @@
 
 #### ...I've been focused on:
 - ⛓️ refactoring custom eCommerce-ERP integration built with Python, Flask, SQLAlchemy, Redis, & RQ to use Shopify's GraphQL API and Service-Layer Architecture
+- 🧪 bolstering python codebase test suite with pytest, unittest, coverage, etc.
 - ✅ configuring multiple CI pipelines with Github Actions to validate code security, lint, format, test, type, & compile/build checks
 <!-- - 🎟️ iterating on a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS -->
 <!-- - 📱 maintaining a PWA built with React Native, Expo, Supabase, SWR, React Native Paper, & NativeWind; Soon to publish native build to app stores! -->
@@ -57,7 +58,7 @@
   </tr>
   <tr><td align=center>
   
-[![38% complete](https://geps.dev/progress/38?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![53% complete](https://geps.dev/progress/53?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
   </td>
   <!--    <td align=center>
