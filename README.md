@@ -55,10 +55,16 @@
         <img src="https://img1.od-cdn.com/ImageType-100/2389-1/{F54F014B-A64E-4F89-8916-4B5CDE384E80}Img100.jpg" alt="cover of Frankenstein by Mary Shelley" height="200"/>
       </a>
     </td>
+    <td>
+      <a href="https://share.libbyapp.com/title/10649445">
+        <img src="https://img1.od-cdn.com/ImageType-100/0111-1/{5FC94E2B-8E3F-4377-AC7D-06930997CE41}IMG100.JPG" alt="cover of The Message by Ta-Nehisi Coates" height="200"/>
+      </a>
+    </td>
   </tr>
   <tr><td align=center>
   
 [![7% complete](https://geps.dev/progress/7?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![5% complete](https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
   </td>
   <!--    <td align=center>
