@@ -51,14 +51,14 @@
     </a>
     </td> -->
     <td>
-      <a href="https://share.libbyapp.com/title/51182">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd3525k1ryd2155.cloudfront.net%2Fh%2F730%2F125%2F1121125730.0.x.jpg&f=1&nofb=1&ipt=841280899d58a7a5721a36bbcc7e2936537767c5e31eae189a97947efb564475" alt="cover of Their Eyes Were Watching God by Zora Neale Hurston" height="200"/>
+      <a href="https://share.libbyapp.com/title/784583">
+        <img src="https://img1.od-cdn.com/ImageType-100/2389-1/{F54F014B-A64E-4F89-8916-4B5CDE384E80}Img100.jpg" alt="cover of Frankenstein by Mary Shelley" height="200"/>
       </a>
     </td>
   </tr>
   <tr><td align=center>
   
-[![100% complete](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![7% complete](https://geps.dev/progress/7?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
   </td>
   <!--    <td align=center>
@@ -76,6 +76,14 @@
   <tr>
     <td>
       <details>
+        <summary><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd3525k1ryd2155.cloudfront.net%2Fh%2F730%2F125%2F1121125730.0.x.jpg&f=1&nofb=1&ipt=841280899d58a7a5721a36bbcc7e2936537767c5e31eae189a97947efb564475" alt="cover of Their Eyes Were Watching God by Zora Neale Hurston" height="120"/></summary>
+        <a href="https://share.libbyapp.com/title/51182">
+          <p>Their Eyes Were Watching God by Zora Neale Hurston</p>
+      </a>
+      </details>
+    </td>
+    <td>
+      <details>
         <summary><img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0439-1%2F%257BE1336240-0BD9-4EFE-9D94-20B12611FD9E%257DIMG100.JPG" alt="cover of The Paleontologist by Luke Dumas" height="120"/></summary>
         <a href="https://share.libbyapp.com/title/9599074">
           <p>The Paleontologist by Luke Dumas</p>
@@ -90,6 +98,8 @@
       </a>
       </details>
     </td>
+  </tr>
+  <tr>
     <td>
       <details>
         <summary><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.aladin.co.kr%2Fproduct%2F33769%2F34%2Fcover500%2Ff722930460_2.jpg&f=1&nofb=1&ipt=18a044c2657fd4afeba11b0df14402afc77bb5b4c523d8c645ba685379a47360" alt="cover of Thus Spake Zarathustra by Friedrich Nietzsche" height="120"/></summary>
@@ -98,8 +108,6 @@
       </a>
       </details>
     </td>
-  </tr>
-  <tr>
     <td>
       <details>
         <summary>
@@ -114,12 +122,6 @@
       <details>
         <summary><img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F1523-1%2FD99%2FFEB%2F89%2F%257BD99FEB89-17D6-4C9D-BF30-A401FD718831%257DImg400.jpg" alt="cover of The Hike by Drew Magary" height="120"/></summary>
         <a href="https://share.libbyapp.com/title/2504621"><p>The Hike by Drew Magary</p></a>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary><img src="https://www.harpercollins.com/cdn/shop/files/9780063157675_7512ae89-b5db-4d2f-9bfa-0e345c0afcb4.jpg?v=1747013652&width=350" alt="cover of The Between by Tananarive Due" height="120"/></summary>
-        <a href="https://www.harpercollins.com/products/the-between-tananarive-due?variant=33104863330338"><p>The Between by Tananarive Due</p></a>
       </details>
     </td>
   </tr>
