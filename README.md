@@ -22,7 +22,7 @@
 #### ...my tech stacks have included:
 - MySQL, Redis, Supabase (PostgreSQL)
 - Python, Flask, SQLAlchemy, RQ
-- TypeScript, Remix v2, React Native, Shopify APIs & CLI
+- TypeScript, Remix (v2), React Native, Shopify APIs & CLI
 - GitHub Actions, Sentry, DigitalOcean
 
 #### ...I've been focused on:
@@ -63,12 +63,12 @@
   </tr>
   <tr><td align=center>
   
-[![11% complete](https://geps.dev/progress/11?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![21% complete](https://geps.dev/progress/21?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
   </td>
   <td align=center>
     
-[![34% complete](https://geps.dev/progress/34?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![84% complete](https://geps.dev/progress/84?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
 
   </td>
   <!--    <td align=center>
