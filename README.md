@@ -43,7 +43,8 @@
 - [Pyrefly]([https://](https://pyrefly.org/en/docs/) Fast type-checker and Python language server (you guessed it) built with Rust 🦀
 
 <hr/>
-<h3 align=center>You're likely wondering to yourself, "What's Coren reading right now?" Well, let me show you:</h3>
+<h3 align=center>You're likely wondering to yourself, "What's Coren reading right now?"</h3>
+<h4 align=center>Well, let me show you:</h4>
 <table align=center>
   <tr>
 <!--       <td>
@@ -62,17 +63,16 @@
         <img src="https://img1.od-cdn.com/ImageType-100/2389-1/{F54F014B-A64E-4F89-8916-4B5CDE384E80}Img100.jpg" alt="cover of Frankenstein by Mary Shelley" height="200"/>
       </a>
   </tr>
-  <tr>
-    <td align=center>
+  <tr><td align=center>
     
 [![19% complete](https://geps.dev/progress/19?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
 
-    </td>
-    <td align=center>
+  </td>
+  <td align=center>
   
 [![28% complete](https://geps.dev/progress/28?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
-    </td>
+  </td>
   <!--    <td align=center>
     
 [![100% complete](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
@@ -141,8 +141,8 @@
 <div align="center">
   
 ### Reach me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/coren-frankel)
-[![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/uncle_baby_kern#8432)
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/coren-frankel)
+[![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord)](https://discordapp.com/users/uncle_baby_kern#8432)
 
 #### Check out my website [corenfrankel.dev](https://corenfrankel.dev)
 
