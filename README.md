@@ -40,7 +40,7 @@
 #### ...I've been experimenting with new technologies & releases, like:
 - [Oxlint](https://oxc.rs/) Collection of JavaScript tools written in Rust
 - [Ruff](https://docs.astral.sh/ruff/) Rust-based next-gen Python linter and formatter
-- [Pyrefly]([https://](https://pyrefly.org/en/docs/) Fast type-checker and Python language server (you guessed it) built with Rust 🦀
+- [Pyrefly](https://pyrefly.org/en/docs/) Fast type-checker and Python language server (you guessed it) built with Rust 🦀
 
 <hr/>
 <h3 align=center>You're likely wondering to yourself, "What's Coren reading right now?"</h3>
