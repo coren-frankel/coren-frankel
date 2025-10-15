@@ -34,7 +34,7 @@
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects
 - 🆕 configuring & integrating HubSpot with existing technologies for various clients
 - 🧰 studying System Design & Architecture and DevOps best practices
-- 📖 teaching myself Rust
+- 📖 teaching myself Rust & Go
 - 🥨 hungry, probably
 
 #### ...I've been experimenting with new technologies & releases, like:
@@ -51,27 +51,28 @@
     <img src="https://content.packt.com/_/image/original/B19648/cover_image_large.jpg" alt="Building Production-Grade Web Applications with Supabase by David Lorenz" height="200"/>
     </a>
     </td> -->
+    </td>
+    <td>
+      <a href="https://share.libbyapp.com/title/11061908">
+        <img src="https://img1.od-cdn.com/ImageType-100/0111-1/%7BD4F2B024-92E9-456B-8346-9C8168A74D23%7DIMG100.JPG" alt="cover of The Staircase in the Woods by Chuck Wendig" height="200"/>
+      </a>
+    </td>
     <td>
       <a href="https://share.libbyapp.com/title/784583">
         <img src="https://img1.od-cdn.com/ImageType-100/2389-1/{F54F014B-A64E-4F89-8916-4B5CDE384E80}Img100.jpg" alt="cover of Frankenstein by Mary Shelley" height="200"/>
       </a>
-    </td>
-    <td>
-      <a href="https://share.libbyapp.com/title/10649445">
-        <img src="https://img1.od-cdn.com/ImageType-100/0111-1/{5FC94E2B-8E3F-4377-AC7D-06930997CE41}IMG100.JPG" alt="cover of The Message by Ta-Nehisi Coates" height="200"/>
-      </a>
-    </td>
   </tr>
-  <tr><td align=center>
-  
-[![21% complete](https://geps.dev/progress/21?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+  <tr>
+    <td align=center>
     
-  </td>
-  <td align=center>
-    
-[![100% complete](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![19% complete](https://geps.dev/progress/19?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
 
-  </td>
+    </td>
+    <td align=center>
+  
+[![28% complete](https://geps.dev/progress/28?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+    
+    </td>
   <!--    <td align=center>
     
 [![100% complete](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
@@ -85,6 +86,12 @@
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   <tr>
+    <td>
+      <details>
+        <summary><img src="https://img1.od-cdn.com/ImageType-100/0111-1/{5FC94E2B-8E3F-4377-AC7D-06930997CE41}IMG100.JPG" alt="cover of The Message by Ta-Nehisi Coates" height="120"/></summary>
+        <a href="https://share.libbyapp.com/title/10649445"><p>The Message by Ta-Nehisi Coates</p></a>
+      </details>
+    </td>
     <td>
       <details>
         <summary><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd3525k1ryd2155.cloudfront.net%2Fh%2F730%2F125%2F1121125730.0.x.jpg&f=1&nofb=1&ipt=841280899d58a7a5721a36bbcc7e2936537767c5e31eae189a97947efb564475" alt="cover of Their Eyes Were Watching God by Zora Neale Hurston" height="120"/></summary>
@@ -101,6 +108,8 @@
       </a>
       </details>
     </td>
+  </tr>
+  <tr>
     <td>
       <details>
         <summary><img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F2390-1%2F%257B31BCA4AD-CE27-47AD-A932-30E75A0F5BDE%257DIMG100.JPG" alt="cover of Careless People by Sarah Wynn-Williams" height="120"/></summary>
@@ -109,8 +118,6 @@
       </a>
       </details>
     </td>
-  </tr>
-  <tr>
     <td>
       <details>
         <summary><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.aladin.co.kr%2Fproduct%2F33769%2F34%2Fcover500%2Ff722930460_2.jpg&f=1&nofb=1&ipt=18a044c2657fd4afeba11b0df14402afc77bb5b4c523d8c645ba685379a47360" alt="cover of Thus Spake Zarathustra by Friedrich Nietzsche" height="120"/></summary>
@@ -127,12 +134,6 @@
         <a href="https://share.libbyapp.com/title/5168334">
           <p>Ring Shout by P. Djèlí Clark</p>
         </a>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary><img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F1523-1%2FD99%2FFEB%2F89%2F%257BD99FEB89-17D6-4C9D-BF30-A401FD718831%257DImg400.jpg" alt="cover of The Hike by Drew Magary" height="120"/></summary>
-        <a href="https://share.libbyapp.com/title/2504621"><p>The Hike by Drew Magary</p></a>
       </details>
     </td>
   </tr>
