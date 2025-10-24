@@ -34,7 +34,7 @@
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects
 - 🆕 configuring & integrating HubSpot with existing technologies for various clients
 - 🧰 studying System Design & Architecture and DevOps best practices
-- 📖 teaching myself Rust & Go
+- 📖 teaching myself Rust & Golang
 - 🥨 hungry, probably
 
 #### ...I've been experimenting with new technologies & releases, like:
@@ -65,7 +65,7 @@
   </tr>
   <tr><td align=center>
     
-[![34% complete](https://geps.dev/progress/34?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![43% complete](https://geps.dev/progress/43?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
 
   </td>
   <td align=center>
