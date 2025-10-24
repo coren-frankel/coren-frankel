@@ -2,7 +2,7 @@
 
 <p>Some call me <em>Kern</em>.</p>
 <h5>
-  I'm a self-taught Software Engineer passionate about freedom of information, privacy, open-source, and evolving with emerging tech.
+  I'm a self-taught Software Engineer, passionate about freedom of information, privacy, open-source, and evolving with emerging tech.
 </h5>
 <h6 align=end>
   An aspiring polyglot, I am meticulous, persistent, and creative in my ability to deliver solutions and apply humanistic principles in my work.
