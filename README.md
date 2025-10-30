@@ -65,12 +65,12 @@
   </tr>
   <tr><td align=center>
     
-[![75% complete](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![82% complete](https://geps.dev/progress/82?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
 
   </td>
   <td align=center>
   
-[![40% complete](https://geps.dev/progress/40?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![43% complete](https://geps.dev/progress/43?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
   </td>
   <!--    <td align=center>
