@@ -54,8 +54,8 @@
     </td> -->
     </td>
     <td>
-      <a href="https://share.libbyapp.com/title/11061908">
-        <img src="https://img1.od-cdn.com/ImageType-100/0111-1/%7BD4F2B024-92E9-456B-8346-9C8168A74D23%7DIMG100.JPG" alt="cover of The Staircase in the Woods by Chuck Wendig" height="200"/>
+      <a href="https://share.libbyapp.com/title/12206726">
+        <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F7095-1%2F%257BB82F35A5-441D-4497-8EA3-F5D3B7C15911%257DIMG100.JPG" alt="cover of Bad Indians Book Club by Patty Krawec" height="200"/>
       </a>
     </td>
     <td>
@@ -65,12 +65,12 @@
   </tr>
   <tr><td align=center>
     
-[![100% complete](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![8% complete](https://geps.dev/progress/8?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
 
   </td>
   <td align=center>
   
-[![52% complete](https://geps.dev/progress/52?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![54% complete](https://geps.dev/progress/54?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     
   </td>
   <!--    <td align=center>
@@ -88,6 +88,12 @@
   <tr>
     <td>
       <details>
+        <summary><img src="https://img1.od-cdn.com/ImageType-100/0111-1/%7BD4F2B024-92E9-456B-8346-9C8168A74D23%7DIMG100.JPG" alt="cover of The Staircase in the Woods by Chuck Wendig" height="120"/></summary>
+        <a href="https://share.libbyapp.com/title/11061908"><p>The Staircase in the Woods by Chuck Wendig</p></a>
+      </details>
+    </td>
+    <td>
+      <details>
         <summary><img src="https://img1.od-cdn.com/ImageType-100/0111-1/{5FC94E2B-8E3F-4377-AC7D-06930997CE41}IMG100.JPG" alt="cover of The Message by Ta-Nehisi Coates" height="120"/></summary>
         <a href="https://share.libbyapp.com/title/10649445"><p>The Message by Ta-Nehisi Coates</p></a>
       </details>
@@ -100,6 +106,8 @@
       </a>
       </details>
     </td>
+  </tr>
+  <tr>
     <td>
       <details>
         <summary><img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0439-1%2F%257BE1336240-0BD9-4EFE-9D94-20B12611FD9E%257DIMG100.JPG" alt="cover of The Paleontologist by Luke Dumas" height="120"/></summary>
@@ -108,8 +116,6 @@
       </a>
       </details>
     </td>
-  </tr>
-  <tr>
     <td>
       <details>
         <summary><img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F2390-1%2F%257B31BCA4AD-CE27-47AD-A932-30E75A0F5BDE%257DIMG100.JPG" alt="cover of Careless People by Sarah Wynn-Williams" height="120"/></summary>
@@ -124,16 +130,6 @@
         <a href="https://archive.org/details/thusspokezarathu00nietuoft">
           <p>Thus Spake Zarathustra by Friedrich Nietzsche</p>
       </a>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary>
-          <img src="https://img1.od-cdn.com/ImageType-100/2390-1/%7B6AFC5982-93F8-41C7-96CC-E203B90528E8%7DIMG100.JPG" alt="cover of Ring Shout by P. Djèlí Clark" height="120"/>  
-        </summary>
-        <a href="https://share.libbyapp.com/title/5168334">
-          <p>Ring Shout by P. Djèlí Clark</p>
-        </a>
       </details>
     </td>
   </tr>
