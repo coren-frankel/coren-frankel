@@ -179,20 +179,20 @@
 <details>
   <summary>⏸️ Curriculum-borne projects:</summary>
   
-  + 🍔 *GetYum* - A spoonacular API-fueled Recipe-to-Grocery List app with Spotify Web player integration
-    - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-    - [*GetYum Repo*](https://github.com/richzarate1997/recipe_routers#readme) 
-  + 📈 VolatilitySurf - Stock Options Volatility Surface Trading Tool 
-    - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-    - [VolatilitySurf Repo](https://github.com/coren-frankel/VolatilitySurf)
-  + 🤧 *LookAchoo* - Geolocal Sneeze Context App
-    - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-    - [*LookAchoo Repo*](https://github.com/coren-frankel/LookAchoo")
-  + 🍳 *piqr* - Random Recipe CRUD App
+  + 🍔 *GetYum* - A spoonacular API-fueled Recipe-to-Grocery List app with Spotify Web player integration (Dev10 Capstone group project)
+    - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+    - [*GetYum repository*](https://github.com/richzarate1997/recipe_routers#readme) 
+  + 📈 VolatilitySurf - Stock Options Volatility Surface Trading Tool (Coding Dojo group Java project)
+    - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+    - [VolatilitySurf repository](https://github.com/coren-frankel/VolatilitySurf)
+  + 🤧 *LookAchoo* - Geolocal Sneeze Context App (Coding Dojo personal MERN stack project)
+    - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+    - [*LookAchoo repository*](https://github.com/coren-frankel/LookAchoo")
+  + 🍳 *piqr* - Random Recipe CRUD App (Coding Dojo personal Python project)
     - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 ) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 ) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-    - [*piqr Repo*](https://github.com/coren-frankel/meal_picker)
+    - [*piqr repository*](https://github.com/coren-frankel/meal_picker)
   
 </details>
 
