@@ -52,26 +52,16 @@
     <img src="https://content.packt.com/_/image/original/B19648/cover_image_large.jpg" alt="Building Production-Grade Web Applications with Supabase by David Lorenz" height="200"/>
     </a>
     </td> -->
-    </td>
     <td>
-      <a href="https://share.libbyapp.com/title/12206726">
-        <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F7095-1%2F%257BB82F35A5-441D-4497-8EA3-F5D3B7C15911%257DIMG100.JPG" alt="cover of Bad Indians Book Club by Patty Krawec" height="200"/>
+      <a href="https://share.libbyapp.com/title/5962319" target="_blank">
+        <img src="https://img3.od-cdn.com/ImageType-100/2363-1/%7B898F10A8-6441-4D60-AD3E-9BE12B4546A3%7DIMG100.JPG" alt="cover of The Actual Star by Monica Byrne" height="200"/>
       </a>
     </td>
-    <td>
-      <a href="https://share.libbyapp.com/title/784583">
-        <img src="https://img1.od-cdn.com/ImageType-100/2389-1/{F54F014B-A64E-4F89-8916-4B5CDE384E80}Img100.jpg" alt="cover of Frankenstein by Mary Shelley" height="200"/>
-      </a>
   </tr>
   <tr><td align=center>
     
-[![100% complete](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![0% complete](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
 
-  </td>
-  <td align=center>
-  
-[![87% complete](https://geps.dev/progress/87?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
-    
   </td>
   <!--    <td align=center>
     
@@ -88,46 +78,74 @@
   <tr>
     <td>
       <details>
-        <summary><img src="https://img1.od-cdn.com/ImageType-100/0111-1/%7BD4F2B024-92E9-456B-8346-9C8168A74D23%7DIMG100.JPG" alt="cover of The Staircase in the Woods by Chuck Wendig" height="120"/></summary>
-        <a href="https://share.libbyapp.com/title/11061908"><p>The Staircase in the Woods by Chuck Wendig</p></a>
+        <summary><img src="https://img1.od-cdn.com/ImageType-100/2389-1/{F54F014B-A64E-4F89-8916-4B5CDE384E80}Img100.jpg" alt="cover of Frankenstein: Or the Modern Prometheus by Mary Shelley" height="120"/></summary>
+        <a href="https://share.libbyapp.com/title/784583" target="_blank"><p>Frankenstein: Or the Modern Prometheus by Mary Shelley</p></a>
       </details>
     </td>
     <td>
       <details>
-        <summary><img src="https://img1.od-cdn.com/ImageType-100/0111-1/{5FC94E2B-8E3F-4377-AC7D-06930997CE41}IMG100.JPG" alt="cover of The Message by Ta-Nehisi Coates" height="120"/></summary>
-        <a href="https://share.libbyapp.com/title/10649445"><p>The Message by Ta-Nehisi Coates</p></a>
+        <summary><img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F7095-1%2F%257BB82F35A5-441D-4497-8EA3-F5D3B7C15911%257DIMG100.JPG" alt="cover of Bad Indians Book Club by Patty Krawec" height="120"/></summary>
+        <a href="https://share.libbyapp.com/title/12206726" target="_blank"><p>Bad Indians Book Club: Reading at the Edge of a Thousand Worlds by Patty Krawec</p></a>
       </details>
     </td>
     <td>
       <details>
-        <summary><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd3525k1ryd2155.cloudfront.net%2Fh%2F730%2F125%2F1121125730.0.x.jpg&f=1&nofb=1&ipt=841280899d58a7a5721a36bbcc7e2936537767c5e31eae189a97947efb564475" alt="cover of Their Eyes Were Watching God by Zora Neale Hurston" height="120"/></summary>
-        <a href="https://share.libbyapp.com/title/51182">
-          <p>Their Eyes Were Watching God by Zora Neale Hurston</p>
-      </a>
+          <summary>
+            <img src="https://img1.od-cdn.com/ImageType-100/0111-1/%7BD4F2B024-92E9-456B-8346-9C8168A74D23%7DIMG100.JPG" alt="cover of The Staircase in the Woods by Chuck Wendig" height="120"/>
+          </summary>
+        <a href="https://share.libbyapp.com/title/11061908" target="_blank">
+          <p>The Staircase in the Woods by Chuck Wendig</p>
+        </a>
+      </details>
+    </td>
+    <td>
+      <details>
+          <summary>
+            <img src="https://img1.od-cdn.com/ImageType-100/0111-1/{5FC94E2B-8E3F-4377-AC7D-06930997CE41}IMG100.JPG" alt="cover of The Message by Ta-Nehisi Coates" height="120"/>
+          </summary>
+        <a href="https://share.libbyapp.com/title/10649445" target="_blank">
+          <p>The Message by Ta-Nehisi Coates</p>
+        </a>
       </details>
     </td>
   </tr>
   <tr>
     <td>
       <details>
-        <summary><img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0439-1%2F%257BE1336240-0BD9-4EFE-9D94-20B12611FD9E%257DIMG100.JPG" alt="cover of The Paleontologist by Luke Dumas" height="120"/></summary>
-        <a href="https://share.libbyapp.com/title/9599074">
-          <p>The Paleontologist by Luke Dumas</p>
+        <summary>
+          <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd3525k1ryd2155.cloudfront.net%2Fh%2F730%2F125%2F1121125730.0.x.jpg&f=1&nofb=1&ipt=841280899d58a7a5721a36bbcc7e2936537767c5e31eae189a97947efb564475" alt="cover of Their Eyes Were Watching God by Zora Neale Hurston" height="120"/>
+        </summary>
+        <a href="https://share.libbyapp.com/title/51182" target="_blank">
+          <p>Their Eyes Were Watching God by Zora Neale Hurston</p>
       </a>
       </details>
     </td>
     <td>
       <details>
-        <summary><img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F2390-1%2F%257B31BCA4AD-CE27-47AD-A932-30E75A0F5BDE%257DIMG100.JPG" alt="cover of Careless People by Sarah Wynn-Williams" height="120"/></summary>
-        <a href="https://share.libbyapp.com/title/11693967">
-          <p>Careless People by Sarah Wynn-Williams</p>
+        <summary>
+          <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0439-1%2F%257BE1336240-0BD9-4EFE-9D94-20B12611FD9E%257DIMG100.JPG" alt="cover of The Paleontologist by Luke Dumas" height="120"/>
+        </summary>
+        <a href="https://share.libbyapp.com/title/9599074" target="_blank">
+        <p>The Paleontologist by Luke Dumas</p>
       </a>
       </details>
     </td>
     <td>
       <details>
-        <summary><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.aladin.co.kr%2Fproduct%2F33769%2F34%2Fcover500%2Ff722930460_2.jpg&f=1&nofb=1&ipt=18a044c2657fd4afeba11b0df14402afc77bb5b4c523d8c645ba685379a47360" alt="cover of Thus Spake Zarathustra by Friedrich Nietzsche" height="120"/></summary>
-        <a href="https://archive.org/details/thusspokezarathu00nietuoft">
+        <summary>
+          <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F2390-1%2F%257B31BCA4AD-CE27-47AD-A932-30E75A0F5BDE%257DIMG100.JPG" alt="cover of Careless People by Sarah Wynn-Williams" height="120"/>
+        </summary>
+          <a href="https://share.libbyapp.com/title/11693967" target="_blank">
+        <p>Careless People by Sarah Wynn-Williams</p>
+      </a>
+      </details>
+    </td>
+    <td>
+      <details>
+        <summary>
+          <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.aladin.co.kr%2Fproduct%2F33769%2F34%2Fcover500%2Ff722930460_2.jpg&f=1&nofb=1&ipt=18a044c2657fd4afeba11b0df14402afc77bb5b4c523d8c645ba685379a47360" alt="cover of Thus Spake Zarathustra by Friedrich Nietzsche" height="120"/>
+        </summary>
+        <a href="https://archive.org/details/thusspokezarathu00nietuoft" target="_blank">
           <p>Thus Spake Zarathustra by Friedrich Nietzsche</p>
       </a>
       </details>
