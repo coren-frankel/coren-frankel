@@ -53,9 +53,14 @@
     </a>
     </td> -->
     <td>
-      <a href="https://share.libbyapp.com/title/5962319" target="_blank">
-        <img src="https://img3.od-cdn.com/ImageType-100/2363-1/%7B898F10A8-6441-4D60-AD3E-9BE12B4546A3%7DIMG100.JPG" alt="cover of The Actual Star by Monica Byrne" height="200"/>
-      </a>
+      <details>
+        <summary>
+        <img src="https://img3.od-cdn.com/ImageType-100/2363-1/%7B898F10A8-6441-4D60-AD3E-9BE12B4546A3%7DIMG100.JPG" alt="cover of The Actual Star by Monica Byrne" height="200" />
+        </summary>
+        <a href="https://share.libbyapp.com/title/5962319" target="_blank">
+          <p>The Actual Star by Monica Byrne</p>
+        </a>
+      </details>
     </td>
   </tr>
   <tr><td align=center>
