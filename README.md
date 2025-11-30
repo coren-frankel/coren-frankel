@@ -26,8 +26,8 @@
 - GitHub Actions, Sentry, DigitalOcean
 
 #### ...I've been focused on:
-- ⛓️ refactoring custom eCommerce-ERP integration built with Python, Flask, SQLAlchemy, Redis, & RQ to use Shopify's GraphQL API and Service-Layer Architecture
-- 🧪 bolstering python codebase test suite with pytest, unittest, coverage, etc.
+- ⛓️ planning new features for a custom eCommerce-ERP integration built with Python, Flask, SQLAlchemy, Redis, & RQ to use Shopify's GraphQL API and Service-Layer Architecture
+- 🧪 bolstering a codebase test suite with pytest, unittest, coverage, etc.
 - ✅ configuring multiple CI pipelines with Github Actions to validate code security, lint, format, test, type, & compile/build checks
 <!-- - 🎟️ iterating on a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS -->
 <!-- - 📱 maintaining a PWA built with React Native, Expo, Supabase, SWR, React Native Paper, & NativeWind; Soon to publish native build to app stores! -->
@@ -37,7 +37,7 @@
 - 📖 teaching myself Rust & Golang
 - 🥨 hungry, probably
 
-#### ...I've been experimenting with new technologies & releases, like:
+#### ...I've been experimenting with newer tools & releases, like:
 - [Oxlint](https://oxc.rs/) Collection of JavaScript tools written in Rust
 - [Ruff](https://docs.astral.sh/ruff/) Rust-based next-gen Python linter and formatter
 - [Pyrefly](https://pyrefly.org/en/docs/) Fast type-checker and Python language server (you guessed it) built with Rust 🦀
@@ -65,7 +65,7 @@
   </tr>
   <tr><td align=center>
     
-[![8% complete](https://geps.dev/progress/8?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![12% complete](https://geps.dev/progress/12?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
   </td>
   <!--    <td align=center>
     
