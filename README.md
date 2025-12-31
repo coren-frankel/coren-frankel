@@ -19,11 +19,11 @@
 
 ### Recently...
 
-#### ...my tech stacks have included:
-- MySQL, Redis, Supabase (PostgreSQL)
-- Python, Flask, SQLAlchemy, RQ
-- TypeScript, Remix (v2), React Native, Shopify APIs & CLI
-- GitHub Actions, Sentry, DigitalOcean
+#### ...my recent tech stacks across personal and professional projects have included:
+- MySQL, Redis, Supabase, PostgreSQL
+- Python, Flask, SQLAlchemy
+- TypeScript, Remix (v2), React Native, React Router, Tanstack Start
+- GitHub Actions, Sentry, DigitalOcean, Render, Cloudflare Workers, Docker
 
 #### ...I've been focused on:
 - ⛓️ planning new features for a custom eCommerce-ERP integration built with Python, Flask, SQLAlchemy, Redis, & RQ to use Shopify's GraphQL API and Service-Layer Architecture
@@ -283,12 +283,12 @@
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <div>
-      <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=donut-vertical&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide_progress=true" />
+      <img alt="coren-frankel's Github Top Languages" src="https://github-readme-stats.coren-frankel.vercel.app/api/top-langs/?username=coren-frankel&layout=donut-vertical&theme=radical&size_weight=0.5&count_weight=0.5&hide_progress=true" />
   </div>
   <img alt="coren-frankel's GitHub Stats" src="https://github-readme-stats.coren-frankel.vercel.app/api?username=coren-frankel&theme=neon&show_icons=true&show_private=true" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats-pi-sable.vercel.app?user=coren%2Dfrankel&theme=ocean-gradient&exclude_days=Sun%2CSat" alt="coren-frankel's GitHub Streak" />
+    <img src="https://github-readme-streak-stats-pi-sable.vercel.app?user=coren%2Dfrankel&theme=dark-aura&exclude_days=Sun%2CSat" alt="coren-frankel's GitHub Streak" />
   </a>
 </div>
 
