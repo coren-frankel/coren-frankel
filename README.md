@@ -55,17 +55,17 @@
     <td>
       <details>
         <summary>
-        <img src="https://img3.od-cdn.com/ImageType-100/2363-1/%7B898F10A8-6441-4D60-AD3E-9BE12B4546A3%7DIMG100.JPG" alt="cover of The Actual Star by Monica Byrne" height="200" />
+        <img src="https://images.squarespace-cdn.com/content/v1/5af9a86fc3c16a3922fe3d13/1528129635268-38KGHNCV6F495TU9P9OA/9781609807191-f_feature-da7f3fbf233ca2baf010a8008f711b75+-+Copy.jpg?format=750w" alt="cover of Parable of the Sower by Octavia E. Butler" height="200" />
         </summary>
-        <a href="https://share.libbyapp.com/title/5962319" target="_blank">
-          <p>The Actual Star by Monica Byrne</p>
+        <a href="https://share.libbyapp.com/title/9722437" target="_blank">
+          <p>Parable of the Sower by Octavia E. Butler</p>
         </a>
       </details>
     </td>
   </tr>
   <tr><td align=center>
     
-[![97% complete](https://geps.dev/progress/97?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![13% complete](https://geps.dev/progress/13?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
   </td>
   <!--    <td align=center>
     
@@ -80,6 +80,16 @@
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   <tr>
+    <td>
+      <details>
+        <summary>
+          <img src="https://img3.od-cdn.com/ImageType-100/2363-1/%7B898F10A8-6441-4D60-AD3E-9BE12B4546A3%7DIMG100.JPG" alt="cover of The Actual Star by Monica Byrne" height="120" />
+        </summary>
+        <a href="https://share.libbyapp.com/title/5962319" target="_blank">
+          <p>The Actual Star by Monica Byrne</p>
+        </a>
+      </details>
+    </td>
     <td>
       <details>
         <summary><img src="https://img1.od-cdn.com/ImageType-100/2389-1/{F54F014B-A64E-4F89-8916-4B5CDE384E80}Img100.jpg" alt="cover of Frankenstein: Or the Modern Prometheus by Mary Shelley" height="120"/></summary>
@@ -102,6 +112,8 @@
         </a>
       </details>
     </td>
+  </tr>
+  <tr>
     <td>
       <details>
           <summary>
@@ -112,8 +124,6 @@
         </a>
       </details>
     </td>
-  </tr>
-  <tr>
     <td>
       <details>
         <summary>
@@ -141,16 +151,6 @@
         </summary>
           <a href="https://share.libbyapp.com/title/11693967" target="_blank">
         <p>Careless People by Sarah Wynn-Williams</p>
-      </a>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary>
-          <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.aladin.co.kr%2Fproduct%2F33769%2F34%2Fcover500%2Ff722930460_2.jpg&f=1&nofb=1&ipt=18a044c2657fd4afeba11b0df14402afc77bb5b4c523d8c645ba685379a47360" alt="cover of Thus Spake Zarathustra by Friedrich Nietzsche" height="120"/>
-        </summary>
-        <a href="https://archive.org/details/thusspokezarathu00nietuoft" target="_blank">
-          <p>Thus Spake Zarathustra by Friedrich Nietzsche</p>
       </a>
       </details>
     </td>
