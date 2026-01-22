@@ -47,11 +47,6 @@
 <h4 align=center>Well, let me show you:</h4>
 <table align=center>
   <tr>
-<!--       <td>
-    <a href="https://www.packtpub.com/en-us/product/building-production-grade-web-applications-with-supabase-9781837630684">
-    <img src="https://content.packt.com/_/image/original/B19648/cover_image_large.jpg" alt="Building Production-Grade Web Applications with Supabase by David Lorenz" height="200"/>
-    </a>
-    </td> -->
     <td>
       <details>
         <summary>
@@ -62,10 +57,24 @@
         </a>
       </details>
     </td>
+    <td>
+      <details>
+        <summary>
+        <img src="https://cdn-ed.haymarketbooks.org/images/000008/580/9798888903643-f_medium_retina-95d58434ca81c09945d0039631538a42.jpg20251209-52-p4wp7" alt="cover of How We Get Free: Black Feminism and the Combahee River Collective 2nd Edition edited by Keeanga-Yamahtta Taylor" height="200" />
+        </summary>
+        <a href="https://www.haymarketbooks.org/books/2521-how-we-get-free-updated-2nd-edition" target="_blank">
+          <p>How We Get Free: Black Feminism and the Combahee River Collective edited by Keeanga-Yamahtta Taylor</p>
+        </a>
+      </details>
+    </td>
   </tr>
   <tr><td align=center>
     
-[![25% complete](https://geps.dev/progress/25?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![30% complete](https://geps.dev/progress/30?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+  </td>
+  <td align=center>
+    
+[![4% complete](https://geps.dev/progress/4?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
   </td>
   <!--    <td align=center>
     
