@@ -26,16 +26,15 @@
 - GitHub Actions, Sentry, DigitalOcean, Render, Cloudflare Workers, Docker
 
 #### ...I've been focused on:
-- ⛓️ planning new features for a custom eCommerce-ERP integration built with Python, Flask, SQLAlchemy, Redis, & RQ to use Shopify's GraphQL API and Service-Layer Architecture
 - 🧪 bolstering a codebase test suite with pytest, unittest, coverage, etc.
 - ✅ configuring multiple CI pipelines with Github Actions to validate code security, lint, format, test, type, & compile/build checks
-<!-- - 🎟️ iterating on a custom Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS -->
+- 🎟️ iterating on a custom voucher management Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS
 <!-- - 📱 maintaining a PWA built with React Native, Expo, Supabase, SWR, React Native Paper, & NativeWind; Soon to publish native build to app stores! -->
 - 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects
 - 🆕 configuring & integrating HubSpot with existing technologies for various clients
 - 🧰 studying System Design & Architecture and DevOps best practices
 - 📖 teaching myself Rust & Golang
-- 🥨 hungry, probably
+- 🫔 hungry, probably
 
 #### ...I've been experimenting with newer tools & releases, like:
 - [Oxlint](https://oxc.rs/) Collection of JavaScript tools written in Rust
