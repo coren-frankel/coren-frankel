@@ -49,10 +49,10 @@
     <td>
       <details>
         <summary>
-        <img src="https://images.squarespace-cdn.com/content/v1/5af9a86fc3c16a3922fe3d13/1528129635268-38KGHNCV6F495TU9P9OA/9781609807191-f_feature-da7f3fbf233ca2baf010a8008f711b75+-+Copy.jpg?format=750w" alt="cover of Parable of the Sower by Octavia E. Butler" height="200" />
+        <img src="https://m.media-amazon.com/images/I/91OC-njgyNL._AC_UF1000,1000_QL80_.jpg" alt="cover of Parable of the Talents by Octavia E. Butler" height="200" />
         </summary>
-        <a href="https://share.libbyapp.com/title/9722437" target="_blank">
-          <p>Parable of the Sower by Octavia E. Butler</p>
+        <a href="https://share.libbyapp.com/title/9722439" target="_blank">
+          <p>Parable of the Talents by Octavia E. Butler</p>
         </a>
       </details>
     </td>
@@ -69,7 +69,7 @@
   </tr>
   <tr><td align=center>
     
-[![100% complete](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![10% complete](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
   </td>
   <td align=center>
     
@@ -83,6 +83,16 @@
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   <tr>
+    <td>
+      <details>
+        <summary>
+        <img src="https://images.squarespace-cdn.com/content/v1/5af9a86fc3c16a3922fe3d13/1528129635268-38KGHNCV6F495TU9P9OA/9781609807191-f_feature-da7f3fbf233ca2baf010a8008f711b75+-+Copy.jpg?format=750w" alt="cover of Parable of the Sower by Octavia E. Butler" height="120" />
+        </summary>
+        <a href="https://share.libbyapp.com/title/9722437" target="_blank">
+          <p>Parable of the Sower by Octavia E. Butler</p>
+        </a>
+      </details>
+    </td>
     <td>
       <details>
         <summary>
