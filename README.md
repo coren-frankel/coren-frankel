@@ -56,24 +56,10 @@
         </a>
       </details>
     </td>
-    <td>
-      <details>
-        <summary>
-        <img src="https://cdn-ed.haymarketbooks.org/images/000008/580/9798888903643-f_medium_retina-95d58434ca81c09945d0039631538a42.jpg20251209-52-p4wp7" alt="cover of How We Get Free: Black Feminism and the Combahee River Collective 2nd Edition edited by Keeanga-Yamahtta Taylor" height="200" />
-        </summary>
-        <a href="https://www.haymarketbooks.org/books/2521-how-we-get-free-updated-2nd-edition" target="_blank">
-          <p>How We Get Free: Black Feminism and the Combahee River Collective edited by Keeanga-Yamahtta Taylor</p>
-        </a>
-      </details>
-    </td>
   </tr>
   <tr><td align=center>
     
-[![91% complete](https://geps.dev/progress/91?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
-  </td>
-  <td align=center>
-    
-[![100% complete](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![95% complete](https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
   </td>
   </tr>
   
@@ -83,6 +69,16 @@
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   <tr>
+    <td>
+      <details>
+        <summary>
+        <img src="https://cdn-ed.haymarketbooks.org/images/000008/580/9798888903643-f_medium_retina-95d58434ca81c09945d0039631538a42.jpg20251209-52-p4wp7" alt="cover of How We Get Free: Black Feminism and the Combahee River Collective 2nd Edition edited by Keeanga-Yamahtta Taylor" height="120" />
+        </summary>
+        <a href="https://www.haymarketbooks.org/books/2521-how-we-get-free-updated-2nd-edition" target="_blank">
+          <p>How We Get Free: Black Feminism and the Combahee River Collective edited by Keeanga-Yamahtta Taylor</p>
+        </a>
+      </details>
+    </td>
     <td>
       <details>
         <summary>
@@ -115,6 +111,8 @@
         <a href="https://share.libbyapp.com/title/12206726" target="_blank"><p>Bad Indians Book Club: Reading at the Edge of a Thousand Worlds by Patty Krawec</p></a>
       </details>
     </td>
+  </tr>
+  <tr>
     <td>
       <details>
           <summary>
@@ -125,8 +123,6 @@
         </a>
       </details>
     </td>
-  </tr>
-  <tr>
     <td>
       <details>
           <summary>
