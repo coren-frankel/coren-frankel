@@ -49,6 +49,16 @@
     <td>
       <details>
         <summary>
+        <img src="https://cdn-ed.haymarketbooks.org/images/000008/268/9798888904657-f_feature_retina-303bc801e95e485c92e3b4b9220b7d60.jpg20250528-21-j8yykv" alt="cover of Solidarity With Children: An Essay Against Adult Supremacy" height="200" />
+        </summary>
+        <a href="https://www.haymarketbooks.org/books/2610-solidarity-with-children" target="_blank">
+          <p>Solidarity With Children: An Essay Against Adult Supremacy by Madeline Lane-McKinley</p>
+        </a>
+      </details>
+    </td>
+    <td>
+      <details>
+        <summary>
         <img src="https://m.media-amazon.com/images/I/91OC-njgyNL._AC_UF1000,1000_QL80_.jpg" alt="cover of Parable of the Talents by Octavia E. Butler" height="200" />
         </summary>
         <a href="https://share.libbyapp.com/title/9722439" target="_blank">
@@ -57,15 +67,20 @@
       </details>
     </td>
   </tr>
-  <tr><td align=center>
+  <tr>
+    <td align=center>
     
-[![95% complete](https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
-  </td>
+[![5% complete](https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+    </td>
+    <td align=center>
+    
+[![99% complete](https://geps.dev/progress/99?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+    </td>
   </tr>
   
 </table>
 
-<p align=center>I update this document regularly to supplement all my hidden github contributions to private repositories. Plus I enjoy it. So let's drop it!</p>
+<p align=center>I update this document regularly to supplement all my hidden github contributions in private repositories. Plus I enjoy it. So let's drop it!</p>
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   <tr>
