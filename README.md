@@ -51,7 +51,7 @@
         <summary>
         <img src="https://cdn-ed.haymarketbooks.org/images/000008/268/9798888904657-f_feature_retina-303bc801e95e485c92e3b4b9220b7d60.jpg20250528-21-j8yykv" alt="cover of Solidarity With Children: An Essay Against Adult Supremacy" height="200" />
         </summary>
-        <a href="https://www.haymarketbooks.org/books/2610-solidarity-with-children" target="_blank">
+        <a href="https://www.haymarketbooks.org/books/2610-solidarity-with-children" target="_blank" rel="noopener">
           <p>Solidarity With Children: An Essay Against Adult Supremacy by Madeline Lane-McKinley</p>
         </a>
       </details>
@@ -61,7 +61,7 @@
         <summary>
         <img src="https://m.media-amazon.com/images/I/91OC-njgyNL._AC_UF1000,1000_QL80_.jpg" alt="cover of Parable of the Talents by Octavia E. Butler" height="200" />
         </summary>
-        <a href="https://share.libbyapp.com/title/9722439" target="_blank">
+        <a href="https://share.libbyapp.com/title/9722439" target="_blank" rel="noopener">
           <p>Parable of the Talents by Octavia E. Butler</p>
         </a>
       </details>
@@ -89,7 +89,7 @@
         <summary>
         <img src="https://cdn-ed.haymarketbooks.org/images/000008/580/9798888903643-f_medium_retina-95d58434ca81c09945d0039631538a42.jpg20251209-52-p4wp7" alt="cover of How We Get Free: Black Feminism and the Combahee River Collective 2nd Edition edited by Keeanga-Yamahtta Taylor" height="120" />
         </summary>
-        <a href="https://www.haymarketbooks.org/books/2521-how-we-get-free-updated-2nd-edition" target="_blank">
+        <a href="https://www.haymarketbooks.org/books/2521-how-we-get-free-updated-2nd-edition" target="_blank" rel="noopener">
           <p>How We Get Free: Black Feminism and the Combahee River Collective edited by Keeanga-Yamahtta Taylor</p>
         </a>
       </details>
@@ -99,7 +99,7 @@
         <summary>
         <img src="https://images.squarespace-cdn.com/content/v1/5af9a86fc3c16a3922fe3d13/1528129635268-38KGHNCV6F495TU9P9OA/9781609807191-f_feature-da7f3fbf233ca2baf010a8008f711b75+-+Copy.jpg?format=750w" alt="cover of Parable of the Sower by Octavia E. Butler" height="120" />
         </summary>
-        <a href="https://share.libbyapp.com/title/9722437" target="_blank">
+        <a href="https://share.libbyapp.com/title/9722437" target="_blank" rel="noopener">
           <p>Parable of the Sower by Octavia E. Butler</p>
         </a>
       </details>
@@ -109,7 +109,7 @@
         <summary>
           <img src="https://img3.od-cdn.com/ImageType-100/2363-1/%7B898F10A8-6441-4D60-AD3E-9BE12B4546A3%7DIMG100.JPG" alt="cover of The Actual Star by Monica Byrne" height="120" />
         </summary>
-        <a href="https://share.libbyapp.com/title/5962319" target="_blank">
+        <a href="https://share.libbyapp.com/title/5962319" target="_blank" rel="noopener">
           <p>The Actual Star by Monica Byrne</p>
         </a>
       </details>
@@ -117,13 +117,13 @@
     <td>
       <details>
         <summary><img src="https://img1.od-cdn.com/ImageType-100/2389-1/{F54F014B-A64E-4F89-8916-4B5CDE384E80}Img100.jpg" alt="cover of Frankenstein: Or the Modern Prometheus by Mary Shelley" height="120"/></summary>
-        <a href="https://share.libbyapp.com/title/784583" target="_blank"><p>Frankenstein: Or the Modern Prometheus by Mary Shelley</p></a>
+        <a href="https://share.libbyapp.com/title/784583" target="_blank" rel="noopener"><p>Frankenstein: Or the Modern Prometheus by Mary Shelley</p></a>
       </details>
     </td>
     <td>
       <details>
         <summary><img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F7095-1%2F%257BB82F35A5-441D-4497-8EA3-F5D3B7C15911%257DIMG100.JPG" alt="cover of Bad Indians Book Club by Patty Krawec" height="120"/></summary>
-        <a href="https://share.libbyapp.com/title/12206726" target="_blank"><p>Bad Indians Book Club: Reading at the Edge of a Thousand Worlds by Patty Krawec</p></a>
+        <a href="https://share.libbyapp.com/title/12206726" target="_blank" rel="noopener"><p>Bad Indians Book Club: Reading at the Edge of a Thousand Worlds by Patty Krawec</p></a>
       </details>
     </td>
   </tr>
@@ -133,7 +133,7 @@
           <summary>
             <img src="https://img1.od-cdn.com/ImageType-100/0111-1/%7BD4F2B024-92E9-456B-8346-9C8168A74D23%7DIMG100.JPG" alt="cover of The Staircase in the Woods by Chuck Wendig" height="120"/>
           </summary>
-        <a href="https://share.libbyapp.com/title/11061908" target="_blank">
+        <a href="https://share.libbyapp.com/title/11061908" target="_blank" rel="noopener">
           <p>The Staircase in the Woods by Chuck Wendig</p>
         </a>
       </details>
@@ -143,7 +143,7 @@
           <summary>
             <img src="https://img1.od-cdn.com/ImageType-100/0111-1/{5FC94E2B-8E3F-4377-AC7D-06930997CE41}IMG100.JPG" alt="cover of The Message by Ta-Nehisi Coates" height="120"/>
           </summary>
-        <a href="https://share.libbyapp.com/title/10649445" target="_blank">
+        <a href="https://share.libbyapp.com/title/10649445" target="_blank" rel="noopener">
           <p>The Message by Ta-Nehisi Coates</p>
         </a>
       </details>
@@ -153,7 +153,7 @@
         <summary>
           <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd3525k1ryd2155.cloudfront.net%2Fh%2F730%2F125%2F1121125730.0.x.jpg&f=1&nofb=1&ipt=841280899d58a7a5721a36bbcc7e2936537767c5e31eae189a97947efb564475" alt="cover of Their Eyes Were Watching God by Zora Neale Hurston" height="120"/>
         </summary>
-        <a href="https://share.libbyapp.com/title/51182" target="_blank">
+        <a href="https://share.libbyapp.com/title/51182" target="_blank" rel="noopener">
           <p>Their Eyes Were Watching God by Zora Neale Hurston</p>
       </a>
       </details>
@@ -163,7 +163,7 @@
         <summary>
           <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0439-1%2F%257BE1336240-0BD9-4EFE-9D94-20B12611FD9E%257DIMG100.JPG" alt="cover of The Paleontologist by Luke Dumas" height="120"/>
         </summary>
-        <a href="https://share.libbyapp.com/title/9599074" target="_blank">
+        <a href="https://share.libbyapp.com/title/9599074" target="_blank" rel="noopener">
         <p>The Paleontologist by Luke Dumas</p>
       </a>
       </details>
@@ -173,7 +173,7 @@
         <summary>
           <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F2390-1%2F%257B31BCA4AD-CE27-47AD-A932-30E75A0F5BDE%257DIMG100.JPG" alt="cover of Careless People by Sarah Wynn-Williams" height="120"/>
         </summary>
-          <a href="https://share.libbyapp.com/title/11693967" target="_blank">
+          <a href="https://share.libbyapp.com/title/11693967" target="_blank" rel="noopener">
         <p>Careless People by Sarah Wynn-Williams</p>
       </a>
       </details>
