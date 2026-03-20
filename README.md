@@ -49,9 +49,9 @@
     <td>
       <details>
         <summary>
-        <img src="https://cdn-ed.haymarketbooks.org/images/000008/268/9798888904657-f_feature_retina-303bc801e95e485c92e3b4b9220b7d60.jpg20250528-21-j8yykv" alt="cover of Solidarity With Children: An Essay Against Adult Supremacy" height="200" />
+        <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B6286DAC2-83D4-428D-9286-A7AAE815DFE3%7DIMG100.JPG" alt="cover of The Survivalists by Kashana Cauley" height="200" />
         </summary>
-        <a href="https://www.haymarketbooks.org/books/2610-solidarity-with-children" target="_blank" rel="noopener">
+        <a href="https://share.libbyapp.com/title/8906511" target="_blank" rel="noopener">
           <p>Solidarity With Children: An Essay Against Adult Supremacy by Madeline Lane-McKinley</p>
         </a>
       </details>
@@ -59,10 +59,10 @@
     <td>
       <details>
         <summary>
-        <img src="https://m.media-amazon.com/images/I/91OC-njgyNL._AC_UF1000,1000_QL80_.jpg" alt="cover of Parable of the Talents by Octavia E. Butler" height="200" />
+        <img src="https://cdn-ed.haymarketbooks.org/images/000008/268/9798888904657-f_feature_retina-303bc801e95e485c92e3b4b9220b7d60.jpg20250528-21-j8yykv" alt="cover of Solidarity With Children: An Essay Against Adult Supremacy" height="200" />
         </summary>
-        <a href="https://share.libbyapp.com/title/9722439" target="_blank" rel="noopener">
-          <p>Parable of the Talents by Octavia E. Butler</p>
+        <a href="https://www.haymarketbooks.org/books/2610-solidarity-with-children" target="_blank" rel="noopener">
+          <p>Solidarity With Children: An Essay Against Adult Supremacy by Madeline Lane-McKinley</p>
         </a>
       </details>
     </td>
@@ -70,11 +70,11 @@
   <tr>
     <td align=center>
     
-[![15% complete](https://geps.dev/progress/15?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![2% complete](https://geps.dev/progress/2?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     </td>
     <td align=center>
     
-[![99% complete](https://geps.dev/progress/99?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![15% complete](https://geps.dev/progress/15?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     </td>
   </tr>
   
@@ -84,6 +84,16 @@
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   <tr>
+    <td>
+      <details>
+        <summary>
+        <img src="https://m.media-amazon.com/images/I/91OC-njgyNL._AC_UF1000,1000_QL80_.jpg" alt="cover of Parable of the Talents by Octavia E. Butler" height="120" />
+        </summary>
+        <a href="https://share.libbyapp.com/title/9722439" target="_blank" rel="noopener">
+          <p>Parable of the Talents by Octavia E. Butler</p>
+        </a>
+      </details>
+    </td>
     <td>
       <details>
         <summary>
@@ -120,14 +130,14 @@
         <a href="https://share.libbyapp.com/title/784583" target="_blank" rel="noopener"><p>Frankenstein: Or the Modern Prometheus by Mary Shelley</p></a>
       </details>
     </td>
+  </tr>
+  <tr>
     <td>
       <details>
         <summary><img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F7095-1%2F%257BB82F35A5-441D-4497-8EA3-F5D3B7C15911%257DIMG100.JPG" alt="cover of Bad Indians Book Club by Patty Krawec" height="120"/></summary>
         <a href="https://share.libbyapp.com/title/12206726" target="_blank" rel="noopener"><p>Bad Indians Book Club: Reading at the Edge of a Thousand Worlds by Patty Krawec</p></a>
       </details>
     </td>
-  </tr>
-  <tr>
     <td>
       <details>
           <summary>
@@ -165,16 +175,6 @@
         </summary>
         <a href="https://share.libbyapp.com/title/9599074" target="_blank" rel="noopener">
         <p>The Paleontologist by Luke Dumas</p>
-      </a>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary>
-          <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F2390-1%2F%257B31BCA4AD-CE27-47AD-A932-30E75A0F5BDE%257DIMG100.JPG" alt="cover of Careless People by Sarah Wynn-Williams" height="120"/>
-        </summary>
-          <a href="https://share.libbyapp.com/title/11693967" target="_blank" rel="noopener">
-        <p>Careless People by Sarah Wynn-Williams</p>
       </a>
       </details>
     </td>
