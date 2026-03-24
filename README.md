@@ -2,7 +2,7 @@
 
 <p>Some call me <em>Kern</em>.</p>
 <h5>
-  I'm a self-taught Software Engineer, passionate about freedom of information, privacy, open-source, and evolving with emerging tech.
+  I'm a (mostly) self-taught Software Engineer, passionate about freedom of information, privacy, open-source, and evolving with emerging tech.
 </h5>
 <h6 align=end>
   An aspiring polyglot, I am meticulous, persistent, and creative in my ability to deliver solutions and apply humanistic principles in my work.
@@ -70,11 +70,11 @@
   <tr>
     <td align=center>
     
-[![2% complete](https://geps.dev/progress/2?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![10% complete](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     </td>
     <td align=center>
     
-[![15% complete](https://geps.dev/progress/15?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![33% complete](https://geps.dev/progress/33?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     </td>
   </tr>
   
