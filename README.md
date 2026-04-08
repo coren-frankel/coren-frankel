@@ -245,62 +245,12 @@
 
 <div align=center>
 
-## My Development Tools (Non-Exclusive):
+## My Development Tools (Recent):
   
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img alt="my technology and tools icons: HTML, CSS, Markdown, JavaScript, TypeScript, Python, Java, Rust, YAML, React, React Native, Remix, jQuery, Express, Expo, Node.js, Flask, Spring, npm, pnpm, Maven, Prisma, SQLAlchemy, Mongoose, GraphQL, VSCode, IntelliJ Idea, Postman, Ghostty, Figma, Jest, Vitest, PyTest, Junit, Tailwind CSS, Bootstrap, MaterialUI, Ant Design, Vite, Babel, Tomcat, SQLite, MySQL, PostgreSQL, Redis, Supabase, MongoDB, Digital Ocean, Shopify, Docker, Ngrok, Cloudflare, Vercel, Nginx, Google Cloud Platform, git, Github, Github Actions, Linux, Apple, Ubuntu, Windows, Sentry, Snyk, Slack, Tailscale" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,java,rust,yaml,react,reactnative,jquery,remix,express,expo,nodejs,flask,spring,npm,pnpm,maven,prisma,sqla,mongoose,graphql,vscode,idea,postman,ghostty,figma,jest,vitest,pytest,junit,vite,babel,tomcat,tailwind,bootstrap,materialui,antdesign,sqlite,mysql,postgres,redis,supabase,mongodb,digitalocean,shopify,docker,ngrok,cloudflare,vercel,nginx,gcp,git,github,githubactions,linux,apple,ubuntu,windows,sentry,snyk,slack,tailscale&perline=11&theme=auto" />
+    <img alt="my technology and tools icons: HTML, CSS, Markdown, JavaScript, TypeScript, Python, YAML, React, React Native, Remix, React Router, jQuery, Expo, Node.js, Flask, npm, pnpm, Prisma, SQLAlchemy, GraphQL, VSCode, Insomnia, Ghostty, Figma, Vitest, PyTest, Tailwind CSS, Vite, SQLite, MySQL, PostgreSQL, Redis, Supabase, Strapi, Digital Ocean, Shopify, Wordpress, Resend, Docker, Cloudflare, Google Cloud Platform, git, Github, Github Actions, MacOS, Windows, Sentry, Snyk, Slack, Tailscale, Claude, Github Copilot" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,md,js,ts,py,yaml,react,reactnative,remix,reactrouter,jquery,expo,nodejs,flask,npm,pnpm,prisma,sqla,graphql,vscode,insomnia,ghostty,figma,vitest,pytest,tailwind,vite,sqlite,mysql,postgres,redis,supabase,strapi,digitalocean,shopify,wordpress,resend,docker,cloudflare,gcp,git,github,githubactions,macos,windows,sentry,snyk,slack,tailscale,claude,githubcopilot&perline=13&theme=auto" />
   </a>
 </div>
-  <details>
-    <summary>Tools Breakdown</summary>
-    <div align=center>
-    <details>
-      <summary>Languages:</summary>
-      <p>HTML, CSS, GraphQL, JavaScript (ES6+), TypeScript, Python, Java, Rust, Markdown, YAML</p>
-    </details>
-    <details>
-      <summary>Frameworks & Runtimes:</summary>
-      <p>Expo, Flask, React, Remix, React Native, Spring, Node.js, Deno</p>
-    </details>
-    <details>
-      <summary>Dependency Management & Build Tools:</summary>
-      <p>npm, pnpm, Maven, Pipenv, Vite, Babel, Tomcat, Docker</p>
-    </details>
-    <details>
-      <summary>Style Libraries:</summary>
-      <p>Tailwind CSS, Bootstrap, Material UI, Ant Design</p>
-    </details>
-    <details>
-      <summary>Interactive Development Environments (IDEs):</summary>
-      <p>VS Code, IntelliJ Idea, Postman, Terminal</p>
-    </details>
-    <details>
-      <summary>Operation Systems (OS):</summary>
-      <p>MacOS, Linux, Android, iOS, Windows</p>
-    </details>
-    <details>
-      <summary>Developer Tools:</summary>
-      <p>Cloudflare, Figma, Git, Github, Github Actions, Ngrok, Docker, Tailscale</p>
-    </details>
-    <details>
-      <summary>Testing Libraries:</summary>
-      <p>Vitest, Jest, PyTest, JUnit, Mockito</p>
-    </details>
-    <details>
-      <summary>Object-Relational Models (ORMs), Object-Document Mappings (ODMs), Middlewares, & Other Data Persistence Tools:</summary>
-      <p>Prisma, SQLAlchemy, Java Persistence API (JPA), Java Database Connectivity (JDBC), Mongoose</p>
-    </details>
-    <details>
-      <summary>Databases:</summary>
-      <p>MySQL, PostgreSQL, Redis, SQLite, Supabase, MongoDB</p>
-    </details>
-    <details>
-      <summary>Cloud Providers:</summary>
-      <p>DigitalOcean, Google Cloud Platform, Amazon Web Services, Vercel</p>
-    </details>
-    </div>
-  </details>
-<hr/>
 <div align="center">
 
 ## Some Stats:
