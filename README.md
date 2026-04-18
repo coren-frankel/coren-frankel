@@ -49,20 +49,10 @@
     <td>
       <details>
         <summary>
-        <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B6286DAC2-83D4-428D-9286-A7AAE815DFE3%7DIMG100.JPG" alt="cover of The Survivalists by Kashana Cauley" height="200" />
+        <img src="https://vintagebookshoppe.com/wp-content/uploads/imported/Crime-and-Punishment-Penguin-Classics-B000FG14OK.jpg" alt="cover of Crime & Punishment by Fyodor Dostoyevsky" height="200" />
         </summary>
-        <a href="https://share.libbyapp.com/title/8906511" target="_blank" rel="noopener">
-          <p>Solidarity With Children: An Essay Against Adult Supremacy by Madeline Lane-McKinley</p>
-        </a>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary>
-        <img src="https://cdn-ed.haymarketbooks.org/images/000008/268/9798888904657-f_feature_retina-303bc801e95e485c92e3b4b9220b7d60.jpg20250528-21-j8yykv" alt="cover of Solidarity With Children: An Essay Against Adult Supremacy" height="200" />
-        </summary>
-        <a href="https://www.haymarketbooks.org/books/2610-solidarity-with-children" target="_blank" rel="noopener">
-          <p>Solidarity With Children: An Essay Against Adult Supremacy by Madeline Lane-McKinley</p>
+        <a href="https://share.libbyapp.com/title/2357" target="_blank" rel="noopener">
+          <p>Crime and Punishment by Fyodor Dostoyevsky</p>
         </a>
       </details>
     </td>
@@ -70,20 +60,36 @@
   <tr>
     <td align=center>
     
-[![62% complete](https://geps.dev/progress/62?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![4% complete](https://geps.dev/progress/4?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     </td>
-    <td align=center>
-    
-[![98% complete](https://geps.dev/progress/98?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
-    </td>
-  </tr>
   
 </table>
 
 <p align=center>I update this document regularly to supplement all my hidden github contributions in private repositories. Plus I enjoy it. So let's drop it!</p>
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
+  
   <tr>
+    <td>
+      <details>
+        <summary>
+        <img src="https://img2.od-cdn.com/ImageType-100/0111-1/%7B6286DAC2-83D4-428D-9286-A7AAE815DFE3%7DIMG100.JPG" alt="cover of The Survivalists by Kashana Cauley" height="120" />
+        </summary>
+        <a href="https://share.libbyapp.com/title/8906511" target="_blank" rel="noopener">
+          <p>The Survivalists by Kashana Cauley</p>
+        </a>
+      </details>
+    </td>
+    <td>
+      <details>
+        <summary>
+        <img src="https://cdn-ed.haymarketbooks.org/images/000008/268/9798888904657-f_feature_retina-303bc801e95e485c92e3b4b9220b7d60.jpg20250528-21-j8yykv" alt="cover of Solidarity With Children: An Essay Against Adult Supremacy" height="120" />
+        </summary>
+        <a href="https://www.haymarketbooks.org/books/2610-solidarity-with-children" target="_blank" rel="noopener">
+          <p>Solidarity With Children: An Essay Against Adult Supremacy by Madeline Lane-McKinley</p>
+        </a>
+      </details>
+    </td>
     <td>
       <details>
         <summary>
@@ -114,6 +120,8 @@
         </a>
       </details>
     </td>
+  </tr>
+  <tr>
     <td>
       <details>
         <summary>
@@ -130,8 +138,6 @@
         <a href="https://share.libbyapp.com/title/784583" target="_blank" rel="noopener"><p>Frankenstein: Or the Modern Prometheus by Mary Shelley</p></a>
       </details>
     </td>
-  </tr>
-  <tr>
     <td>
       <details>
         <summary><img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F7095-1%2F%257BB82F35A5-441D-4497-8EA3-F5D3B7C15911%257DIMG100.JPG" alt="cover of Bad Indians Book Club by Patty Krawec" height="120"/></summary>
@@ -156,26 +162,6 @@
         <a href="https://share.libbyapp.com/title/10649445" target="_blank" rel="noopener">
           <p>The Message by Ta-Nehisi Coates</p>
         </a>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary>
-          <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd3525k1ryd2155.cloudfront.net%2Fh%2F730%2F125%2F1121125730.0.x.jpg&f=1&nofb=1&ipt=841280899d58a7a5721a36bbcc7e2936537767c5e31eae189a97947efb564475" alt="cover of Their Eyes Were Watching God by Zora Neale Hurston" height="120"/>
-        </summary>
-        <a href="https://share.libbyapp.com/title/51182" target="_blank" rel="noopener">
-          <p>Their Eyes Were Watching God by Zora Neale Hurston</p>
-      </a>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary>
-          <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-100%2F0439-1%2F%257BE1336240-0BD9-4EFE-9D94-20B12611FD9E%257DIMG100.JPG" alt="cover of The Paleontologist by Luke Dumas" height="120"/>
-        </summary>
-        <a href="https://share.libbyapp.com/title/9599074" target="_blank" rel="noopener">
-        <p>The Paleontologist by Luke Dumas</p>
-      </a>
       </details>
     </td>
   </tr>
