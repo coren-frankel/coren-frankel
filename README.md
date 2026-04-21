@@ -26,11 +26,10 @@
 - GitHub Actions, Sentry, DigitalOcean, Render, Cloudflare Workers, Docker
 
 #### ...I've been focused on:
-- 🧪 bolstering a codebase test suite with pytest, unittest, coverage, etc.
+- 🧪 bolstering a codebases test suites with pytest, unittest, coverage, vitest, playwright, etc.
 - ✅ configuring multiple CI pipelines with Github Actions to validate code security, lint, format, test, type, & compile/build checks
-- 🎟️ iterating on a custom voucher management Shopify app built with Remix, TypeScript, Prisma, MySQL, Polaris, & Tailwind CSS
-<!-- - 📱 maintaining a PWA built with React Native, Expo, Supabase, SWR, React Native Paper, & NativeWind; Soon to publish native build to app stores! -->
-- 🔭 seeking out and taking advantage of opportunities to contribute to open-source projects
+- 🏗️ building out a custom CMS and frontend for a construction management client using strapi, React Router & postgresql.
+- 🔭 seeking out opportunities to contribute to open-source projects
 - 🆕 configuring & integrating HubSpot with existing technologies for various clients
 - 🧰 studying System Design & Architecture and DevOps best practices
 - 📖 teaching myself Rust & Golang
@@ -60,7 +59,7 @@
   <tr>
     <td align=center>
     
-[![4% complete](https://geps.dev/progress/4?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![6% complete](https://geps.dev/progress/6?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     </td>
   
 </table>
