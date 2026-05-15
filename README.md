@@ -15,7 +15,7 @@
   <caption>Yipp, yipp!</caption>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Prog+Metal,+Hip-Hop,+Snake+Jazz...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1000&vCenter=true&lines=Interests:+Human+Rights,+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror...;Tunes:+Folk,+Punk,+R%26B,+Lo-Fi,+Shoegaze,+Indie,+Progressive+Metal,+Hip-Hop,+Whale+Songs...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...;Free+Palestine!,+Black+Lives+Matter!,+Protect+Trans+Kids!,Abolish+ICE!+Resist+Fascism!)](https://git.io/typing-svg)
 
 ### Recently...
 
@@ -256,4 +256,6 @@
   ## Thanks for visiting. See you...
   
   <img src="https://media3.giphy.com/media/m9eG1qVjvN56H0MXt8/giphy.gif" alt="ok, bye" />
+
+  <p>I venerate those whose land I occupy.</p>
 </div>
