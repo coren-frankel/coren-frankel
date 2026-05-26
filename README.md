@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20View%20Count&color=4CC733&style=plastic" alt="profile view count" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1020&vCenter=true&lines=Interests:+Human+Rights,+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror,+mind...;Tunes:+Folk,+Punk,+R%26B,+Experimental,+Shoegaze,+Post-Hardcore,+Prog+Metal,+Hip-Hop,+Whale+Songs...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...;Free+Palestine!+Black+Lives+Matter!+Protect+Trans+Kids!+Abolish+ICE!+%23LANDBACK)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1020&vCenter=true&lines=Interests:+Human+Rights,+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror,+mind...;Tunes:+Folk,+Punk,+R%26B,+Shoegaze,+Post-Hardcore,+Prog+Metal,+Hip-Hop,+Whale+Songs...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...;Free+Palestine!+Black+Lives+Matter!+Protect+Trans+Kids!+Abolish+ICE!+%23LANDBACK)](https://git.io/typing-svg)
 
 ### Recently...
 
