@@ -10,9 +10,9 @@
 <div align="center">
   <img alt="sesame street yippers find computer" src="https://i.giphy.com/media/GsiBgbwZAsWsg/giphy.webp"/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20View%20Count&color=4CC733&style=plastic" alt="profile view count" />
-  <br/>
   <caption>Yipp, yipp!</caption>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=coren-frankel&label=Profile%20View%20Count&color=4CC733&style=plastic" alt="profile view count" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&color=F70000&width=1020&vCenter=true&lines=Interests:+Human+Rights,+Film,+Literature,+Art,+Philosophy,+Music,+Puzzles,+Lists...;Genres:+Horror,+Sci-Fi,+Fantasy,+Satire,+Drama,+Mystery,+Suspense...;Games:+puzzle-based,+story-driven,+role-playing,+survival-horror,+mind...;Tunes:+Folk,+Punk,+R%26B,+Experimental,+Shoegaze,+Post-Hardcore,+Prog+Metal,+Hip-Hop,+Whale+Songs...;All+work+and+no+play+makes+Kern+a+dull+something,+something.+Yada,+yada,+yada...;Free+Palestine!+Black+Lives+Matter!+Protect+Trans+Kids!+Abolish+ICE!+%23LANDBACK)](https://git.io/typing-svg)
@@ -48,6 +48,16 @@
     <td>
       <details>
         <summary>
+        <img src="https://img3.od-cdn.com/ImageType-100/1523-1/%7B3C47B2D6-4AD0-4E38-8363-D9CDECBAA5DF%7DIMG100.JPG" alt="cover of Empire of AI by Karen Hao" height="200" />
+        </summary>
+        <a href="https://share.libbyapp.com/title/11435637" target="_blank" rel="noopener">
+          <p>Empire of AI: Dreams & Nightmares in Sam Altman's OpenAI by Karen Hao</p>
+        </a>
+      </details>
+    </td>
+    <td>
+      <details>
+        <summary>
         <img src="https://vintagebookshoppe.com/wp-content/uploads/imported/Crime-and-Punishment-Penguin-Classics-B000FG14OK.jpg" alt="cover of Crime & Punishment by Fyodor Dostoyevsky" height="200" />
         </summary>
         <a href="https://share.libbyapp.com/title/2357" target="_blank" rel="noopener">
@@ -59,7 +69,11 @@
   <tr>
     <td align=center>
     
-[![45% complete](https://geps.dev/progress/45?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![14% complete](https://geps.dev/progress/14?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+    </td>
+    <td align=center>
+    
+[![47% complete](https://geps.dev/progress/47?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     </td>
   
 </table>
