@@ -69,7 +69,7 @@
   <tr>
     <td align=center>
     
-[![14% complete](https://geps.dev/progress/14?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![21% complete](https://geps.dev/progress/21?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     </td>
     <td align=center>
     
