@@ -30,9 +30,6 @@
 - ✅ configuring multiple CI pipelines with Github Actions to validate code security, lint, format, test, type, & compile/build checks
 - 🏗️ building out a custom CMS and frontend for a construction management client using strapi, React Router & postgresql.
 - 🔭 seeking out opportunities to contribute to open-source projects
-- 🆕 configuring & integrating HubSpot with existing technologies for various clients
-- 🧰 studying System Design & Architecture and DevOps best practices
-- 📖 teaching myself Rust & Golang
 - 🫔 hungry, probably
 
 #### ...I've been experimenting with newer tools & releases, like:
@@ -69,7 +66,7 @@
   <tr>
     <td align=center>
     
-[![21% complete](https://geps.dev/progress/21?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![33% complete](https://geps.dev/progress/33?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     </td>
     <td align=center>
     
