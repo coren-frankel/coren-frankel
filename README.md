@@ -20,9 +20,9 @@
 ### Recently...
 
 #### ...my recent tech stacks across personal and professional projects have included:
-- MySQL, Redis, Supabase, PostgreSQL
-- Python, Flask, SQLAlchemy
-- TypeScript, Remix (v2), React Native, React Router, Tanstack Start
+- MySQL, Redis, PostgreSQL, Supabase
+- Python, Flask, SQLAlchemy, pyrefly, ruff, poetry
+- TypeScript, Remix (v2), React Native, React Router, Tanstack Start, Expo, Next.js, pnpm, oxlint, oxfmt
 - GitHub Actions, Sentry, DigitalOcean, Render, Cloudflare Workers, Docker
 
 #### ...I've been focused on:
@@ -66,7 +66,7 @@
   <tr>
     <td align=center>
     
-[![33% complete](https://geps.dev/progress/33?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![43% complete](https://geps.dev/progress/43?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     </td>
     <td align=center>
     
