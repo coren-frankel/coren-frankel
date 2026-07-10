@@ -56,7 +56,7 @@
     <td>
       <details>
         <summary>
-        <img src="https://vintagebookshoppe.com/wp-content/uploads/imported/Crime-and-Punishment-Penguin-Classics-B000FG14OK.jpg" alt="cover of Crime & Punishment by Fyodor Dostoyevsky" height="200" />
+        <img src="https://pictures.abebooks.com/isbn/9780140440232-de.jpg" alt="cover of Crime & Punishment by Fyodor Dostoyevsky" height="200" />
         </summary>
         <a href="https://share.libbyapp.com/title/2357" target="_blank" rel="noopener">
           <p>Crime and Punishment by Fyodor Dostoyevsky</p>
