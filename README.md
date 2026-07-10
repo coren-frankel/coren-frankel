@@ -38,10 +38,6 @@
 - [Pyrefly](https://pyrefly.org/en/docs/) Fast type-checker and Python language server (you guessed it) built with Rust 🦀
 
 
-<div align=center>
-  <img alt="I voted" src="https://i3ballot-prod.s3.amazonaws.com/uploads/images/633aecac-87d1-47f4-af1b-eeaee2073bf8" height="100px" />
-</div>
-
 <hr/>
 <h3 align=center>You're likely wondering to yourself, "What's Coren reading right now?"</h3>
 <h4 align=center>Well, let me show you:</h4>
@@ -76,7 +72,7 @@
     </td>
     <td align=center>
     
-[![64% complete](https://geps.dev/progress/64?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![77% complete](https://geps.dev/progress/77?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     </td>
   
 </table>
