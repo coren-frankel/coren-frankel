@@ -268,7 +268,7 @@
 
   ## Thanks for visiting. See you...
   
-  <img src="https://media3.giphy.com/media/m9eG1qVjvN56H0MXt8/giphy.gif" alt="ok, bye" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3YwZm4zN2l6OG41ZDV1M3hlaWE4OWg4YWI5ZDU3eHNkYW0wazh1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tsGCEqxwZLvzP601WJ/giphy.gif" alt="Pingu waves goodbye" />
 
   <p>I venerate those whose land I occupy. #LANDBACK</p>
 </div>
