@@ -33,9 +33,9 @@
 - 🫔 hungry, probably
 
 #### ...I've been experimenting with newer tools & releases, like:
-- [Oxlint](https://oxc.rs/) Collection of JavaScript tools written in Rust
+- [Vite+](https://viteplus.dev/) Collection of JavaScript command line tools written in Rust
 - [Ruff](https://docs.astral.sh/ruff/) Rust-based next-gen Python linter and formatter
-- [Pyrefly](https://pyrefly.org/en/docs/) Fast type-checker and Python language server (you guessed it) built with Rust 🦀
+- [Pyrefly](https://pyrefly.org/en/docs/) Fast type-checker and Python language server (you guessed it) built in Rust 🦀
 
 
 <hr/>
