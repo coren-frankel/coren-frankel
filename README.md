@@ -81,7 +81,7 @@
     </td>
     <td align=center>
     
-[![39% complete](https://geps.dev/progress/39?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![50% complete](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     </td>
     <td align=center>
     
@@ -90,7 +90,7 @@
   
 </table>
 
-<p align=center>I update this document regularly to supplement all my hidden github contributions in private repositories. Plus I enjoy it. So let's drop it!</p>
+<p align=center>I update this document semi-regularly to supplement all my hidden github contributions in private repositories. Plus I enjoy it. So let's drop it!</p>
 <h4 align=center>And since you asked, I recently finished reading:</h4>
 <table align=center>
   
