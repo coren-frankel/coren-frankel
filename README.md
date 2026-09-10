@@ -46,6 +46,16 @@
     <td>
       <details>
         <summary>
+        <img src="https://cdn2.penguin.com.au/covers/original/9780224064408.jpg" alt="cover of Persepolis: The Story of a Childhood by Marjane Satrapi" height="200" />
+        </summary>
+        <a href="https://archive.org/details/persepolis_book1" target="_blank" rel="noopener noreferrer">
+          <p>Persepolis: The Story of a Childhood by Marjane Satrapi</p>
+        </a>
+      </details>
+    </td>
+    <td>
+      <details>
+        <summary>
         <img src="https://img2.od-cdn.com/ImageType-100/6852-1/%7B6AE80DF2-ED18-44E1-AC03-1A5676D50E16%7DIMG100.JPG" alt="cover of We Are Each Other's Liberation: Black and Asian Feminist Solidarities edited by Rachel Kuo, Jaimee A. Swift, and TD Tso" height="200" />
         </summary>
         <a href="https://share.libbyapp.com/title/11060487" target="_blank" rel="noopener noreferrer">
@@ -55,6 +65,10 @@
     </td>
   </tr>
   <tr>
+    <td align=center>
+    
+[![72% complete](https://geps.dev/progress/72?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+    </td>
     <td align=center>
     
 [![52% complete](https://geps.dev/progress/52?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
