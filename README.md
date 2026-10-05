@@ -57,7 +57,7 @@
   <tr>
     <td align="center">
     
-[![84% complete](https://geps.dev/progress/84?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![2% complete](https://geps.dev/progress/2?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     </td>
   </tr>
   
@@ -68,6 +68,16 @@
 <table align=center>
   
   <tr>
+    <td>
+      <details>
+        <summary>
+        <img src="https://img2.od-cdn.com/ImageType-100/6852-1/%7B6AE80DF2-ED18-44E1-AC03-1A5676D50E16%7DIMG100.JPG" alt="cover of We Are Each Other's Liberation: Black and Asian Feminist Solidarities edited by Rachel Kuo, Jaimee A. Swift, and TD Tso" height="120" />
+        </summary>
+        <a href="https://share.libbyapp.com/title/11060487" target="_blank" rel="noopener noreferrer">
+          <p>We Are Each Other's Liberation: Black and Asian Feminist Solidarities edited by Rachel Kuo, Jaimee A. Swift, and TD Tso</p>
+        </a>
+      </details>
+    </td>
     <td>
       <details>
         <summary>
@@ -108,6 +118,8 @@
         </a>
       </details>
     </td>
+  </tr>
+  <tr>
     <td>
       <details>
         <summary>
@@ -118,8 +130,6 @@
         </a>
       </details>
     </td>
-  </tr>
-  <tr>
     <td>
       <details>
         <summary>
@@ -157,16 +167,6 @@
         </summary>
         <a href="https://share.libbyapp.com/title/9722437" target="_blank" rel="noopener noreferrer">
           <p>Parable of the Sower by Octavia E. Butler</p>
-        </a>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary>
-          <img src="https://img3.od-cdn.com/ImageType-100/2363-1/%7B898F10A8-6441-4D60-AD3E-9BE12B4546A3%7DIMG100.JPG" alt="cover of The Actual Star by Monica Byrne" height="120" />
-        </summary>
-        <a href="https://share.libbyapp.com/title/5962319" target="_blank" rel="noopener noreferrer">
-          <p>The Actual Star by Monica Byrne</p>
         </a>
       </details>
     </td>
