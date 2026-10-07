@@ -46,10 +46,10 @@
     <td>
       <details>
         <summary>
-        <img src="https://img2.od-cdn.com/ImageType-100/6852-1/%7B6AE80DF2-ED18-44E1-AC03-1A5676D50E16%7DIMG100.JPG" alt="cover of We Are Each Other's Liberation: Black and Asian Feminist Solidarities edited by Rachel Kuo, Jaimee A. Swift, and TD Tso" height="200" />
+        <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F0116-1%2FDD7%2F4E8%2F0D%2F%257BDD74E80D-7F60-4542-8A24-A6E7ADD7D050%257DImg400.jpg" alt="cover of Thinking of Death in Plato's Euthydemus: A Close Reading & New Translation by Gwenda-lin Grewal" height="200" />
         </summary>
-        <a href="https://share.libbyapp.com/title/11060487" target="_blank" rel="noopener noreferrer">
-          <p>We Are Each Other's Liberation: Black and Asian Feminist Solidarities edited by Rachel Kuo, Jaimee A. Swift, and TD Tso</p>
+        <a href="https://share.libbyapp.com/title/8843373" target="_blank" rel="noopener noreferrer">
+          <p>Thinking of Death in Plato's Euthydemus: A Close Reading & New Translation by Gwenda-lin Grewal</p>
         </a>
       </details>
     </td>
@@ -57,7 +57,7 @@
   <tr>
     <td align="center">
     
-[![2% complete](https://geps.dev/progress/2?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![5% complete](https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     </td>
   </tr>
   
