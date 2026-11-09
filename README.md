@@ -1,4 +1,4 @@
-# Howdy, I'm Coren (he/they)
+# Howdy, I'm Coren (he/him)
 
 <p>Some call me <em>Kern</em>.</p>
 <h5>
