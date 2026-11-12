@@ -50,16 +50,6 @@
     <td>
       <details>
         <summary>
-        <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F2390-1%2F%257B23E34B92-DEF8-4CDA-A926-E1F17C5A81ED%257DIMG400.JPG" alt="cover of End Times Fascism: and the Fight for the Living World by Naomi Klein &amp; Astra Taylor" height="200">
-        </summary>
-        <a href="https://share.libbyapp.com/title/12685012" target="_blank" rel="noopener noreferrer">
-          <p>End Times Fascism: and the Fight for the Living World by Naomi Klein &amp; Astra Taylor</p>
-        </a>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary>
         <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F0116-1%2FDD7%2F4E8%2F0D%2F%257BDD74E80D-7F60-4542-8A24-A6E7ADD7D050%257DImg400.jpg" alt="cover of Thinking of Death in Plato's Euthydemus: A Close Reading & New Translation by Gwenda-lin Grewal" height="200">
         </summary>
         <a href="https://share.libbyapp.com/title/8843373" target="_blank" rel="noopener noreferrer">
@@ -70,12 +60,8 @@
   </tr>
   <tr>
     <td align="center">
-
-[![95% complete](https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
-    </td>
-    <td align="center">
     
-[![10% complete](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
+[![14% complete](https://geps.dev/progress/14?dangerColor=800000&warningColor=ff9900&successColor=006600)](https://github.com/gepser/markdown-progress)
     </td>
   </tr>
 </table>
@@ -85,6 +71,16 @@
 <table align=center>
   
   <tr>
+    <td>
+      <details>
+        <summary>
+        <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F2390-1%2F%257B23E34B92-DEF8-4CDA-A926-E1F17C5A81ED%257DIMG400.JPG" alt="cover of End Times Fascism: and the Fight for the Living World by Naomi Klein &amp; Astra Taylor" height="120">
+        </summary>
+        <a href="https://share.libbyapp.com/title/12685012" target="_blank" rel="noopener noreferrer">
+          <p>End Times Fascism: and the Fight for the Living World by Naomi Klein &amp; Astra Taylor</p>
+        </a>
+      </details>
+    </td>
     <td>
       <details>
         <summary>
@@ -125,6 +121,8 @@
         </a>
       </details>
     </td>
+  </tr>
+  <tr>
     <td>
       <details>
         <summary>
@@ -135,8 +133,6 @@
         </a>
       </details>
     </td>
-  </tr>
-  <tr>
     <td>
       <details>
         <summary>
@@ -174,16 +170,6 @@
         </summary>
         <a href="https://www.haymarketbooks.org/books/2521-how-we-get-free-updated-2nd-edition" target="_blank" rel="noopener noreferrer">
           <p>How We Get Free: Black Feminism and the Combahee River Collective edited by Keeanga-Yamahtta Taylor</p>
-        </a>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary>
-        <img src="https://images.squarespace-cdn.com/content/v1/5af9a86fc3c16a3922fe3d13/1528129635268-38KGHNCV6F495TU9P9OA/9781609807191-f_feature-da7f3fbf233ca2baf010a8008f711b75+-+Copy.jpg?format=750w" alt="cover of Parable of the Sower by Octavia E. Butler" height="120" />
-        </summary>
-        <a href="https://share.libbyapp.com/title/9722437" target="_blank" rel="noopener noreferrer">
-          <p>Parable of the Sower by Octavia E. Butler</p>
         </a>
       </details>
     </td>
